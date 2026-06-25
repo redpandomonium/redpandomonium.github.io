@@ -1,0 +1,1300 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.182562002974,
+          42.138682791231
+        ]
+      },
+      "properties": {
+        "company": "Mans Lumber | Home",
+        "operational_status": "In Operation",
+        "business_type": "Trucking/Transportation/Logistics",
+        "vehicle_type": "Local delivery trucks",
+        "fleet_size": "20 to 100 vehicles",
+        "full_address": "3300 West Jefferson, Trenton Mi 48183",
+        "street_address": "3300 West Jefferson, Trenton Mi 48183",
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "734-341-4741",
+        "email": "pgmans@manslumber.com",
+        "website": null,
+        "contact_first": "Pete",
+        "contact_last": "Mans",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.111125123905,
+          42.29989335804
+        ]
+      },
+      "properties": {
+        "company": "Mclaren Transport LLC",
+        "operational_status": "In Operation",
+        "business_type": "Trucking/Transportation/Logistics",
+        "vehicle_type": "Long-haul delivery trucks",
+        "fleet_size": "0 to 20 vehicles",
+        "full_address": "201 S Green Detroit, MI 48209",
+        "street_address": "201 S Green Detroit, MI 48209",
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "313-433-5565",
+        "email": "ali@mclarentrans.com",
+        "website": null,
+        "contact_first": "Ali",
+        "contact_last": "Saaidi",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "General Freight, Auto Parts",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.090266985342,
+          42.331116439823
+        ]
+      },
+      "properties": {
+        "company": "Horizon Freight System Inc",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2722 23rd St, Detroit, MI 48216",
+        "street_address": "2722 23rd St, Detroit, MI 48216",
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "216-341-7410",
+        "email": "chrisd@horizonfreightsystems.com",
+        "website": null,
+        "contact_first": "David",
+        "contact_last": "Ferrante",
+        "contact_role": null,
+        "open_job_count": 2,
+        "job_titles": "Dockworker Part-Time No CDL - TForce Freight | Journeyman Electrician - Commercial Installations Lead",
+        "job_types": "Part-time, Full-time",
+        "apply_urls": "Monster | Learn4Good",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.094291737282,
+          42.309301346072
+        ]
+      },
+      "properties": {
+        "company": "Concepts Transport Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "163 MORRELL ST STE 2, DETROIT, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3138433140",
+        "email": "claudiamer@hotmail.com",
+        "website": null,
+        "contact_first": "Dalila",
+        "contact_last": "Anaya",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "General Freight, Metal: sheets, coils, rolls,   Logs, Poles, Beams, Lumber,   Building Materials,  Machinery, Large Objects,   US Mail,  Beverages,  Paper Products,  Construction,  WOODEN PALLETS, ",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.114317253422,
+          42.302029495427
+        ]
+      },
+      "properties": {
+        "company": "Abrash Enterprises, Inc",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "7201 W. FORT ST. SUITE 17, DETROIT, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "313-969-0303",
+        "email": "cpalazzolo@andrewsbrothers.net",
+        "website": null,
+        "contact_first": "Charlie",
+        "contact_last": "Palazzolo",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "Refrigerated Food",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1560496,
+          42.2905599
+        ]
+      },
+      "properties": {
+        "company": "Courtesy Transfer",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1000 S OAKWOOD BLVD DETROIT, MI   48217",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "(313) 841-2699",
+        "email": "amandam0316@sbcglobal.net",
+        "website": null,
+        "contact_first": "Amanda",
+        "contact_last": "Miller",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.093553448996,
+          42.306178308255
+        ]
+      },
+      "properties": {
+        "company": "Detroit Tube Products",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "300 S Junction St, Detroit, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "313-841-0300",
+        "email": "detroittube@sbcglobal.net",
+        "website": null,
+        "contact_first": "Therese",
+        "contact_last": "Bellaimey",
+        "contact_role": null,
+        "open_job_count": 3,
+        "job_titles": "Industrial Journeyman Electrician | Premium Holidays | Instrument and Electrical Technician | Industrial Instrument & Electrical Technician \u2013 SAP Pro",
+        "job_types": "Full-time",
+        "apply_urls": "Talents By Vaia | SWE Career Center - Society Of Women Engineers | JobLeads",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.056655476332,
+          42.330153737309
+        ]
+      },
+      "properties": {
+        "company": "City of Detroit - Fire Department",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1301 3rd Street Detroit, MI 48226",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "313-596-2959",
+        "email": "communityrelations@detroitmi.gov",
+        "website": null,
+        "contact_first": "Apparatus",
+        "contact_last": "Department",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.041668435195,
+          42.348283770744
+        ]
+      },
+      "properties": {
+        "company": "Eastern Market District",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2934 Russell St, Detroit, MI 48207",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "260-494-6015",
+        "email": "dcarmody@easternmarket.org",
+        "website": null,
+        "contact_first": "Dan",
+        "contact_last": "Carmody",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.089917699682,
+          42.328306201794
+        ]
+      },
+      "properties": {
+        "company": "Churchill Transportation",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2455 24th St, Detroit, MI 48216",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "800-333-5555 ext.809",
+        "email": "joeb@churchilltrans.com",
+        "website": null,
+        "contact_first": "Joe",
+        "contact_last": "Boyle",
+        "contact_role": null,
+        "open_job_count": 3,
+        "job_titles": "CDL A Truck Driver | Linehaul | OTR Truck Driving Job | Detroit, MI | $1,775.00 per week | Class B Truck Driver",
+        "job_types": "Full-time",
+        "apply_urls": "Indeed | Swift Transportation | AAA Cooper Transportation",
+        "latest_scrape": "2026-06-02",
+        "notes": "General Freight, Chemicals Auto Freight",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.089917699682,
+          42.328306201794
+        ]
+      },
+      "properties": {
+        "company": "Churchill",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2455 24th St, Detroit, MI 48216",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3138961500",
+        "email": "load@churchilltrans.com",
+        "website": null,
+        "contact_first": "Randy",
+        "contact_last": "Churchill",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "General Freight, Chemicals Auto Freight",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.147824705748,
+          42.313925233776
+        ]
+      },
+      "properties": {
+        "company": "Gemini Transport LLC",
+        "operational_status": "In Operation",
+        "business_type": "Trucking/Transportation/Logistics ",
+        "vehicle_type": "Long-haul delivery trucks",
+        "fleet_size": "20 to 100 vehicles",
+        "full_address": "9680 Eagle St Dearborn MI 48120",
+        "street_address": "9680 Eagle St Dearborn MI 48120",
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "2483794333",
+        "email": null,
+        "website": null,
+        "contact_first": "Goran",
+        "contact_last": "Petkovich",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.156588784698,
+          42.316666403106
+        ]
+      },
+      "properties": {
+        "company": "Hello Express Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "3900 WYOMING, DEARBORN, MI 48120",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "2488957667",
+        "email": "yes.express@yahoo.com",
+        "website": null,
+        "contact_first": "Tania",
+        "contact_last": "Batiu",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "General Freight,  Household Goods,  Metal: sheets, coils, rolls,  Motor Vehicles,  Machinery, Large Objects,  Commodities Dry Bulk,  Paper Products,  AUTO PARTS",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.099885008912,
+          42.325805208003
+        ]
+      },
+      "properties": {
+        "company": "Ideal Group",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2555 CLARK ST, DETROIT, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "313-551-2279",
+        "email": "pwells@weareideal.com",
+        "website": null,
+        "contact_first": "Pat",
+        "contact_last": "Wells",
+        "contact_role": null,
+        "open_job_count": 10,
+        "job_titles": "Human Resources Assistant | Concessions Supervisor at Fox Theatre | Staffing Manager - Ford Field | Sr. Process System Engineer | Industrial Electrician: 480V Systems & PLCs (Detroit) | Senior Electrical Design Specialist | Electrical Assembler | Controls Electrician/Journeyman Electrician | Master Electrician/Supervisor | Sr. Mechanical Engineer",
+        "job_types": "Full-time, Part-time, Contractor",
+        "apply_urls": "Compass Group Careers | Learn4Good | Talents By Vaia | LinkedIn | ZipRecruiter",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.092062491611,
+          42.308442391608
+        ]
+      },
+      "properties": {
+        "company": "M&J Transport Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "232 FERDINAND ST, DETROIT, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3138433120",
+        "email": "mjt3120@att.net",
+        "website": null,
+        "contact_first": "Mark",
+        "contact_last": "Dufresne",
+        "contact_role": null,
+        "open_job_count": 1,
+        "job_titles": "CDL A Flatbed Truck Driver - Home Weekly",
+        "job_types": "Full-time",
+        "apply_urls": "Indeed",
+        "latest_scrape": "2026-06-02",
+        "notes": "Metal: sheets, coils, rolls - Temporarily closed per website",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.145411936048,
+          42.244715084413
+        ]
+      },
+      "properties": {
+        "company": "Mars Transport & Towing Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "50 CICOTTE ST, ECORSE, MI 48229",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3133883966",
+        "email": "dhmars@wmconnect.com",
+        "website": null,
+        "contact_first": "Doran",
+        "contact_last": "Chene",
+        "contact_role": null,
+        "open_job_count": 1,
+        "job_titles": "Plant Utilities and Process Systems Operator",
+        "job_types": "Full-time",
+        "apply_urls": "Learn4Good",
+        "latest_scrape": "2026-06-02",
+        "notes": "General Freight, Metal: sheets, coils, rolls, Motor Vehicles,  Drive/Tow away,  Machinery, Large Objects,  AUTOMOTIVE MOLDS",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1414675,
+          42.3098855
+        ]
+      },
+      "properties": {
+        "company": "Levy Co. (EDW. C. LEVY CO.)",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "9300 DIX AVE, DEARBORN, MI 48120",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3134054255",
+        "email": "rmaxbauer@edwclevy.net",
+        "website": null,
+        "contact_first": "Reuben",
+        "contact_last": "Maxbauer",
+        "contact_role": null,
+        "open_job_count": 2,
+        "job_titles": "Security Officers -- ALL Shifts Needed! | Head of Employee Relations & HR Compliance",
+        "job_types": "Not specified",
+        "apply_urls": "Jooble",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.147824705748,
+          42.313925233776
+        ]
+      },
+      "properties": {
+        "company": "Gemini Transport",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "9680 EAGLE ST, DEARBORN, MI 48120",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3138421980",
+        "email": "kathy@geminitrans.com",
+        "website": null,
+        "contact_first": "Kathy",
+        "contact_last": "Richards",
+        "contact_role": null,
+        "open_job_count": 1,
+        "job_titles": "Full-Time Dock Worker - Detroit, MI",
+        "job_types": "Full-time",
+        "apply_urls": "ZipRecruiter",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.074218117385,
+          42.327167229613
+        ]
+      },
+      "properties": {
+        "company": "Foreman Bros., Inc.",
+        "operational_status": "Not in Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1799 14TH ST., DETROIT, MI 48216",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "(313) 961-5049",
+        "email": "jay@foremanbrosinc.com",
+        "website": null,
+        "contact_first": "Jason",
+        "contact_last": "Foreman",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "Permanently closed - website  https://foremanbrosinc.com/  -  LARA has AR Due Date 05/15/2026",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.075118407327,
+          42.336995721654
+        ]
+      },
+      "properties": {
+        "company": "Federal Armored Truck, Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2950 ROSA PARKS BLVD, DETROIT, MI 48216",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3139611514",
+        "email": "s.barr@totalarmoredcar.com",
+        "website": null,
+        "contact_first": "Stanton",
+        "contact_last": "Barr",
+        "contact_role": null,
+        "open_job_count": 1,
+        "job_titles": "Dockworker",
+        "job_types": "Full-time",
+        "apply_urls": "Talent.com",
+        "latest_scrape": "2026-06-02",
+        "notes": "NEGOTIABLE ITEMS",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.080815930215,
+          42.324510325854
+        ]
+      },
+      "properties": {
+        "company": "Mexicantown Community Development Corporation",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "2835 BAGLEY STREET, STE.895, DETROIT, MI 48216",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "248-470-0588",
+        "email": "lozano_r@sbcglobal.net",
+        "website": null,
+        "contact_first": "Ray",
+        "contact_last": "Lozano",
+        "contact_role": null,
+        "open_job_count": 2,
+        "job_titles": "Electrical Superintendent - Industrial | Mid-Level Mechanical Engineer - Kiewit Power Engineering",
+        "job_types": "Full-time",
+        "apply_urls": "ZipRecruiter",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.196201953002,
+          42.115145774966
+        ]
+      },
+      "properties": {
+        "company": "Miles Trucking & Excavating Co.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "5621 HOOVER, TRENTON, MI 48183",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "7346757480",
+        "email": "tm@milestrucking.com",
+        "website": null,
+        "contact_first": "Timothy",
+        "contact_last": "Miles",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "Coal/Coke, Commodities Dry Bulk,  SCRAP STEEL/AUTO",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.157350601332,
+          42.30990708816
+        ]
+      },
+      "properties": {
+        "company": "AK Steel",
+        "operational_status": null,
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "4001 Miller Rd, Dearborn, MI 48120",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "513-425-2695",
+        "email": null,
+        "website": null,
+        "contact_first": "Renee",
+        "contact_last": "Filliatraut",
+        "contact_role": null,
+        "open_job_count": 3,
+        "job_titles": "Ore Dock Laborer | Electrician - Navy/Submarine | Industrial Electrician - PLCs & Plant Systems Expert",
+        "job_types": "Full-time",
+        "apply_urls": "Learn4Good | Talent.com | JobLeads",
+        "latest_scrape": "2026-06-02",
+        "notes": "Now Cleveland-Cliffs",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15016652963,
+          42.216984533811
+        ]
+      },
+      "properties": {
+        "company": "BASF",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1609 Biddle Ave, Wyandotte, MI 48192",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": "jamie.manon@basf.com",
+        "website": null,
+        "contact_first": "Jamie",
+        "contact_last": "Manon",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.063160802766,
+          42.326365228128
+        ]
+      },
+      "properties": {
+        "company": "AGI Construction",
+        "operational_status": null,
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1211 Trumbull, Detroit, MI 48216",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": "tanya@agidetroit.com",
+        "website": null,
+        "contact_first": "Tanya",
+        "contact_last": "Ali",
+        "contact_role": null,
+        "open_job_count": 2,
+        "job_titles": "President \u2013 Asphalt Paving Construction | Journeymen & Apprentice Electricians (State of MI Journeyman or 3rd/4th year Apprentice License)",
+        "job_types": "Full-time",
+        "apply_urls": "Glassdoor | BeBee",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.062120762416,
+          42.329264831904
+        ]
+      },
+      "properties": {
+        "company": "Granger Construction Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1441 Brooklyn St Suite 400, Detroit, MI 48226",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "5173931670",
+        "email": null,
+        "website": null,
+        "contact_first": "Tom",
+        "contact_last": "Owens",
+        "contact_role": null,
+        "open_job_count": 6,
+        "job_titles": "Experienced Commercial Apprentice Electrician | Experienced Commerical Apprentice Electrician | Commercial Journeyman Electrician | Commercial Electrical Foreman | Commercial Electrical Foreman (Licensed \u2013 Commercial Projects) | Experienced Commercial Electrical Apprentice",
+        "job_types": "Full-time",
+        "apply_urls": "LinkedIn",
+        "latest_scrape": "2026-06-02",
+        "notes": "6267 AURELIUS RD, LANSING, MI 48911-4230 - LARA",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.151678592075,
+          42.203075239635
+        ]
+      },
+      "properties": {
+        "company": "DMB Transportation Service Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "201 ELM ST STE B, WYANDOTTE, MI 48192",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": "dbalazsi@dmbtrans.com",
+        "website": null,
+        "contact_first": "Dave",
+        "contact_last": "Balazsi",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.134311321626,
+          42.338147443971
+        ]
+      },
+      "properties": {
+        "company": "BRIDGING COMMUNITIES, INC",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "6900 MCGRAW AVE, DETROIT, MI 48210",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": "g.white@bridgingcommunities.org",
+        "website": null,
+        "contact_first": "Gabrielle",
+        "contact_last": "White",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.091734671938,
+          42.311563544106
+        ]
+      },
+      "properties": {
+        "company": "Bridgewater Interiors",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "4617 W FORT STREET, DETROIT, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": "Maria.G.Prado@bridgewater-interiors.com",
+        "website": null,
+        "contact_first": "Maria",
+        "contact_last": "Prado",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1503028,
+          42.2972597
+        ]
+      },
+      "properties": {
+        "company": "Delta Trucking Co.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "9300 DIX AVENUE, DEARBORN, MI 48120",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "2483488511",
+        "email": null,
+        "website": null,
+        "contact_first": "Evan",
+        "contact_last": "Weiner",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.155779162311,
+          42.286976673501
+        ]
+      },
+      "properties": {
+        "company": "Marathon Refinery Detroit (Marathon Petroleum Corporation)",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1001 South Oakwood Ave. Detroit, MI 48217",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": "hfsheard@marathonpetroleum.com",
+        "website": null,
+        "contact_first": "Honor",
+        "contact_last": "Sheard",
+        "contact_role": null,
+        "open_job_count": 31,
+        "job_titles": "Welder, Pipe Welder, Refinery | Instrumentation Technician, Refinery | Refining Engineer 1 - Electrical Engineer - Intern to Full-Time Conversion | Materials Management Advisor | Craftsman/Welder | Equipment Mechanic/Motor Pool Technician | Instrument Technician \u2013 Refinery Calibrations & Troubleshooting | Instrument Technician \u2013 Refineries, Great Benefits | Instrument Technician \u2013 Refineries | Maintenance Craftsman, Welder",
+        "job_types": "Full-time",
+        "apply_urls": "Energy Job Shop | Talents By Vaia | LinkedIn | ZipRecruiter | Indeed",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.169643817454,
+          42.170678972096
+        ]
+      },
+      "properties": {
+        "company": "FTI / 2810026 Canada, Ltd. (FUELS TRANSPORTATION INC)",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1 WEST JEFFERSON TRENTON, MI   48183",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "3132950502",
+        "email": null,
+        "website": null,
+        "contact_first": "Dan",
+        "contact_last": "Braatz",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "Liquids/Gases",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.120334715562,
+          42.306374713421
+        ]
+      },
+      "properties": {
+        "company": "All Stars Truck Driving School",
+        "operational_status": null,
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "1411 Central Ave, Detroit, MI 48209",
+        "street_address": "1411 Central Ave, Detroit, MI 48209",
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": "313-841-2222",
+        "email": null,
+        "website": null,
+        "contact_first": null,
+        "contact_last": null,
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.119074017515,
+          42.333450196827
+        ]
+      },
+      "properties": {
+        "company": "Hacienda Foods (Hacienda Mexican Foods)",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "6100 Buchanan St, Detroit, MI 48210",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": null,
+        "website": null,
+        "contact_first": "Lydia",
+        "contact_last": "Gutierrez",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.131113709222,
+          42.323915182334
+        ]
+      },
+      "properties": {
+        "company": "LUCO Inc.",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "7414 CLAYTON, DETROIT, MI 48210",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": null,
+        "website": null,
+        "contact_first": "Doug",
+        "contact_last": "Mathews",
+        "contact_role": null,
+        "open_job_count": 16,
+        "job_titles": "3D Field Technician - Michigan | GROUP SALES COORDINATOR | Bonding Process Engineer \u2014 Automotive Innovator | Bonding Process Engineer: Optimize Automotive Manufacturing | Industrial Electrician | Building Maintenance Technician (Electrician) | Electrical Foreman | Electrical Qualification Agent - Full-time | Industrial Maintenance Electrician | Automation Electrician \u2014 PLCs, Robots & Wiring",
+        "job_types": "Full-time, Not specified",
+        "apply_urls": "LinkedIn | SalesJobs.com | JobLeads | Tradesmen International | Indeed",
+        "latest_scrape": "2026-06-02",
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.121652264097,
+          42.29918392776
+        ]
+      },
+      "properties": {
+        "company": "Container Port Group",
+        "operational_status": "In Operation",
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "8501 W Fort St, Detroit, MI 48209",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": null,
+        "website": null,
+        "contact_first": "Steve",
+        "contact_last": "Nowak",
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": null,
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.153687430104,
+          42.29222941698
+        ]
+      },
+      "properties": {
+        "company": "Alco",
+        "operational_status": null,
+        "business_type": null,
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "575 Fordson St, Detroit, MI 48217",
+        "street_address": null,
+        "city": null,
+        "state": null,
+        "zip": null,
+        "phone": null,
+        "email": null,
+        "website": null,
+        "contact_first": null,
+        "contact_last": null,
+        "contact_role": null,
+        "open_job_count": 0,
+        "job_titles": null,
+        "job_types": null,
+        "apply_urls": null,
+        "latest_scrape": null,
+        "notes": "Alco Express Co",
+        "geocode_source": "Census"
+      }
+    }
+  ]
+}
