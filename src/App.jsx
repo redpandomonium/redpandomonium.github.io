@@ -43,12 +43,19 @@ function FlyToTarget({ target }) {
 function App() {
   const [employers, setEmployers] = useState([])
   const [selected, setSelected] = useState(null)
+  const itemRefs = useRef({})
 
   useEffect(() => {
     fetch('/employers_geocoded.geojson')
       .then(res => res.json())
       .then(data => setEmployers(data.features))
   }, [])
+
+  useEffect(() => {
+    if (selected) {
+      itemRefs.current[selected.id]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
+    }
+  }, [selected])
 
   const handleSelect = (feature) => {
     const [lng, lat] = feature.geometry.coordinates
@@ -61,9 +68,9 @@ function App() {
         <img src="/Small signature logo.png" alt="Logo" className="logo-overlay" />
         <MapContainer
           center={[42.2955, -83.1114]}
-          zoom={12}
-          minZoom={11}
-          maxBounds={[[42.1, -83.4], [42.5, -82.8]]}
+          zoom={11}
+          minZoom={10}
+          maxBounds={[[41.95, -84.0], [42.8, -82.65]]}
           maxBoundsViscosity={1.0}
           zoomControl={false}
           style={{ height: '100%', width: '100%' }}
@@ -107,6 +114,7 @@ function App() {
             return (
               <div
                 key={i}
+                ref={el => { itemRefs.current[company] = el }}
                 className={`employer-item${isActive ? ' active' : ''}`}
                 onClick={() => handleSelect(feature)}
               >

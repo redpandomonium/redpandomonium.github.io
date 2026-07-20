@@ -1,0 +1,452 @@
+{
+  "4526 Marathon Refining Logistics Services LLC": {
+    "lon": -83.156056692779,
+    "lat": 42.286912752497,
+    "source": "Census"
+  },
+  "ABM Industries": {
+    "lon": -83.046360476623,
+    "lat": 42.32931440979,
+    "source": "Census"
+  },
+  "Ajax Paving Industries": {
+    "lon": -83.166800767357,
+    "lat": 42.551899968846,
+    "source": "Census"
+  },
+  "Amrize": {
+    "lon": -83.122259579725,
+    "lat": 42.30444414268,
+    "source": "Census"
+  },
+  "Amsted Automotive": {
+    "lon": -83.248274036359,
+    "lat": 42.479756598336,
+    "source": "Census"
+  },
+  "Apex Systems": {
+    "lon": -83.242921651741,
+    "lat": 42.47607463597,
+    "source": "Census"
+  },
+  "Aramark": {
+    "lon": -83.097013092206,
+    "lat": 42.387543749396,
+    "source": "Census"
+  },
+  "Bakelite": {
+    "lon": -83.4402181,
+    "lat": 42.5766012,
+    "source": "Nominatim"
+  },
+  "Burns & McDonnell": {
+    "lon": -83.051481094618,
+    "lat": 42.337746643176,
+    "source": "Census"
+  },
+  "C100 Quaker Houghton US OPS": {
+    "lon": -83.164701735501,
+    "lat": 42.391577119491,
+    "source": "Census"
+  },
+  "Carmeuse Lime & Stone": {
+    "lon": -83.128647539876,
+    "lat": 42.277369460868,
+    "source": "Census"
+  },
+  "Challenge Manufacturing": {
+    "lon": -83.2570402,
+    "lat": 42.6148581,
+    "source": "Nominatim"
+  },
+  "Children's Hospital of Michigan": {
+    "lon": -83.053842434801,
+    "lat": 42.351812811091,
+    "source": "Census"
+  },
+  "Cleveland-Cliffs Ferrous Processing & Trade": {
+    "lon": -83.042078495256,
+    "lat": 42.341800530454,
+    "source": "Census"
+  },
+  "Coast Guard Community Services Command": {
+    "lon": -83.008324354778,
+    "lat": 42.341231254795,
+    "source": "Census"
+  },
+  "Continuum Services": {
+    "lon": -83.428417082376,
+    "lat": 42.465613564729,
+    "source": "Census"
+  },
+  "CoolSys": {
+    "lon": -83.287056250529,
+    "lat": 42.679737221487,
+    "source": "Census"
+  },
+  "Daimler Truck North America LLC.": {
+    "lon": -83.261090660795,
+    "lat": 42.376342456308,
+    "source": "Census"
+  },
+  "Daniels Health": {
+    "lon": -83.4182764258,
+    "lat": 42.325237708015,
+    "source": "Census"
+  },
+  "Dayton Freight Lines": {
+    "lon": -83.336247177594,
+    "lat": 42.670688566343,
+    "source": "Census"
+  },
+  "Depot-Connect-International": {
+    "lon": -83.111542070351,
+    "lat": 42.300231286209,
+    "source": "Census"
+  },
+  "Detroit Manufacturing Systems": {
+    "lon": -83.21795473969,
+    "lat": 42.382637483999,
+    "source": "Census"
+  },
+  "Detroit Thermal Systems, LLC": {
+    "lon": -83.416123202725,
+    "lat": 42.25878804539,
+    "source": "Census"
+  },
+  "Detroit/Wayne County Port Authority": {
+    "lon": -83.040552225107,
+    "lat": 42.328860197879,
+    "source": "Census"
+  },
+  "Dinsmore & Shohl LLP": {
+    "lon": -83.160662058,
+    "lat": 42.561911952666,
+    "source": "Census"
+  },
+  "DO & CO AG": {
+    "lon": -83.362189339618,
+    "lat": 42.222937770166,
+    "source": "Census"
+  },
+  "Dorsey Schools": {
+    "lon": -83.222202077893,
+    "lat": 42.329045364729,
+    "source": "Census"
+  },
+  "DP World": {
+    "lon": -82.994218826397,
+    "lat": 42.351753187617,
+    "source": "Census"
+  },
+  "DTE Energy - Downtown Detroit": {
+    "lon": -83.0569582,
+    "lat": 42.3336192,
+    "source": "Nominatim"
+  },
+  "DTE Energy - River Rouge": {
+    "lon": -83.124632386844,
+    "lat": 42.270582193109,
+    "source": "Census"
+  },
+  "DTE Eng Corp Svcs LLC": {
+    "lon": -83.0569582,
+    "lat": 42.3336192,
+    "source": "Nominatim"
+  },
+  "DTE Vantage": {
+    "lon": -83.1134794,
+    "lat": 42.2794689,
+    "source": "Nominatim"
+  },
+  "EPITEC": {
+    "lon": -83.24118814039,
+    "lat": 42.485023778395,
+    "source": "Census"
+  },
+  "Estes Express Lines": {
+    "lon": -83.308217646311,
+    "lat": 42.239226929255,
+    "source": "Census"
+  },
+  "EXCLUSIVE HEATING AND COOLING COMPANY, INCORPORATED": {
+    "lon": -83.121258789978,
+    "lat": 42.392005276697,
+    "source": "Census"
+  },
+  "Flame Furnace Company": {
+    "lon": -83.082455902692,
+    "lat": 42.490705407937,
+    "source": "Census"
+  },
+  "Ford Field - Levy Restaurants": {
+    "lon": -83.046637,
+    "lat": 42.338967,
+    "source": "Nominatim"
+  },
+  "Ford Motor Company": {
+    "lon": -83.2100807,
+    "lat": 42.3144573,
+    "source": "Nominatim"
+  },
+  "General Motors": {
+    "lon": -83.028733392778,
+    "lat": 42.513580205479,
+    "source": "Census"
+  },
+  "Great Lakes Water Authority": {
+    "lon": -83.044292045493,
+    "lat": 42.333186248368,
+    "source": "Census"
+  },
+  "HERCULES CONCRETE, LLC": {
+    "lon": -83.0804926,
+    "lat": 42.3144188,
+    "source": "Nominatim"
+  },
+  "Hired In Michigan Community Empowerment": {
+    "lon": -83.246095160603,
+    "lat": 42.475124354162,
+    "source": "Census"
+  },
+  "Holcim Ltd.": {
+    "lon": -83.122259579725,
+    "lat": 42.30444414268,
+    "source": "Census"
+  },
+  "IMC Logistics": {
+    "lon": -83.130534155709,
+    "lat": 42.317218958547,
+    "source": "Census"
+  },
+  "IMEG Corp.": {
+    "lon": -83.352496842622,
+    "lat": 42.470234791803,
+    "source": "Census"
+  },
+  "Johnson Controls": {
+    "lon": -83.091642401299,
+    "lat": 42.311603599576,
+    "source": "Census"
+  },
+  "Johnstone Supply LLC": {
+    "lon": -83.170999119492,
+    "lat": 42.395054234792,
+    "source": "Census"
+  },
+  "Link Engineering Company": {
+    "lon": -83.15961992968,
+    "lat": 42.244982120007,
+    "source": "Census"
+  },
+  "Linked Professional Services": {
+    "lon": -83.042962797478,
+    "lat": 42.594614223993,
+    "source": "Census"
+  },
+  "Livonia Public Schools": {
+    "lon": -83.373565490811,
+    "lat": 42.394781708875,
+    "source": "Census"
+  },
+  "Marine Pollution Control Corporation": {
+    "lon": -83.120037750824,
+    "lat": 42.289146598353,
+    "source": "Census"
+  },
+  "Medxcel": {
+    "lon": -83.082686737197,
+    "lat": 42.366931017945,
+    "source": "Census"
+  },
+  "Moore Mechanical": {
+    "lon": -83.492544643289,
+    "lat": 42.484549640432,
+    "source": "Census"
+  },
+  "OEC, LLC": {
+    "lon": -83.022585155799,
+    "lat": 42.392786998715,
+    "source": "Census"
+  },
+  "Perigee Manufacturing Company": {
+    "lon": -83.146419279919,
+    "lat": 42.391271787562,
+    "source": "Census"
+  },
+  "PrimeFlight GSE Maintenance": {
+    "lon": -83.3529754,
+    "lat": 42.2056991,
+    "source": "Nominatim"
+  },
+  "Progressive Companies": {
+    "lon": -83.069497688405,
+    "lat": 42.371504262351,
+    "source": "Census"
+  },
+  "PURIS": {
+    "lon": -83.100358113339,
+    "lat": 42.331370198202,
+    "source": "Census"
+  },
+  "Raizan Solutions LLC": {
+    "lon": -83.162594980744,
+    "lat": 42.562196238264,
+    "source": "Census"
+  },
+  "Republic Services": {
+    "lon": -83.04783049601,
+    "lat": 42.365954677275,
+    "source": "Census"
+  },
+  "RSC Mechanical": {
+    "lon": -82.95307845766,
+    "lat": 42.618044616719,
+    "source": "Census"
+  },
+  "Savage Services": {
+    "lon": -83.170668288336,
+    "lat": 42.275688744947,
+    "source": "Census"
+  },
+  "Sheetz": {
+    "lon": -83.3680675,
+    "lat": 42.2379275,
+    "source": "Nominatim"
+  },
+  "Smyrna Ready Mix, LLC": {
+    "lon": -83.099066349655,
+    "lat": 42.432281486532,
+    "source": "Census"
+  },
+  "SODECIA AUTOMOTIVE DETROIT CORP": {
+    "lon": -83.036366943887,
+    "lat": 42.472851896922,
+    "source": "Census"
+  },
+  "Southwest Economic Solutions": {
+    "lon": -83.080815930215,
+    "lat": 42.324510325854,
+    "source": "Census"
+  },
+  "SRM Concrete": {
+    "lon": -83.099066349655,
+    "lat": 42.432281486532,
+    "source": "Census"
+  },
+  "St Marys Cement (US)": {
+    "lon": -83.1288408717,
+    "lat": 42.293018368176,
+    "source": "Census"
+  },
+  "State of Michigan": {
+    "lon": -83.075641541464,
+    "lat": 42.369194890816,
+    "source": "Census"
+  },
+  "Stellantis": {
+    "lon": -82.976739869148,
+    "lat": 42.380413817461,
+    "source": "Census"
+  },
+  "Stellar Materials, LLC": {
+    "lon": -83.778159593224,
+    "lat": 42.428802336568,
+    "source": "Census"
+  },
+  "SunSource": {
+    "lon": -83.044333741635,
+    "lat": 42.588920001379,
+    "source": "Census"
+  },
+  "Superior Materials": {
+    "lon": -83.352192475751,
+    "lat": 42.470243529593,
+    "source": "Census"
+  },
+  "Talascend, LLC": {
+    "lon": -83.167439146289,
+    "lat": 42.595984630235,
+    "source": "Census"
+  },
+  "TanTara Transportation Corp.": {
+    "lon": -83.378616359183,
+    "lat": 42.223215411403,
+    "source": "Census"
+  },
+  "Tencarva Machinery Company": {
+    "lon": -82.997436738691,
+    "lat": 42.469098440122,
+    "source": "Census"
+  },
+  "Tenet Healthcare": {
+    "lon": -83.053515659079,
+    "lat": 42.353966621556,
+    "source": "Census"
+  },
+  "The City of Warren": {
+    "lon": -83.0252935,
+    "lat": 42.5116027,
+    "source": "Nominatim"
+  },
+  "The Detroit Salt Company": {
+    "lon": -83.148667989226,
+    "lat": 42.285957013229,
+    "source": "Census"
+  },
+  "Thornton & Grooms Heating, Cooling & Plumbing": {
+    "lon": -83.41710168246,
+    "lat": 42.472391755491,
+    "source": "Census"
+  },
+  "TRIGO": {
+    "lon": -83.242956826524,
+    "lat": 42.678402569929,
+    "source": "Census"
+  },
+  "US Customs and Border Protection": {
+    "lon": -83.076477465026,
+    "lat": 42.318285863448,
+    "source": "Census"
+  },
+  "Votorantim Cimentos North America (VCNA)": {
+    "lon": -83.1288408717,
+    "lat": 42.293018368176,
+    "source": "Census"
+  },
+  "Wade Trim": {
+    "lon": -83.04604023622,
+    "lat": 42.329130996159,
+    "source": "Census"
+  },
+  "Waterfront Petroleum Terminal Company & NIMM": {
+    "lon": -83.093712222828,
+    "lat": 42.302809109599,
+    "source": "Census"
+  },
+  "Wayne County Government": {
+    "lon": -83.04604023622,
+    "lat": 42.329130996159,
+    "source": "Census"
+  },
+  "Wayne County Schools Employment Network": {
+    "lon": -83.367702755594,
+    "lat": 42.26707688969,
+    "source": "Census"
+  },
+  "Wayne RESA": {
+    "lon": -83.367702755594,
+    "lat": 42.26707688969,
+    "source": "Census"
+  },
+  "Wayne State University": {
+    "lon": -83.06472070994,
+    "lat": 42.356926057925,
+    "source": "Census"
+  },
+  "Winson Electric": {
+    "lon": -83.807475362526,
+    "lat": 42.283783363839,
+    "source": "Census"
+  }
+}

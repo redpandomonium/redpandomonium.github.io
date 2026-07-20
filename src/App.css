@@ -21,7 +21,7 @@
 }
 
 .sidebar {
-  width: 300px;
+  width: clamp(220px, 18vw, 340px);
   flex-shrink: 0;
   background: #1a1b22;
   color: #d1d5db;
