@@ -53,7 +53,7 @@ function FlyToTarget({ target }) {
   const map = useMap()
   const prevTarget = useRef(null)
 
-  useEffect(() => {
+  useEffect(() => { 
     if (target && target !== prevTarget.current) {
       prevTarget.current = target
       map.flyTo([target.lat, target.lng], 15, { duration: 1.2 })
