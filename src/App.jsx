@@ -1,17 +1,18 @@
-import { memo, useEffect, useRef, useState } from 'react'
+import { memo, useEffect, useMemo, useRef, useState } from 'react'
 import 'leaflet/dist/leaflet.css'
 import { MapContainer, TileLayer, CircleMarker, Tooltip, useMap, ZoomControl } from 'react-leaflet'
+import { CATEGORY_COLORS, colorForCategory } from './categoryColors'
 import './App.css'
 
-const EmployerMarker = memo(function EmployerMarker({ lat, lng, company, full_address, business_type, open_job_count, isActive, onSelect }) {
+const EmployerMarker = memo(function EmployerMarker({ lat, lng, company, full_address, category, sub_category, open_job_count, isActive, onSelect }) {
   return (
     <CircleMarker
       center={[lat, lng]}
       radius={isActive ? 11 : 8}
       pathOptions={{
-        color: isActive ? '#fff' : '#66b245',
-        fillColor: '#689cca',
-        fillOpacity: isActive ? 1 : 0.8,
+        color: isActive ? '#fff' : 'rgba(0, 0, 0, 0.35)',
+        fillColor: colorForCategory(category),
+        fillOpacity: isActive ? 1 : 0.85,
         weight: isActive ? 2 : 1,
       }}
       eventHandlers={{ click: onSelect }}
@@ -19,12 +20,34 @@ const EmployerMarker = memo(function EmployerMarker({ lat, lng, company, full_ad
       <Tooltip>
         <strong>{company}</strong><br />
         {full_address}<br />
-        {business_type}<br />
+        {category}{sub_category ? ` · ${sub_category}` : ''}<br />
         {open_job_count} open job{open_job_count !== 1 ? 's' : ''}
       </Tooltip>
     </CircleMarker>
   )
 })
+
+function CategoryLegend({ counts, activeCategories, onToggle }) {
+  return (
+    <div className="category-legend">
+      {Object.keys(CATEGORY_COLORS).map(category => {
+        const isActive = activeCategories.has(category)
+        return (
+          <button
+            key={category}
+            type="button"
+            className={`legend-item${isActive ? '' : ' inactive'}`}
+            onClick={() => onToggle(category)}
+          >
+            <span className="category-swatch" style={{ backgroundColor: CATEGORY_COLORS[category] }} />
+            <span className="legend-label">{category}</span>
+            <span className="legend-count">{counts[category] || 0}</span>
+          </button>
+        )
+      })}
+    </div>
+  )
+}
 
 function FlyToTarget({ target }) {
   const map = useMap()
@@ -43,6 +66,7 @@ function FlyToTarget({ target }) {
 function App() {
   const [employers, setEmployers] = useState([])
   const [selected, setSelected] = useState(null)
+  const [activeCategories, setActiveCategories] = useState(() => new Set(Object.keys(CATEGORY_COLORS)))
   const itemRefs = useRef({})
 
   useEffect(() => {
@@ -56,6 +80,29 @@ function App() {
       itemRefs.current[selected.id]?.scrollIntoView({ behavior: 'smooth', block: 'nearest' })
     }
   }, [selected])
+
+  const categoryCounts = useMemo(() => {
+    const counts = {}
+    for (const feature of employers) {
+      const category = feature.properties.category || 'Needs Review'
+      counts[category] = (counts[category] || 0) + 1
+    }
+    return counts
+  }, [employers])
+
+  const visibleEmployers = useMemo(
+    () => employers.filter(feature => activeCategories.has(feature.properties.category || 'Needs Review')),
+    [employers, activeCategories]
+  )
+
+  const toggleCategory = (category) => {
+    setActiveCategories(prev => {
+      const next = new Set(prev)
+      if (next.has(category)) next.delete(category)
+      else next.add(category)
+      return next
+    })
+  }
 
   const handleSelect = (feature) => {
     const [lng, lat] = feature.geometry.coordinates
@@ -81,9 +128,9 @@ function App() {
             attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>'
           />
           <FlyToTarget target={selected} />
-          {employers.map((feature, i) => {
+          {visibleEmployers.map((feature, i) => {
             const [lng, lat] = feature.geometry.coordinates
-            const { company, full_address, business_type, open_job_count } = feature.properties
+            const { company, full_address, category, sub_category, open_job_count } = feature.properties
             return (
               <EmployerMarker
                 key={i}
@@ -91,7 +138,8 @@ function App() {
                 lng={lng}
                 company={company}
                 full_address={full_address}
-                business_type={business_type}
+                category={category}
+                sub_category={sub_category}
                 open_job_count={open_job_count}
                 isActive={selected?.id === company}
                 onSelect={() => handleSelect(feature)}
@@ -104,11 +152,12 @@ function App() {
       <div className="sidebar">
         <div className="sidebar-header">
           <h2>Employers</h2>
-          <p>{employers.length} locations</p>
+          <p>{visibleEmployers.length} locations</p>
         </div>
+        <CategoryLegend counts={categoryCounts} activeCategories={activeCategories} onToggle={toggleCategory} />
         <div className="employer-list">
-          {employers.map((feature, i) => {
-            const { company, business_type, open_job_count, job_titles } = feature.properties
+          {visibleEmployers.map((feature, i) => {
+            const { company, category, sub_category, open_job_count, job_titles } = feature.properties
             const isActive = selected?.id === company
             const titles = job_titles ? job_titles.split(' | ').filter(Boolean) : []
             return (
@@ -119,7 +168,11 @@ function App() {
                 onClick={() => handleSelect(feature)}
               >
                 <div className="company-name">{company}</div>
-                <div className="business-type">{business_type || 'Unknown type'}</div>
+                <div className="category-line">
+                  <span className="category-swatch" style={{ backgroundColor: colorForCategory(category) }} />
+                  {category || 'Needs Review'}
+                </div>
+                {sub_category && <div className="sub-category-line">{sub_category}</div>}
                 <span className={`job-badge${open_job_count === 0 ? ' no-jobs' : ''}`}>
                   {open_job_count} open job{open_job_count !== 1 ? 's' : ''}
                 </span>

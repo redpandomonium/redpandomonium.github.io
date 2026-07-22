@@ -1,72 +1,44 @@
-"""Assemble the final employers_geocoded.geojson from companies.json
-(all 127 merged companies) + geocode_cache.json (lat/long for the 90 that
-didn't already have coordinates), writing both the root and public copies
-in the schema App.jsx expects.
+"""Assemble the final employers_geocoded.geojson from employers_master.xlsx
+(Employers sheet), writing both the root and public copies in the schema
+App.jsx expects.
 """
 import json
+import openpyxl
 
-COMPANIES_JSON = "companies.json"
-CACHE_PATH = "geocode_cache.json"
+MASTER_XLSX = "employers_master.xlsx"
+SHEET_NAME = "Employers"
 OUTPUT_PATHS = ["employers_geocoded.geojson", "public/employers_geocoded.geojson"]
 
 PROPERTY_COLUMNS = [
-    "company", "operational_status", "business_type", "vehicle_type",
-    "fleet_size", "full_address", "street_address", "city", "state", "zip",
-    "phone", "email", "website", "contact_first", "contact_last",
+    "company", "operational_status", "business_type", "category", "sub_category",
+    "vehicle_type", "fleet_size", "full_address", "street_address", "city", "state",
+    "zip", "phone", "email", "website", "contact_first", "contact_last",
     "contact_role", "open_job_count", "job_titles", "job_types",
-    "apply_urls", "latest_scrape", "notes",
+    "apply_urls", "latest_scrape", "notes", "geocode_source",
 ]
 
 
-def job_titles_string(jobs):
-    if not jobs:
-        return None
-    titles = [j.get("title") for j in jobs if j.get("title")]
-    return " | ".join(titles) if titles else None
-
-
-def job_types_string(jobs):
-    if not jobs:
-        return None
-    types = sorted({j.get("job_type") for j in jobs if j.get("job_type")})
-    return ", ".join(types) if types else None
-
-
-def apply_urls_string(jobs):
-    if not jobs:
-        return None
-    sources = sorted({j.get("source") for j in jobs if j.get("source")})
-    return " | ".join(sources) if sources else None
-
-
 def main():
-    with open(COMPANIES_JSON) as f:
-        companies = json.load(f)
-    with open(CACHE_PATH) as f:
-        cache = json.load(f)
+    wb = openpyxl.load_workbook(MASTER_XLSX, read_only=True)
+    ws = wb[SHEET_NAME]
+    rows = ws.iter_rows(values_only=True)
+    header = next(rows)
 
     features = []
     skipped = []
 
-    for rec in companies:
-        company = rec["company"]
-        jobs = rec.get("jobs") or []
+    for row in rows:
+        rec = dict(zip(header, row))
+        company = rec.get("company")
+        if not company:
+            continue
 
-        if rec.get("latitude") is not None and rec.get("longitude") is not None:
-            lon, lat, source = rec["longitude"], rec["latitude"], (rec.get("geocode_source") or "Census")
-        else:
-            entry = cache.get(company)
-            if not entry:
-                skipped.append(company)
-                continue
-            lon, lat, source = entry["lon"], entry["lat"], entry["source"]
+        lat, lon = rec.get("lat"), rec.get("lon")
+        if lat is None or lon is None:
+            skipped.append(company)
+            continue
 
         properties = {col: rec.get(col) for col in PROPERTY_COLUMNS}
-        properties["open_job_count"] = rec.get("matched_job_count", rec.get("open_job_count"))
-        properties["job_titles"] = job_titles_string(jobs) or rec.get("job_titles")
-        properties["job_types"] = job_types_string(jobs) or rec.get("job_types")
-        properties["apply_urls"] = apply_urls_string(jobs) or rec.get("apply_urls")
-        properties["geocode_source"] = source
 
         features.append({
             "type": "Feature",
