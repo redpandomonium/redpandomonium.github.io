@@ -217,6 +217,17 @@
   border-bottom: none;
 }
 
+.job-title-link {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.job-title-link:hover,
+.job-title-link:focus-visible {
+  color: #93c5fd;
+  text-decoration: underline;
+}
+
 /* Leaflet tooltip overrides */
 .leaflet-tooltip {
   background: #1a1b22;

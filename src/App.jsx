@@ -157,9 +157,10 @@ function App() {
         <CategoryLegend counts={categoryCounts} activeCategories={activeCategories} onToggle={toggleCategory} />
         <div className="employer-list">
           {visibleEmployers.map((feature, i) => {
-            const { company, category, sub_category, open_job_count, job_titles } = feature.properties
+            const { company, category, sub_category, open_job_count, job_titles, apply_urls } = feature.properties
             const isActive = selected?.id === company
             const titles = job_titles ? job_titles.split(' | ').filter(Boolean) : []
+            const urls = apply_urls ? apply_urls.split(' | ') : []
             return (
               <div
                 key={i}
@@ -178,9 +179,27 @@ function App() {
                 </span>
                 {isActive && titles.length > 0 && (
                   <ul className="job-titles-list">
-                    {titles.map((title, j) => (
-                      <li key={j}>{title}</li>
-                    ))}
+                    {titles.map((title, j) => {
+                      const url = urls[j]
+                      const hasRealUrl = url && /^https?:\/\//.test(url)
+                      return (
+                        <li key={j}>
+                          {hasRealUrl ? (
+                            <a
+                              href={url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="job-title-link"
+                              onClick={e => e.stopPropagation()}
+                            >
+                              {title}
+                            </a>
+                          ) : (
+                            title
+                          )}
+                        </li>
+                      )
+                    })}
                   </ul>
                 )}
               </div>
