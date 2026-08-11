@@ -124,6 +124,130 @@
   text-overflow: ellipsis;
 }
 
+/* --- Corridor scope filter ------------------------------------------------
+   Scope reflects the 12 target ZIP codes. Out-of-corridor employers stay on
+   the map, drawn hollow rather than hidden, matching the marker styling. */
+
+.scope-filter {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding: 8px;
+  border-bottom: 1px solid #2e303a;
+}
+
+.scope-filter-title {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #6b7280;
+  font-weight: 600;
+  padding: 0 8px 6px;
+}
+
+.scope-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 4px 8px;
+  background: none;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+  text-align: left;
+  color: #d1d5db;
+  transition: background 0.15s;
+}
+
+.scope-item:hover {
+  background: #22232e;
+}
+
+.scope-item .scope-marker {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+
+/* Fill steps down with distance from Southwest Detroit, matching the markers. */
+.scope-item.zone-southwest-detroit .scope-marker {
+  background: #9ca3af;
+  border: 1px solid #9ca3af;
+}
+
+.scope-item.zone-around-southwest-detroit .scope-marker {
+  background: rgba(156, 163, 175, 0.55);
+  border: 1px solid #9ca3af;
+}
+
+.scope-item.zone-detroit .scope-marker {
+  background: rgba(156, 163, 175, 0.2);
+  border: 1.5px solid #9ca3af;
+}
+
+.scope-item.zone-outside-the-area .scope-marker {
+  background: transparent;
+  border: 1.5px dashed #9ca3af;
+}
+
+.scope-item .scope-label {
+  flex: 1;
+  font-size: 11px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.scope-item .scope-count {
+  font-size: 10px;
+  color: #6b7280;
+  font-weight: 600;
+}
+
+.scope-item.inactive {
+  opacity: 0.4;
+}
+
+.sidebar-header .corridor-count {
+  color: #6b7280;
+}
+
+/* Sidebar entries for employers outside the corridor. */
+.employer-item.out-of-scope .company-name {
+  color: #9ca3af;
+}
+
+.employer-item .scope-tag {
+  display: inline-block;
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-bottom: 4px;
+}
+
+.employer-item .scope-tag.zone-around-southwest-detroit {
+  background: #1e2a2b;
+  color: #6fa8b3;
+}
+
+.employer-item .scope-tag.zone-detroit {
+  background: #2b2a1e;
+  color: #b39a4d;
+}
+
+.employer-item .scope-tag.zone-outside-the-area {
+  background: #2e2426;
+  color: #b3706f;
+}
+
 .category-legend {
   flex-shrink: 0;
   display: flex;

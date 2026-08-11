@@ -35,11 +35,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48183",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -76,11 +72,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "General Freight, Auto Parts",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -117,11 +109,7 @@
         "apply_urls": "Monster | Learn4Good",
         "latest_scrape": "2026-06-02",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -158,11 +146,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "General Freight, Metal: sheets, coils, rolls,   Logs, Poles, Beams, Lumber,   Building Materials,  Machinery, Large Objects,   US Mail,  Beverages,  Paper Products,  Construction,  WOODEN PALLETS, ",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -199,11 +183,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "Refrigerated Food",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -240,11 +220,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48217",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -281,11 +257,7 @@
         "apply_urls": "Talents By Vaia | SWE Career Center - Society Of Women Engineers | JobLeads",
         "latest_scrape": "2026-06-02",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -322,11 +294,7 @@
         "apply_urls": "https://www.governmentjobs.com/careers/detroit/jobs/5416181/manager-ii-fire-promotional-opportunity?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -363,11 +331,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48207",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -404,11 +368,7 @@
         "apply_urls": "https://applicant.mightyrecruiter.com/jobs/apply/over-the-road-drivers-at-churchill-transportation-in-detroit-mi-0d03e92758733ee08405d49279b5e9dc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://hardwaregroupassociation.com/vacancy/job/cdl-a-regional-existing-team-truck-drivers-0-dollars-70-cents-cpm-bonuses-2-years-experience-required-at-churchill-transportation-detroit-mi-WW9rZncvaVVsVlc2cTBvTzMvN05hMkZlbGc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.craigslist.org/view/d/hamtramck-local-drivers-part-time/1Fq6DrCQc3QEEnSSc3X6jo?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "General Freight, Chemicals Auto Freight",
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -445,11 +405,7 @@
         "apply_urls": "https://www.churchilltrans.com/company-driver?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/truck-driver-part-time-over-the-road-few-days-per-week-churchill-transport-churchill-freight-service--theirstack-724718587?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "General Freight, Chemicals Auto Freight",
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -486,11 +442,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -527,11 +479,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "General Freight,  Household Goods,  Metal: sheets, coils, rolls,  Motor Vehicles,  Machinery, Large Objects,  Commodities Dry Bulk,  Paper Products,  AUTO PARTS",
-        "geocode_source": "Census",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -568,11 +516,7 @@
         "apply_urls": "https://talents.vaia.com/companies/the-ideal-group/it-application-developer-21101146/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/warren/full-time/mro-material-data-and-reporting-specialist-6a20cc4bb3ed4df638ec8390?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/coding-data-analyst-the-ideal-group-warren-mi--theirstack-693529466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -609,11 +553,7 @@
         "apply_urls": "Indeed",
         "latest_scrape": "2026-06-02",
         "notes": "Metal: sheets, coils, rolls - Temporarily closed per website",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -650,11 +590,7 @@
         "apply_urls": "Learn4Good",
         "latest_scrape": "2026-06-02",
         "notes": "General Freight, Metal: sheets, coils, rolls, Motor Vehicles,  Drive/Tow away,  Machinery, Large Objects,  AUTOMOTIVE MOLDS",
-        "geocode_source": "Census",
-        "zip_parsed": "48229",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -691,11 +627,7 @@
         "apply_urls": "https://career.io/job/field-millwright-kentucky-dearborn-levy-c2d38304778e3c536331254b1c177606?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-23",
         "notes": null,
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -732,11 +664,7 @@
         "apply_urls": "ZipRecruiter",
         "latest_scrape": "2026-06-02",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -773,11 +701,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "Permanently closed - website  https://foremanbrosinc.com/  -  LARA has AR Due Date 05/15/2026",
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -814,11 +738,7 @@
         "apply_urls": "Talent.com",
         "latest_scrape": "2026-06-02",
         "notes": "NEGOTIABLE ITEMS",
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -855,11 +775,7 @@
         "apply_urls": "ZipRecruiter",
         "latest_scrape": "2026-06-02",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -896,11 +812,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "Coal/Coke, Commodities Dry Bulk,  SCRAP STEEL/AUTO",
-        "geocode_source": "Census",
-        "zip_parsed": "48183",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -937,11 +849,7 @@
         "apply_urls": "Learn4Good | Talent.com | JobLeads",
         "latest_scrape": "2026-06-02",
         "notes": "Now Cleveland-Cliffs",
-        "geocode_source": "Census",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -957,8 +865,8 @@
         "company": "BASF",
         "operational_status": "In Operation",
         "business_type": "Manufacturing (Chemicals)",
-        "category": "Advanced Manufacturing & Heavy Industry",
-        "sub_category": "Chemicals & Plastics",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "1609 Biddle Ave, Wyandotte, MI 48192",
@@ -978,11 +886,7 @@
         "apply_urls": "https://www.linkedin.com/jobs/view/scientist-ii-at-basf-4444235922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4112-d95e5415228d09ed4ccfe85680118be6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/research-scientist-at-basf-4441074313?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.experteer.com/career/view-jobs/product-management-specialist-wyandotte-mi-usa-58573467?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bridgingthegap.nexxt.com/jobs/customer-site-service-manager-southfield-mi-3291465572-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/basf-corporation/southfield/maintenance-scheduler-1-126848101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.experteer.com/career/view-jobs/technical-service-specialist-maryland-dc-automotive-refinish-southfield-mi-usa-58531366?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48192",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1019,11 +923,7 @@
         "apply_urls": "Glassdoor | BeBee",
         "latest_scrape": "2026-06-02",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1060,11 +960,7 @@
         "apply_urls": "LinkedIn",
         "latest_scrape": "2026-06-02",
         "notes": "6267 AURELIUS RD, LANSING, MI 48911-4230 - LARA",
-        "geocode_source": "Census",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1101,11 +997,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48192",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1142,11 +1034,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48210",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1183,11 +1071,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1224,11 +1108,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -1265,11 +1145,7 @@
         "apply_urls": "https://www.jobleads.com/us/job/refining-process-design-technologist-drive-efficiency--detroit--ed7f8733c93ae9e3e9af74c348eddb913?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marathon-petroleum/detroit/instrumentation-technician-calibration-troubleshooting-67017347/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/instrument-technician-refineries-great-benefits-marathon-petroleum-corporation-detroit-mi-united-sta--appcast-7428_20748e90466ade04e91935755063fa8f08cd15b5dbf3b81c98221b7334a166bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marathon-petroleum-corporation/detroit/mobile-pump-mechanic-refinery-field-technician-70388979/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jooble.org/rjdp/-7332948826211422228?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihirechemists.com/jobs/view/524878513?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/energy-powergeneration/5307080037/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marathon-petroleum-corporation/detroit/maintenance-welder-tig-stick-detroit-refinery-70302178/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/instrument-technician-refineries-great-benefits-marathon-petroleum-corporation-detroit-mi-united-sta--appcast-7428_20748e90466ade04e91935755063fa8f08cd15b5dbf3b81c98221b7334a166bf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/b7cc1133-259c-4e45-80e1-c4b089168d59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/warehouse-material-handler-lift-scan-load-unload--detroit--ed08592c669066edb9975d669b6b3450c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marathon-petroleum-corporation/detroit/instrument-technician-refinery-calibrations-troubleshooting-69105649/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/refinery-project-engineer-i-ii-hybrid-impact-marathon-petroleum-corporation-detroit-mi-united-states--appcast-7428_735a8afa988d2ff1ef64157126150c4a8cad74715bd7c9a79c5473a8574515f2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48217",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1306,11 +1182,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "Liquids/Gases",
-        "geocode_source": "Census",
-        "zip_parsed": "48183",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1347,11 +1219,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1367,8 +1235,8 @@
         "company": "Hacienda Foods (Hacienda Mexican Foods)",
         "operational_status": "In Operation",
         "business_type": "Manufacturing (Food)",
-        "category": "Advanced Manufacturing & Heavy Industry",
-        "sub_category": "Food Production",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "6100 Buchanan St, Detroit, MI 48210",
@@ -1388,11 +1256,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48210",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1429,11 +1293,7 @@
         "apply_urls": "LinkedIn | SalesJobs.com | JobLeads | Tradesmen International | Indeed",
         "latest_scrape": "2026-06-02",
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48210",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1470,11 +1330,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": null,
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1511,11 +1367,7 @@
         "apply_urls": null,
         "latest_scrape": null,
         "notes": "Alco Express Co",
-        "geocode_source": "Census",
-        "zip_parsed": "48217",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1552,11 +1404,7 @@
         "apply_urls": "https://talents.vaia.com/companies/4526-marathon-refining-logistics-services-llc/detroit/heavy-equipment-mechanic-crane-operator-motor-pool-116895662/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://smartreply-fi.career.ccwu.cc/?jobs=en-job-administrative-support-specialist-entry-level-1781294953438&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/4526-marathon-refining-logistics-services-llc/detroit/heavy-equipment-mechanic-crane-operator-motor-pool-116895662/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/manufacturing/5308332110/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Marathon Petroleum Detroit Refinery",
-        "geocode_source": "Census",
-        "zip_parsed": "48217",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1572,8 +1420,8 @@
         "company": "ABM Industries",
         "operational_status": null,
         "business_type": "Facilities Services",
-        "category": "Commercial, Hospitality & Retail",
-        "sub_category": "Facilities Services",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "535 Griswold St, Suite 926, Detroit, MI 48226",
@@ -1593,11 +1441,7 @@
         "apply_urls": "https://www.career.com/job/abm-us/janitorial-cleaner-evening/j202603080300511208411?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/ABM/Job/Part-Time-Janitorial-Cleaner/-in-Detroit,MI?jid=70dab7935a99f096&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/ABM/Job/Event-Stadium-Cleaner/-in-Detroit,MI?jid=1ecf03501354b4e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/detroit/decorator/general-maintenance-%2B-painter-6a118cb857e687dcbf947814?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/ABM/Job/SCHOOL-CUSTODIAL-CLEANER-(H)/-in-Detroit,MI?jid=5c99f9a4b10c3bd9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://salutemyjob.com/jobs/general-maintenance-technician-painter-m-w-d-detroit-michigan/2880122777-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/ABM/Job/Talent-Acquisition-Recruiter,-Facilities-Management-&-Skilled-Trades/-in-Detroit,MI?jid=8e4b78aa41a9257d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobmesh.io/job/e8ff8ed7-d598-4481-af24-e206ea4f3bd1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5305584180/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.experteer.ch/career/view-jobs/national-sales-director-integrated-facility-services-ifs-detroit-mi-usa-57222073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] ABM Building Value Detroit branch office",
-        "geocode_source": "Census",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1634,11 +1478,7 @@
         "apply_urls": "Indeed | Talents By Vaia",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Auburn Hills, MI; Troy, MI | Name variants in scrape: Ajax Paving Industries; Ajax Paving | Address research: [LOCAL] Company headquarters (Troy, MI)",
-        "geocode_source": "Census",
-        "zip_parsed": "48084",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1675,11 +1515,7 @@
         "apply_urls": "https://www.energyjobline.com/job/quality-engineering-manager-detroit-30213881?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/amrize/area-manager-aggregates-20202500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/manufacturing/5272421558/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5305662018/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Former Lafarge/Holcim cement terminal, now Amrize brand",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1716,11 +1552,7 @@
         "apply_urls": "LinkedIn",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Utica, MI | Address research: [LOCAL] Nearest verified MI office (Southfield); Utica not confirmed",
-        "geocode_source": "Census",
-        "zip_parsed": "48034",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1757,11 +1589,7 @@
         "apply_urls": "https://www.linkedin.com/jobs/view/time-keeping-analyst-at-apex-systems-4444208572?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.apexsystems.com/job/3043327_usa/devops-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.apexsystems.com/job/3043318_usa/ai-platform-engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://haystackapp.io/jobs/e3eb981a-36e1-48ed-a4f6-3aa6a35351bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/test-automation-engineer-at-apex-systems-4444200962?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://haystackapp.io/jobs/f6130b00-1be1-4e6c-a990-4b8f2a0697c6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/apex-systems-inc/help-desk-19549907/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/apex-systems/detroit/strategic-account-manager-hybrid-tech-solutions-70292049/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Livonia, MI | Address research: [LOCAL] Nearest Detroit-metro branch; Livonia not confirmed",
-        "geocode_source": "Census",
-        "zip_parsed": "48075",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1798,11 +1626,7 @@
         "apply_urls": "https://aramark.lockurfuture.com/details/d6her9qk19eg-250f-97f77f-593247f7d94-23735289fb9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/jk6ocff4d5l4-5b1-3973b27f846f5-270966-995c3d1d17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/g16eywrofzc3-b5e5b023d76-32a6fec-f71991f3d-8b4b6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/uf04kad14uoe-2ddf1ccda427-34b6-a6f626-f97450a206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.recruit.net/job/aramark-is-warehouse-worker-detroit-jobs/2E99E11E1897D03D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/ecoead97c8c6-b02c784c-335b6b404-c6069d5eafd2-bfc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/a0e23bttd4c0-fa23-f6ee8beb5f58e-68f8-28940a40bf6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/b5cbve2ts65o-77c33abea-07c75073-778-a7b11b1a933b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/q50irsbcua6k-97d2-262-b6184cb387e-f12ad1cf01c8c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://aramark.lockurfuture.com/details/cel7rf07a0rk-c92d58-8496681-6e72cbee754ef1-6f347?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed Aramark Detroit location",
-        "geocode_source": "Census",
-        "zip_parsed": "48202",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1818,8 +1642,8 @@
         "company": "Bakelite",
         "operational_status": null,
         "business_type": "Manufacturing (Chemicals/Resins)",
-        "category": "Advanced Manufacturing & Heavy Industry",
-        "sub_category": "Chemicals & Plastics",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "4400 Haggerty Road, Commerce Township, MI 48390",
@@ -1839,11 +1663,7 @@
         "apply_urls": "https://www.learn4good.com/jobs/detroit/michigan/quality_control/5295770804/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Nearest Bakelite/Sumitomo (Durez) MI facility; not Detroit proper",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48390",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -1880,11 +1700,7 @@
         "apply_urls": "https://burnsmcd.jobs/detroit-mi/staff-electrical-engineer-networks-integration-automation-southfield/57EDA0E4A23A4F17B8E31BC10015CA2A/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed Detroit office",
-        "geocode_source": "Census",
-        "zip_parsed": "48201",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1900,8 +1716,8 @@
         "company": "C100 Quaker Houghton US OPS",
         "operational_status": null,
         "business_type": "Manufacturing (Industrial Chemicals)",
-        "category": "Advanced Manufacturing & Heavy Industry",
-        "sub_category": "Chemicals & Plastics",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "10500 Intervale St, Detroit, MI 48238",
@@ -1921,11 +1737,7 @@
         "apply_urls": "https://www.jobleads.com/us/job/facilities-maintenance-technician-i-3rd-shift--detroit--e0b4aba0217f41750ad64436997c79ffe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/manufacturing/5291167799/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed Quaker Houghton manufacturing plant",
-        "geocode_source": "Census",
-        "zip_parsed": "48238",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -1962,11 +1774,7 @@
         "apply_urls": "Indeed",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: River Rouge, MI | Address research: [LOCAL] Confirmed facility address",
-        "geocode_source": "Census",
-        "zip_parsed": "48218",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2003,11 +1811,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=e6dcdae4a47ca131&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=4c0bdc716c61fbb8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=a5c4e68e18f25738&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/press-electrician-z-shift-f-su-5pm-5am-challenge-manufacturing-pontiac-mi--t7xk-772634639?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.dice.com/job-detail/ea12ce49-4400-41c6-a77d-40e184a9a89b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/challenge-manufacturing-company/pontiac/precision-tool-die-machinist-metal-stamping-104447274/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/automation-technician-i-challenge-manufacturing-pontiac-mi--theirstack-713151768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/challenge-manufacturing-company/pontiac/tool-die-maker-i-101434461/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/electrical-maintenance-technician-stamping-plcs-challenge-manufacturing-pontiac-mi--theirstack-692820132?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Pontiac, MI | Address research: [LOCAL] Confirmed plant address",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48341",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -2044,11 +1848,7 @@
         "apply_urls": "https://jobs.tenethealth.com/job/detroit/unit-clerk-sicu/1127/95155449376?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/rn-clinical-educator-icu/1127/94251766784?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/nurse-clinician-urology/1127/95590612064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/pediatric-ct-technologist-contingent-rotate/1127/94251765408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/radiologic-technologist-contingent-days/1127/94251765728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/senior-respiratory-therapist-part-time-days/1127/94251766080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/liver-transplant-coordinator-pediatrics-full-time-days/1127/94251766960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/clinical-dietitian--detroit--ee7df5bafc5801cc25a02782d829b2b98?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.practicematch.com/physicians/job-details.cfm/900342/genetics/michigan/detroit/dmc-children's-hospital-of-michigan-detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/nurse-extern-ii-med-surg/1127/94506752048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/strive-health/manager-patient-navigator-35166598/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dmc-childrens-hospital-of-michigan/registered-nurse-rn-nicu-46431971/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/anesthesia-tech/1127/96632494320?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/manager-of-patient-services-operating-room/1127/94251766432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dmc-childrens-hospital-of-michigan/registered-nurse-operating-room-full-time-days-36872003/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/special-procedure-technologist/1127/96239019872?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/rn-clinical-coordinator-night-shift-staff-leader--detroit--ecd08ae090bc364afe68f45ced5fb190d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.practicematch.com/physicians/job-details.cfm/900281/neonatal-perinatal-medicine/michigan/detroit/dmc-children's-hospital-of-michigan-detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.marithealth.com/jobs/8616a8a3-f1f6-4f65-ad2c-a19a20d8e98d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/senior-respiratory-therapist-part-time-days/1127/94251766080?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dmc-childrens-hospital-of-michigan/rn-nurse-16964949/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/liver-transplant-coordinator-pediatrics-full-time-days/1127/94251766960?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/pediatric-anesthesia-tech-equipment-setup-support-childrens-hospital-of-michigan-detroit--lensa-7428_1c49a6059c7580bc0b3b63316ebc508e899a0a6e77160c9c89ba4f201f31aa57?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.ashg.org/jobs/state_province/michigan/type/full-time/level/experienced?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/pharmacy-intern/1127/96063729184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/clinical-dietitian--detroit--ee7df5bafc5801cc25a02782d829b2b98?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.practicematch.com/physicians/job-details.cfm/897534/gastroenterology/michigan/detroit/dmc-children's-hospital-of-michigan-detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/picu-clinical-educator-elevate-pediatric-care-education-childrens-hospital-of-michigan-detroit--lensa-7428_f5c2a05c9f61477d7e898f4405009ab9d35d0e9fe3ca40cd2af01e1e92af1b7c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/lead-mri-tech/1127/94251766656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.practicematch.com/physicians/job-details.cfm/913347/endocrinology/michigan/detroit/dmc-children's-hospital-of-michigan-detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/cat-scan-tech-full-time-rotate/1127/94251766224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/speech-language-pathologist-contingent-days/1127/94251765632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.practicematch.com/physicians/job-details.cfm/897539/neurology/michigan/detroit/dmc-children's-hospital-of-michigan-detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.tenethealth.com/job/detroit/physical-therapist/1127/94561868480?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.practicematch.com/physicians/job-details.cfm/968722/child-neurology/michigan/detroit/dmc-children's-hospital-of-michigan-detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dmc-childrens-hospital-of-michigan/river-rouge/registered-nurse-rn-neonatal-119217438/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed hospital address",
-        "geocode_source": "Census",
-        "zip_parsed": "48201",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2085,11 +1885,7 @@
         "apply_urls": "Cleveland-Cliffs Careers | JobLeads | LinkedIn | Talents By Vaia",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Name variants in scrape: Cleveland-Cliffs Ferrous Processing & Trade; Cleveland-Cliffs | Address research: [LOCAL] FPT/Cleveland-Cliffs Detroit office",
-        "geocode_source": "Census",
-        "zip_parsed": "48207",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2126,11 +1922,7 @@
         "apply_urls": "Talents By Vaia",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] CGX (Coast Guard Exchange) Detroit retail location",
-        "geocode_source": "Census",
-        "zip_parsed": "48207",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2146,8 +1938,8 @@
         "company": "Continuum Services",
         "operational_status": null,
         "business_type": "Facilities Services",
-        "category": "Commercial, Hospitality & Retail",
-        "sub_category": "Facilities Services",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "23640 Research Drive, Farmington Hills, MI 48335",
@@ -2167,11 +1959,7 @@
         "apply_urls": "https://www.sonicjobs.com/us/jobs/detroit/full-time/hvac-laborer-6a3bb2132a509d130fd09bb2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/hvac-technician-detroit-university-prep-schools-787663a2bfc6179fb22d15184552f977?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/detroit/hvac-mechanic/hvac-sheet-metal-installer-6a33c8b9f1cc40b5a975dde0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/hvac-preventative-maintenance-technician-detroit-redico-919f4908baebdcb0d88dd5c2c5619fd0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/hvac-refrigeration-technician-detroit-redico-ccc2f50033a3c1513c6d0942924df926?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5806040914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/journeyman-plumber-detroit-redico-8f6f9d5441d64c83c35750ebf21533b0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/high-rise-window-cleaner-training-benefits-included-continuum-detroit--lensa-7428_85d0bba365160de8dfa897d70b12b1544bebf308aeae025de1268f5afeb47e7e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://restaurantsjobs.ai/listings/aoe3uuaa68dv-c39d6a415fc16b34-690c4cbdf1b14394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4111-b40be6e54971959f985197d62589e3c9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [HQ] No confirmed Detroit-proper address; company HQ used",
-        "geocode_source": "Census",
-        "zip_parsed": "48335",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2208,11 +1996,7 @@
         "apply_urls": "https://jobs.coolsys.com/jobs/6257?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] CoolSys/Tech Mechanical Southeast Michigan branch",
-        "geocode_source": "Census",
-        "zip_parsed": "48340",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2249,11 +2033,7 @@
         "apply_urls": "https://www.linkedin.com/jobs/view/driver-helper-at-do-co-ag-4443011767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/do-co-ag/detroit/global-food-safety-quality-assurance-technician-120201264/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/sanitation-hygiene-lead-global-catering-do-co-ag-detroit--lensa-7428_3fe75670c94f0ba595fe9596f8d227aae9d2b5318d27ce463af87fbb7da11013?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/airline-food-assembly-specialist-health-benefits-growth-do-co-ag-detroit-mi-united-states--appcast-7428_1d1b725e77a2d5b2f48e79bef53b1b43c13f075dc451482d9c8ec3b342710596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/sanitation-hygiene-lead-global-catering--detroit--eab9d098d2bba0e838a70acbfa0e266b9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/autoclave-waste-operator-culinary-safety-specialist-do-co-ag-detroit--lensa-7428_866c2ed2da8dbba2eaf0eb285ce3552c410bca85d5dc5a10ab1fe0270ad15445?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/global-food-safety-qa-supervisor-hospitality-impact--detroit--e1d7560fae2f15db95608da78447acbd0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/accounting/5285323671/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/dispatch-lead-catering-event-logistics--romulus--e91081e6bf931e5174e1dc08e33668b2d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5295419714/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] DO & CO Detroit Inc facility near DTW",
-        "geocode_source": "Census",
-        "zip_parsed": "48242",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2290,11 +2070,7 @@
         "apply_urls": "https://careers.syncreon.com/job/Detroit-Operator-MI-48214/1139205101/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/syncreon-international-group/operator-49995152/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/0e11ba7e-cb84-4dfb-a4f2-373eaf6dd991?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/strategic-director-market-access-americas-growth--detroit--ed6d678fc22475f9b2fc727ad400600d3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dp-world/plant-manager-cl-site-operations-33983106/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.syncreon.com/job/Trenton-Supervisor%2C-Operations-MI-48183/1272436501/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.syncreon.com/job/Detroit-Supervisor%2C-Quality-MI-48214-3464/1412989433/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit warehouse operations",
-        "geocode_source": "Census",
-        "zip_parsed": "48214",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2331,11 +2107,7 @@
         "apply_urls": "https://careers.dteenergy.com/job/Detroit-Senior-Capital-Project-Manager-MI-48201/1411639400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Attorney-Commercial-MI-48201/1408200700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Regulatory-Strategy-Consultant-MI-48201/1407575500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Principal-Supervisor-Data-Science-MI-48201/1410252700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Student-Co-op-Southeast-Michigan-MI-48201/1401520800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Sr-Business-Analyst-Corporate-Strategy-MI-48201/1386946800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Portfolio-Manager-II-Trust-Investments-MI-48201/1360495700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Expert-Data-Scientist-MI-48201/1378818700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.disasterjobs.com/jobs/497209391-renewables-project-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Portfolio-Manager-MI-48201/1394014800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Sr-Business-Analyst-Corporate-Strategy-MI-48201/1386946800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/Detroit-Portfolio-Manager-MI-48201/1394014800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Address research: [HQ] DTE Energy HQ (Walker Cisler Building)",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -2372,11 +2144,7 @@
         "apply_urls": "https://careers.dteenergy.com/job/River-Rouge-Control-Engineer-II-MI-48218/1377939300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/River-Rouge-Technology-Engineer-I-MI-48218/1224772400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/a75170b2-ef48-40c6-8b14-88f6f73ad606?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/f5685204-9bfc-4557-a011-a68c2929c7b7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dte-vantage/river-rouge/mechanical-maintenance-tech-i-90234678/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/166e4d32-eac5-4361-bf23-60491169abc5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/River-Rouge-Utility-Technician-MI-48218/1327502900/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/River-Rouge-Maintenance-Technician-Instrumentation-MI-48218/1368682300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.dteenergy.com/job/River-Rouge-Industrial-Electrician-I-MI-48218/1368682500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Address research: [LOCAL] DTE River Rouge Power Plant site",
-        "geocode_source": "Census",
-        "zip_parsed": "48218",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2413,11 +2181,7 @@
         "apply_urls": "https://jooble.org/rjdp/-1509717684405845007?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [HQ] No distinct facility found; DTE Energy corporate HQ used",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -2454,11 +2218,7 @@
         "apply_urls": "https://salutemyjob.com/jobs/remote-epc-electrical-engineer-power-systems-detroit-michigan/2879574712-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dte-vantage/detroit/senior-strategy-analyst-remote-growth-ma-126240370/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dte-vantage/detroit/strategic-associate-corporate-growth-ma-66949054/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dte-vantage/detroit/senior-safety-specialist-87986963/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/remote-portfolio-manager-growth-value--detroit--eac1aafb97f60f7a5282cec45b144928d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/remote-portfolio-manager-growth-value-dte-vantage-detroit--lensa-7428_1bd6f8c35cf209e3d088d4e757583232c510d281dd1f44566fa82697e93610e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dte-vantage/detroit/senior-safety-leader-remote-programs-compliance-82857054/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: River Rouge, MI | Address research: [LOCAL] EES Coke Battery facility, matches River Rouge hint",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48218",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -2495,11 +2255,7 @@
         "apply_urls": "https://www.whatjobs.com/jobs/return-material-quality-technician-hiring/detroit-michigan?id=2898375992&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-3991-693c5fa14a72afdcf05efb6c101f8fbc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/daimler-truck-north-america-llc/millwright-welder-41360220/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/journeyman-millwright-welder-precision-installations--detroit--e73f4e327bd774ad85636cace787259c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/daimler-truck-north-america-llc/detroit/journeyman-pipefitter-37-64-hr-15-holidays-59730997/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/engine-assembly-specialist-growth-benefits-perks-daimler-truck-north-america-llc-detroit-mi-united-s--appcast-7428_a9e0edc583acbc6ac9728afd6c1ac49d80b42c5781b444eedbaac9d9efec18cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/industrial-safety-ergonomics-specialist-ii-detroit--detroit--e1e964784c76a972721b7d3ea079d1724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/safety-ergonomics-specialist-ii-industrial-health-leader--detroit--eabb3a2f3a4085c1adf2c055eddec5e00?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/daimler-truck-north-america-llc/detroit/journeyman-pipefitter-high-impact-installations-85910545/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5291312822/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-3991-5a5588cfc3143d851ac2794ae4d6f7d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/detroit-diesel/detroit/instrument-repair-76441976/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Name variants in scrape: Daimler Truck North America LLC.; Daimler Truck North America | Address research: [LOCAL] Detroit Diesel Corporation plant",
-        "geocode_source": "Census",
-        "zip_parsed": "48239",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2536,11 +2292,7 @@
         "apply_urls": "https://jobs.lever.co/daniels-sharpsmart/5d27ccb0-ddfa-4e78-90b0-532eb4316c4b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://broxer.com/jobs/national-transportation-director-vzvw13?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://lensa.com/job-v1/daniels-health/detroit-mi/lead-field-service-representative/ae2318d046b162b06522d75a19136397?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.experteer.com/career/view-jobs/senior-mechanical-engineer-industrial-automation-48201-detroit-mi-usa-56568456?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobright.ai/jobs/info/6a5ea04267b2850e77df2496?visit=senior-controls-engineer---little-rock-jobs-in-united-states&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.engineeringjobs.net/jobdetails.cfm/340686/Mechanical-Engineer-Industrial-Automation?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.disabledperson.com/jobs/73737049-maintenance-technician-6k-sign-on-bonus?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5791941063?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/transportation-coordinator-at-daniels-health-4436360045?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobtarget.com/jobs/jt-ezinhkykgb/medical-waste-containers-class-b-driver-6am-start-taylor-michigan?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Michigan medical waste processing facility (serves Detroit metro)",
-        "geocode_source": "Census",
-        "zip_parsed": "48185",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2577,11 +2329,7 @@
         "apply_urls": "https://www.learn4good.com/jobs/detroit/michigan/customer_service/5302055002/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/transportation/5275344808/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/livonia/michigan/customer_service/5301956631/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/farmington-hills/michigan/transportation/5292349385/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://simplify.jobs/p/80b6508a-c808-49c1-876d-f52b21f18383/Trailer-Technician--Mechanic?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/senior-logistics-operations-lead-dayton-freight-gibraltar--lensa-7428_c61871dad9c5b64a38b8b71a95503a7a08fd5556750d9a8839c002019ecdf7a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/westland/michigan/transportation/5270449086/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Listed 'Detroit' service center; actually in Waterford Twp",
-        "geocode_source": "Census",
-        "zip_parsed": "48328",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2618,11 +2366,7 @@
         "apply_urls": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/41106?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jooble.org/rjdp/3393889076816485314?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://vacancies.cu-fc.com/jobs/yard-mule-operator-tank-chassis-logistics-detroit-michigan/2856824064-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/wolverine-packing-co/cdl-a-driver-43562828/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/tank-welder-tig-mig-safety-focused-great-benefits--detroit--ed0df7b12d786ff2d5a68c2bd8483934b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sorce.jobs/jobs/load-planner-quala-j1_2cBYeQSlzpYYCJFfJ3xX-5XTb4wm9rN0XuBz1Fo-IS6TsxC4mw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jooble.org/jdp/-4191500406595308144?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.tealhq.com/job/enterprise-sales-representative_7ea1a367abb07f103e06fc55ee284447441ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-e2ed10eacec740433de698c8e151e1f1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/transportation/5293958165/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Facility listing confirmed",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2659,11 +2403,7 @@
         "apply_urls": "https://www.linkedin.com/jobs/view/maintenance-supervisor-c-crew-at-detroit-manufacturing-systems-dms-4440626816?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/materials-supervisor--detroit--e179a3ae7f4071559c77a05d19ed527af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonara.ai/job-details/6a2f7b6f-1ea1-facd-c8bf-39ba8e03ef49?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobsora.com/job-51664202566?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.recruit.net/job/maintenance-facilities-jobs/27969A31A16FC512?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/plant-maintenance-leader-tpm-equipment-reliability--detroit--e3b9dc5d65fbaf38f33ee7f4e5010cf66?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/vertiv-group-corp/detroit/advanced-manufacturing-engineering-senior-leader-94833844/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/dms-na/detroit/electrician-journeyman-85925344/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.experteer.fr/career/view-jobs/plant-hr-manager-detroit-mi-usa-57931995?signup_hook=lo_job_title&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed plant address",
-        "geocode_source": "Census",
-        "zip_parsed": "48223",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2700,11 +2440,7 @@
         "apply_urls": "https://talents.vaia.com/companies/detroit-thermal-systems-llc/romulus/plant-manager-automotive-supplier-127897238/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/envista/packer-filler-afternoon-shift-22262711/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://dlxonthird.com/office/job/manufacturing-assemblers-at-detroit-thermal-systems-llc-romulus-mi-U0RnNmsyU1NjbEhXamxjNG1jRWNIeFU1Unc9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/detroit-thermal-systems-llc/romulus/strategic-automotive-commodity-buyer-direct-materials-108015504/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/detroit-thermal-systems-llc/romulus/injection-mold-tooling-engineer-design-launch-optimize-72930781/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/detroit-thermal-systems-llc/romulus/supplier-quality-engineer-launch-and-improvement-leader-85883710/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/detroit-thermal-systems-llc/romulus/plant-leader-launch-scale-optimize-manufacturing-127897591/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/strategic-commodity-buyer-plastics-metals-electronics-detroit-thermal-systems-romulus-mi-united-stat--appcast-7428_296180c31842392efc16f1e7352f6661d24ef10435b4e3d47fce7fd8bfb2dfc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/detroit-thermal-systems-llc/romulus/maintenance-assembly-supervisor-3rd-shift-59646589/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Romulus, MI | Address research: [LOCAL] Matches Romulus job hint",
-        "geocode_source": "Census",
-        "zip_parsed": "48174",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2741,11 +2477,44 @@
         "apply_urls": "https://bebee.com/us/jobs/compliance-and-accounting-manager-epa-grants-detroit-wayne-county-port-authority-detroit--lensa-7428_23b6209e55367bcc186f4ef7c0bb5b4f954a64997d35226ae4183f96b2a04020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobilize.com/amp/job/us-mi-detroit-compliance-accounting-manager-epa-grants-wayne-port?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed via portdetroit.com",
-        "geocode_source": "Census",
-        "zip_parsed": "48214",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.160662058,
+          42.561911952666
+        ]
+      },
+      "properties": {
+        "company": "Dinsmore & Shohl LLP",
+        "operational_status": null,
+        "business_type": "Legal Services",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
+        "vehicle_type": null,
+        "fleet_size": null,
+        "full_address": "755 West Big Beaver Road, Suite 1900, Troy, MI 48084",
+        "street_address": "755 West Big Beaver Road, Suite 1900",
+        "city": "Troy",
+        "state": "MI",
+        "zip": "48084",
+        "phone": null,
+        "email": null,
+        "website": null,
+        "contact_first": null,
+        "contact_last": null,
+        "contact_role": null,
+        "open_job_count": 1,
+        "job_titles": "Patent Associates (biochemistry, chemical engineering, chemistry, computer science, electrical engineering, materials science, mechanical engineering, physics)",
+        "job_types": "Full-time",
+        "apply_urls": "LinkedIn",
+        "latest_scrape": "2026-06-02",
+        "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Firm's Detroit-area office is physically in Troy, MI",
+        "geocode_source": "Census"
       }
     },
     {
@@ -2782,11 +2551,7 @@
         "apply_urls": "https://www.ziprecruiter.com/c/Dorsey-Schools/Job/Electrical-Technician-Instructor/-in-Detroit,MI?jid=2efc23652255fe3e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Dearborn/Detroit campus",
-        "geocode_source": "Census",
-        "zip_parsed": "48228",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2823,11 +2588,7 @@
         "apply_urls": "https://www.linkedin.com/jobs/view/manufacturing-maintenance-engineer-at-epitec-4443907735?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://epitec.com/jobs-at-epitec-careerportaldomainroot/application-developer-iii-105214/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/maintenance-engineer-ii-at-epitec-4443369289?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://epitec.com/jobs-at-epitec-careerportaldomainroot/managed-care-engagement-specialists-105102/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://epitec.com/jobs-at-epitec-careerportaldomainroot/specialist-comm-writer-sr-105212/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www1.jobdiva.com/candidates/myjobs/openjob_outside.jsp?a=2zjdnwzcqk81e0xytv89wnq2utvjlv07f6z7oel3g4bne0kxd1leoxzlpdet8dkw&from=COMP&id=32179668&SearchString&StatesString&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://epitec.com/jobs-at-epitec-careerportaldomainroot/maintenance-engineer-iii-104524/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.smartrecruiters.com/EpitecInc/79772687-health-care-analyst-?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.experteer.com/career/view-jobs/process-engineer-general-allen-park-mi-usa-58569299?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/epitec/process-specialist-33155801/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://epitec.com/jobs-at-epitec-careerportaldomainroot/mechanical-engineer-iii-105330/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Southfield is Detroit metro",
-        "geocode_source": "Census",
-        "zip_parsed": "48076",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2864,11 +2625,7 @@
         "apply_urls": "Indeed",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] US DOL LM-20 filing address",
-        "geocode_source": "Census",
-        "zip_parsed": "48238",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2905,11 +2662,7 @@
         "apply_urls": "https://www.learn4good.com/jobs/detroit/michigan/transportation/5305453006/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/transportation/5305428895/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-d082cd3b114305beb079a5523916e8ab?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://estes-express.dejobs.org/romulus-mi/dock-worker-part-time/1E043EC82B7F492282D2CE5E9678E79F/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://estes-express.dejobs.org/romulus-mi/combo-driver/69AB333869354556B56A2BB213A588A1/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://estes-express.dejobs.org/romulus-mi/power-mechanic-level-c/E7DB3808729149C08B712ABC53A6FBA3/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://estes-express.dejobs.org/romulus-mi/over-the-road-driver-extraboard-fully-endorsed/02F36A0F4338465DAE256864687B6777/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/romulus/michigan/transportation/5303649135/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/estes-express-lines/romulus/processor-i-liability-72981086/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/3042381055962120192?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/1191720845442023424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/transportation/5305428895/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/transportation/5305453006/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Company's own Detroit terminal listing",
-        "geocode_source": "Census",
-        "zip_parsed": "48174",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2946,11 +2699,7 @@
         "apply_urls": "https://us.jobrapido.com/jobpreview/7702949712092987392?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/flame-furnace-company/warren/comfort-advisor-119243220/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/warren/michigan/maintenance/5270871023/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/hvac-install-technician-warren-flame-982b88d66f950b0058e7854cfe2fe6e9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/flame-furnace-company/warren/in-home-hvac-comfort-advisor-sales-solutions-119251504/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.nexxt.com/jobs/plumbing-service-retrofit-technician-warren-mi-3287869668-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/master-plumber-warren-flame-24aeb050065fdb43b2ce42b67ab2e58e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/onsite-electrician-install-troubleshoot-maintain-flame-furnace-wixom--lensa-7428_0215710fc84163d99e1fe38e137a2654de7daf8612893fd8f5b55eda119dd108?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Main office, Detroit-metro (Macomb Co.)",
-        "geocode_source": "Census",
-        "zip_parsed": "48091",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -2987,11 +2736,7 @@
         "apply_urls": "https://www.snagajob.com/jobs/764482390?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.snagajob.com/jobs/764489662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.snagajob.com/jobs/765233865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Name variants in scrape: Ford Field - Levy Restaurants; Levy Restaurants | Address research: [LOCAL] Ford Field stadium, Downtown Detroit",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -3028,11 +2773,7 @@
         "apply_urls": "https://www.careers.ford.com/job/dearborn/hourly-production-team-member-temporary-full-time-wayne-county-se-michigan/48560/92471693136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.careers.ford.com/job/detroit/senior-manager-ford-pro-business-strategy-and-transformation/48560/96610304304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.careers.ford.com/job/detroit/manager-distribution-optimization-universal-electric-vehicle/48560/94792790432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.goinhouse.com/jobs/561281250-senior-counsel-regulatory-at-ford-motor-company?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://news.vaquill.com/us/jobs/ford-motor-company-5df00105c228?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66778/?via=https%2525253A%2525252F%2525252Fwww.internshipshq.com&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.snagajob.com/jobs/1275265089?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Ford/Job/Ford-Pro-Cross-Vehicle-Brand-Analyst/-in-Detroit,MI?jid=b276766bb601631b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.experteer.com/career/view-jobs/specialist-commercial-service-marketing-dearborn-mi-usa-58552129?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://tsenta.com/jobs/ford-pro-vehicle-operations-fulfillment-supervisor-5d29cbd1-ab7d-4c21-8921-75c9dae5045f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Dearborn, MI | Address research: [LOCAL] New Ford World Headquarters (2025)",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48126",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -3069,11 +2810,7 @@
         "apply_urls": "https://search-careers.gm.com/fr-ca/emplois/jr-202613291/manager-economic-incentives/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://search-careers.gm.com/zh/%E5%B7%A5%E4%BD%9C/jr-202613417/manager-strategic-risk-management/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://search-careers.gm.com/zh/%E5%B7%A5%E4%BD%9C/jr-202614448/torque-engineer-factory-zero/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://search-careers.gm.com/kr/jobs/jr-202615186/corporate-strategy-manager/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://search-careers.gm.com/kr/jobs/jr-202610284/electrical-diagnostician/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://search-careers.gm.com/en/jobs/jr-202614931/executive-it-support-senior-technician/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://search-careers.gm.com/kr/jobs/jr-202613901/senior-analyst-operational-strategic-risk/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobzmall.com/general-motors/job/manufacturing-group-leader?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.womenforhire.com/job/usa/detroit-mi/fabrication-process-lead-802117/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobzmall.com/general-motors/job/skilled-trades-apprentice?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Warren, MI | Address research: [LOCAL] GM Technical Center Warren",
-        "geocode_source": "Census",
-        "zip_parsed": "48093",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3110,11 +2847,7 @@
         "apply_urls": "https://www.recruit.net/job/deputy-chief-operating-officer-wastewater-jobs/39550A47299BBAA8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/great-lakes-water-authority/detroit/hazmat-response-confined-space-rescue-specialist-67025764/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Great-Lakes-Water-Authority/Job/Management-Professional-Wastewater-Planning-Central-Services-Facility/-in-Detroit,MI?jid=e9f6293a69eb3de3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/maintenance-technician-3-central-services-facility-detroit-great-lakes-water-authority-d464546c32a5309f1c259f275b5912c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-e2c8e593d67bf7cd54e76e1c8a52e7c0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Great-Lakes-Water-Authority/Job/Electrician-3-Central-Services-Facility/-in-Detroit,MI?jid=10413a4703a4e16d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/great-lakes-water-authority/detroit/maintenance-technician-2-water-operations-66884236/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/wastewater-planning-analytics-project-lead--detroit--ea150435aa9e78d63c921fb1e9279310a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/great-lakes-water-authority/detroit/water-technician-a-various-locations-105835390/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://builtin.com/job/hazmat-specialist/8339869?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [HQ] GLWA headquarters",
-        "geocode_source": "Census",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3151,11 +2884,7 @@
         "apply_urls": "https://www.jobleads.com/us/job/cdl-a-b-concrete-mixer-driver-5k-sign-on-bonus--detroit--e2aba9e8b1f263baa3f9cca5c38d67f0c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit plant location",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -3192,11 +2921,7 @@
         "apply_urls": "BeBee",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Southfield, MI | Address research: [LOCAL] Nonprofit listing, matches Southfield",
-        "geocode_source": "Census",
-        "zip_parsed": "48075",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3233,11 +2958,7 @@
         "apply_urls": "https://www.learn4good.com/jobs/dearborn/michigan/skilled_labor/5270836452/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/westland/michigan/construction/5270317892/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/westland/michigan/transportation/5271026509/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/westland/michigan/construction/5270650983/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/management_and_managerial/5276968175/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/westland/michigan/transportation/5269902678/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/michigan/logistics/5299252139/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Holcim US Detroit terminal near Gordie Howe Bridge",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3274,11 +2995,7 @@
         "apply_urls": "https://www.imcc.com/driver-jobs/detroit/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://drive4imc.com/jobs/89630/cdl-a-owner-operator-home-daily?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Official locations/Detroit page",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3315,11 +3032,7 @@
         "apply_urls": "https://builtin.com/job/senior-mechanical-designer-engineer/9376314?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/6151976273489952768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/senior-mechanical-engineer-hvac-building-systems-lead-imeg-corp-detroit--lensa-7428_4df20bdb225ee95cadf985268654e53a070ce8ddc0269afbf57857cee93ee9d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/lead-controls-systems-engineer-plc-hmi-design-start-up--detroit--e823742641e68066fe15eeaa918f9ec8d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://simplify.jobs/p/2a51c835-74e4-4287-a931-0c70b55b3b86/Senior-Mechanical-Engineer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonara.ai/job-details/senior-mechanical-designer-engineer-at-imeg-consultants-dc5fbc5c-070e-4c8b-1c4a-c01729c33e4f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Company's 'Detroit' location page (metro-area office)",
-        "geocode_source": "Census",
-        "zip_parsed": "48336",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3356,11 +3069,7 @@
         "apply_urls": "https://jobs.digitalhire.com/job-listing/opening/4maMXbacyrNTqTcCLncLE0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.johnsoncontrols.com/job/WD30270848?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/johnson-controls-inc/best-technical-sales-fire-systems-detroit-mi-37978152/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.johnsoncontrols.com/job/WD30269099?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/field-hvac-chiller-technician-apprentice--auburn-hills--edca4f27eda89a7302f45122529bd6733?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/hvac-project-lead-mechanical-retrofit--auburn-hills--e1d2df57bc41e5705f5cd43dab8a8bcc0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/d8e67361-779c-4e45-9385-b15832b4fea5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://salutemyjob.com/jobs/fire-detection-specialist-farmington-hills-michigan/2884861830-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit branch listing",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3397,11 +3106,7 @@
         "apply_urls": "https://jobmesh.io/job/206a186b-75f0-4b77-893a-fc6a855cd47b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/regional-vp-gm-hvac-distribution-growth-leader--detroit--e3231c071b705730fa32fe1e28094a194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/regional-vp-general-manager-multi-store-operations--detroit--eca474cbc8c366de1afce5d89bd00bdd9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/5688817583088730112?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers-johnstonesupply.icims.com/jobs/1832/material-handler-i/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://clerkcrew.com/joblistings/on-demand-support-associate-roseville-michigan-clerk-crew-6a02f8f3e900aa08f163e43c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/material-handler-i-fast-paced-warehouse-forklift-ready--taylor--ef7415813d0901a101c48240498532422?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/material-handler-i-forklift-inventory-focus--taylor--ea3cceddf569338ed5769744f3b6c01af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/counter-sales-service-associate-johnstone-supply-llc-taylor-mi--jooble--1674184239373460510?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/office-branch-support-associate--roseville--e00b7fc2f5101049933e5169e8a5abe3c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Company store #226 page",
-        "geocode_source": "Census",
-        "zip_parsed": "48227",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3438,11 +3143,7 @@
         "apply_urls": "https://www.linkedin.com/jobs/view/test-technician-i-at-link-engineering-company-4409413463?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://apphtam.com/?refId=YAjPuTvbSpKqVpv4XyZz6g%3D%3D&trackingId=6bjq0wzKPRo2ZEqItahQug%3D%3D&_=/jobs/view/test-technician-i-at-link-engineering-company-4409413463%23mMedrnUJYxzyt0NAlb2n7pXXgLAoUCNe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/welder-fabricator-ii-at-link-engineering-company-4410074186?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.digitalhire.com/job-listing/opening/2tgCeb1JSQFQAqDcKiFKAS?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/5307821410901557248?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/automotive-test-technician-i-lab-data-specialist-link-engineering-detroit--lensa-7428_5a2714fae5fe7f1e066c2af73232f6b59ef3e26f5c380ea3efb7e7123878b7fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.digitalhire.com/job-listing/opening/1ndPI9JhdweAzuXPDHBTd1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.dominos.com/us/jobs/7fd727ff-002c-4dae-b82b-647a3278710e/assistant-manager/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobilize.com/job/us-mi-detroit-mechanical-test-technician-i-link-engineering-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.lever.co/pmaconsultants/8200d5d2-b81e-4518-8df4-372d6286bedb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Dearborn Technical Center",
-        "geocode_source": "Census",
-        "zip_parsed": "48120",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3479,11 +3180,7 @@
         "apply_urls": "https://us.trabajo.org/job-4023-47d03dd0446e33fe86c6c810cd7549ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-9a2a332803bbb0a01a44422f5faa7363?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Linked-Professional-Services/Job/Maintenance-Laborer-Sweeper-(2nd-shift)/-in-Fraser,MI?jid=2ee0188004896057&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5806910494?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/maintenance-technician-1st-shift-utica-linked-professional-services-1a92cc172d9fc0b9c3707038cf8bc209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jooble.org/jdp/880575124689855831?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Linked-Professional-Services/Job/Maintenance-Laborer-Sweeper-(1st-shift))/-in-Fraser,MI?jid=90231c743387cf39&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/controls-engineer-industrial-detroit-linked-professional-services-d41556c039351085c7ab93012488aa5f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/program-engineer-engineering-assistant-linked-professional-services-8dbcb425dc5833a37f10a3af8bbc392a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://lensa.com/job-v1/linked-professional-services/novi-mi/accounting-team-leader-advisor/9d9cdc61603b148e1005e8ee3901a06c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit-metro (Sterling Heights)",
-        "geocode_source": "Census",
-        "zip_parsed": "48314",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3520,11 +3217,7 @@
         "apply_urls": "https://www.adzuna.com/details/5810477981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihireelementaryteachers.com/jobs/view/529375880?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobmesh.io/job/dfd4be38-7a5b-4980-9059-7332ba289728?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5811805480?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5796558285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.k12jobspot.com/Job/5472029?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.k12jobspot.com/Job/5382004?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/wayne-county-schools-employment-network/custodian-mon-fri-8-hours-pm-shift-31226404/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://lifeworq.com/job/2065ee29-bf8c-42b7-9695-a08dc7bf7224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-6912355437b2505941ad634989f8550e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Livonia, MI | Address research: [LOCAL] District administration building",
-        "geocode_source": "Census",
-        "zip_parsed": "48154",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3561,11 +3254,7 @@
         "apply_urls": "https://digitalnoah.com/job-library/job/cdl-a-equipment-operator-at-marine-pollution-control-corporation-detroit-mi-cDlKUTRYS1VHNlpJVThVU0lBWlV1V0hOaUE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/dispatch-coordinator-86036533/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/cdl-a-equipment-operator-72821783/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/in-office-dispatch-resource-coordinator-92357154/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/environmental-service-technician-72349783/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/284084991829213184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/hazardous-waste-coordinator-field-office-specialist-74287739/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/cdl-a-equipment-operator-tankers-pumps-field-work-74205726/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/cdl-a-equipment-operator-tankers-field-pumps-74249871/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/marine-pollution-control/detroit/hazardous-waste-compliance-specialist-74368863/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Name variants in scrape: Marine Pollution Control Corporation; Marine Pollution Control | Address research: [LOCAL] Company's Detroit facility",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3602,11 +3291,7 @@
         "apply_urls": "https://careers.medxcel.com/jobs/17869?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.medxcel.com/jobs/17863?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.medxcel.com/jobs/17738?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.medxcel.com/jobs/17644?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.medxcel.com/jobs/17751?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.medxcel.com/jobs/17739?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.medxcel.com/jobs/17812?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.monster.com/job-openings/maintenance-mechanic-ii-detroit-mi--8327110f-f92e-44cf-b880-1172e5b5595b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.hirethebetter.com/jobs/licensed-powerplant-operator-iii-detroit-day-shift-detroit-michigan/2879245902-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Facilities mgmt for Henry Ford Health, Detroit campus",
-        "geocode_source": "Census",
-        "zip_parsed": "48202",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3643,11 +3328,7 @@
         "apply_urls": "https://www.levels.fyi/jobs?jobId=126127131728978630&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=543c7bf1ec8081d9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/licensed-plumbing-installer-5k-sign-on-growth-path--detroit--edfa86d7e65d1178b435d04d232b09b38?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://mindpal.co/jobs/79110?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.nexxt.com/jobs/project-coordinator-detroit-mi-3306193154-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/moore-mechanical/detroit/senior-hvac-installer-115230111/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://mindpal.co/jobs/79036?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/moore-mechanical/detroit/hvac-retrofit-technician-nate-sign-on-bonus-growth-124850533/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/construction/5264348969/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=db2bf02c92ab5fbc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] 'Detroit - Novi' branch location",
-        "geocode_source": "Census",
-        "zip_parsed": "48375",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3684,11 +3365,7 @@
         "apply_urls": "Indeed",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Electrical/voice-data-video contractor",
-        "geocode_source": "Census",
-        "zip_parsed": "48213",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3725,11 +3402,7 @@
         "apply_urls": "https://lifeworq.com/job/684db1f5-4772-47fe-b0a8-a1149900dba6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/puris/detroit/operator-excavator-10000-35000-lbs-128396055/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/field-technician-construction-laborer--detroit--ecc2d60859cb4583a014cc759d0044947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/field-foreman-trenchless-infra-construction--detroit--ec2dfa3e7f3fba4230038d853eb688bc0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/equipment-operator-pipe-bursting-utilities-detroit-puris-corporation-llc-detroit-mi-united-states--appcast-7428_bf5e75d50d5f3101b38ab29a60a4ac61938e521a6b32a387aad921850fc760c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jooble.org/jdp/-4430638849956042699?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5293131901/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-2850-668ce4d122e796bd80a8e28da63ed938?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/puris/detroit/senior-estimator-water-wastewater-projects-72894289/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5272379840/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Via Inland Waters Pollution Control (IWPC), a PURIS company in Detroit since 1973",
-        "geocode_source": "Census",
-        "zip_parsed": "48210",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3745,8 +3418,8 @@
         "company": "Perigee Manufacturing Company",
         "operational_status": null,
         "business_type": "Manufacturing",
-        "category": "Advanced Manufacturing & Heavy Industry",
-        "sub_category": "Metal Fabrication",
+        "category": "Needs Review",
+        "sub_category": "Needs Review",
         "vehicle_type": null,
         "fleet_size": null,
         "full_address": "7519 Intervale St, Detroit, MI 48238",
@@ -3766,11 +3439,7 @@
         "apply_urls": "https://talents.vaia.com/companies/perigee-manufacturing-company-inc/general-labor-manufacturing-8105215/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/perigee-manufacturing-company-inc/cnc-machine-operator-8018146/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://app.careerplug.com/jobs/2519939?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/4743338394673741824?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/quality_control/5265969617/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/perigee-manufacturing-company-inc/detroit/administrative-specialist-office-accounts-support-66884745/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.wayup.com/i-j-Acme-Gridley-Screw-Machine-Setup-Operator-Perigee-Manufacturing-Company-Inc-70881970294389/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/perigee-manufacturing-company-inc/detroit/precision-qc-inspector-2-yrs-gdt-iso-9001-spc-123539407/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/perigee-manufacturing-company-inc/detroit/senior-cnc-machinist-lathes-mills-miyano-94712194/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=bf7e6fe900c867ca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed via company site",
-        "geocode_source": "Census",
-        "zip_parsed": "48238",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3807,11 +3476,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=71ea3ddaf92fbd8a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/jobot/detroit/industrial-maintenance-technician-detroit-84752958/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.expertini.com/job/gse-training-and-development-supervisor-mechanic-detroit-primeflight-aviation-services-cb7121372dca44afa0621bd7c6eda290105/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Active DTW operations; exact hangar # not published",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48242",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -3848,11 +3513,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=074d83b7cfb1b897&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5504489305?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.digitalhire.com/job-listing/opening/5QO682xLanZ1Wxj4bdY1cx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-0da8cde58aab290c117cd5289722a53d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.digitalhire.com/job-listing/opening/2lBhFXXqasso8A03TDCgau?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=732161c5d6ed908d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/project-manager-health-wellness-built-environment--detroit--e136fc21ca99cf4f10e798c5724d86de8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/mechanical-engineer-ii-science-industrial-technology--detroit--ecdecc79796c3b5ab95a50a4b5cdd6d9d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-4023-ac24a6060b9d1f538171f483783a89ac?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobtarget.com/jobs/jt-30iwggs1yv/mechanical-engineer-industrial-pump-and-fluid-systems-detroit-michigan?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=074d83b7cfb1b897&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit office (Chroma building), opened June 2023",
-        "geocode_source": "Census",
-        "zip_parsed": "48202",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3889,11 +3550,7 @@
         "apply_urls": "https://www.jobleads.com/us/job/commercial-refrigeration-service-technician-hvac-r--detroit--e115f4cf7f24b14d1926d5f9233b6a3c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://salutemyjob.com/jobs/commercial-electrician-detroit-michigan/2879714821-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://detroit.us.expertini.com/job/commercial-electrician-detroit-rsc-mechanical-606171812781889688/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/RSC-Mechanical/Job/Commercial-HVAC-R-Service-Technician/-in-Macomb,MI?jid=4bf85fe506c8488b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.movecollective.uk/jobs/commercial-electrician-detroit-michigan/2879714821-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Company HQ, Detroit metro area",
-        "geocode_source": "Census",
-        "zip_parsed": "48038",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3930,11 +3587,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=800eb4dfc3af1495&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://raizansolutions.com/Healthcares/associate-dentist-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.woodbridgegroup.com/job/Troy-Manager,-Engineering-MI-48084/604434317/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://raizansolutions.com/Healthcares/part-time-dental-hygienist-commerce-township/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://salutemyjob.com/jobs/electrical-systems-engineer-high-voltage-vehicle-systems-troy-michigan/2879026224-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.glassdoor.com/job-listing/embedded-software-engineer-raizan-solutions-JV_IC1134737_KO0,26_KE27,43.htm?jl=1010194068874&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/precision-electronics-technician-pcb-repair-prototyping-raizan-solutions-llc-troy--lensa-7428_b4c6201472933da77d23cb5d2f6876a1ead89ae301c0f11043471351bf6dee04?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://raizansolutions.com/Healthcares/dental-treatment-coordinator-walled-lake-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/senior-hv-vehicle-electrical-systems-engineer-raizan-solutions-llc-troy--lensa-7428_9ef93141bfa495fc6e5b70d413fcac52c634cbd29a55ffe5dd28272750f27b68?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.salesjobs.com/sales-job/51037669?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Troy, MI | Address research: [LOCAL] Confirmed via staffing directory listing",
-        "geocode_source": "Census",
-        "zip_parsed": "48084",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -3971,11 +3624,7 @@
         "apply_urls": "https://tsenta.com/jobs/republic-services-hazmat-field-driver-technician-cdl-a-or-b-6492a2a0-59cf-4f8e-ac27-a02cea876a7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bandana.com/jobs/7758f593-d330-4702-9339-3a48ee26dae5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/gate-attendantchemical-operator-es-detroit-republic-services-529a147ed43bd48d3b68237d59bc2c2a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.republicservices.com/us/en/job/ROURSAUSR180123EXTERNALENUS/Forklift-Operator-MRF?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://tsenta.com/jobs/republic-services-driver-cdl-b-large-container-5f27ff88-e4c6-4d5f-84af-69e1e911e697?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.transforce.com/viewjob/Republic-Services/Hazmat-Retail-Driver-(CDL-A-and-B)/Detroit-MI/PJ/eyJpZCI6IjhmYjVhMjQxLWQ1NjktNDU5YS05NWUyLWUxMGI0NzQ3NDlkMyIsInNvdXJjZSI6InBhcnRuZXJlZC1qb2IifQ==?fs=35&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.tealhq.com/job/field-chemist-driver-hazardous-lab-pack-non-cdl_7ea1ab339439a61c4740f151b7952123e404a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.tealhq.com/job/hazmat-retail-driver-cdl-b_7ea1a9dac4f264b8d1d68dda93d399e8d1c28?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/cdl-hazmat-retail-driver-mon-fri-routes-customer-service-republic-services-detroit--lensa-7428_f6cf627fdf876efcda6d6be91d5b8d8d941e6a2e43e1a870f6b88a3ea8488fc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5672632659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit South Facility",
-        "geocode_source": "Census",
-        "zip_parsed": "48211",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4012,11 +3661,7 @@
         "apply_urls": "https://www.sonicjobs.com/us/jobs/center-line/full-time/stt---weld-tech-699eeb7bb174ac292b2eced8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/center-line/full-time/transfer-press-tech-69c52bc8246cedca120fe27b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/center-line/full-time/cws---lift-truck-operator-699eebcfb174ac292b30b804?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=f950c4b6231c1d4d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.paycomonline.net/v4/ats/web.php/portal/176BFF6EA16953ABFDC7681659C1C98F/jobs/642974?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/center-line/full-time/stt---electrician-699eebcfb174ac292b30b827?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=59bc025c660bbf19&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/quality-documentation-assistant-entry-level--center-line--e781b121fdef18856f70a689a40f3fdd8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/entry-level-process-engineer-data-driven-manufacturing-ci--center-line--e29f2e4014daa18b32ee2cb3852e3baba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/warren/michigan/transportation/5288641906/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.adzuna.com/details/5745409949?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Center Line, MI | Address research: [LOCAL] Confirmed via business listings",
-        "geocode_source": "Census",
-        "zip_parsed": "48015",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4053,11 +3698,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=4690a23d35d3f421&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/divisional-training-director-lead-ready-mix-ops--detroit--e408f4ac05b22a1342a28c0baedaab4d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=08eaf02c65037a16&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=a9697d32e78fa43b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit ready-mix plant",
-        "geocode_source": "Census",
-        "zip_parsed": "48203",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4094,11 +3735,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=37f3810a23db36e3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://tallo.com/talent/job/architecture-and-construction/electrician/mi/detroit/electrician-journeyman-indus-07e615e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/savage-services/detroit/operations-leader-material-handling-logistics-119237450/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/head-of-operations-managed-transportation-savage-services-detroit-mi--jooble-3689563870241876583?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/electrician-industrial-toledo-savage-676dacf34acfda9108bd750d1a64bdfc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.stevenagefc.com/jobs/industrial-electrician-journeyman-level-melvindale-michigan/2875671951-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/journeyman-electricians-local-and-traveling-needed-savage-services-detroit-mi--jooble-7270508941321646159?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=648b82f4de1cd73d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=d1ee3c4622ab6f89&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://tallo.com/talent/job/architecture-and-construction/electrician/mi/detroit/electrician-journeyman-indus-07e615e1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Savage Transload Network Detroit-area terminal (Melvindale)",
-        "geocode_source": "Census",
-        "zip_parsed": "48122",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4135,11 +3772,7 @@
         "apply_urls": "https://sheetz.com/gfj/1-safety-specialist-ecorse-mi-6a5f3b46e376153722e59041?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://sheetz.com/gfj/1-safety-specialist-detroit-mi-6a5f37d1e376153722e58f41?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI  (+1 other) | Address research: [LOCAL] No Sheetz within Detroit city limits; nearest metro-Detroit location (near DTW)",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48174",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -4176,11 +3809,7 @@
         "apply_urls": "https://www.ziprecruiter.com/c/Smyrna-Ready-Mix/Job/Mixer-Operator-(CDL-Mixer-Driver)-Ready-Mix-Concrete/-in-Highland-Park,MI?jid=c76a5bea70d2d0ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/remote-mechanic-jobs/automotive-mechanic-car-trucks-56050392/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers-smyrnareadymix.icims.com/jobs/2056/shop-manager--diesel-mechanic-detroit%2C-michigan/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://lifeworq.com/job/85475ddf-b8bb-429f-956a-4058a3d33981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers-smyrnareadymix.icims.com/jobs/2056/shop-manager--diesel-mechanic-detroit%2C-michigan/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Smyrna-Ready-Mix/Job/Mixer-Operator-(CDL-Mixer-Driver)-Ready-Mix-Concrete/-in-Highland-Park,MI?jid=c76a5bea70d2d0ba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/remote-mechanic-jobs/automotive-mechanic-car-trucks-56050392/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers-smyrnareadymix.icims.com/jobs/1646/divisional-training-director/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://lifeworq.com/job/85475ddf-b8bb-429f-956a-4058a3d33981?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/central-dispatch-lead-ready-mix-logistics-service-smyrna-ready-mix-detroit--lensa-7428_be05cfeb8c3ff0e626e1a093121c0b4aeb2ffc9cfc1a0c253039914e2777325d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.nexxt.com/jobs/fleet-mechanic-mixer-trucks-heavy-equipment-detroit-mi-highland-park-mi-3235547483-job.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI; Utica, MI; Warren, MI | Name variants in scrape: Smyrna Ready Mix, LLC; Smyrna Ready Mix LLC; Smyrna Ready Mix | Address research: [LOCAL] Detroit ready-mix plant (brand now SRM Concrete)",
-        "geocode_source": "Census",
-        "zip_parsed": "48203",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4217,11 +3846,7 @@
         "apply_urls": "https://jooble.org/jdp/4030232846804157778?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/southwest-economic-solutions/commercial-credit-and-collections-analyst-i-40419738/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/southwest-economic-solutions/product-coordinator-38902991/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/southwest-economic-solutions/detroit/local-truck-driver-safe-team-player-with-benefits-74290966/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/customer-service-intern-southwest-economic-solutions-detroit--lensa-7428_e505a9721b5983b87c844d50fbb095bdc9a749421ac1aa28173003ee6f8a104e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Now operating as MiWealth/Southwest Solutions",
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4258,11 +3883,7 @@
         "apply_urls": "Indeed",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Confirmed Detroit terminal",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4299,11 +3920,7 @@
         "apply_urls": "https://www.governmentjobs.com/jobs/5414812-0/departmental-analyst-trainee-9-p11-12-senior-field-compliance-metro-region?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.governmentjobs.com/careers/michigan/jobs/1980800/project-director-architect-licensed-specialist-13?keywords=Project+Director+-+Architect+Licensed+Specialist+13&pagetype=jobOpportunitiesJobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/hybrid-vocational-rehabilitation-counselor-empower-careers-state-of-michigan-detroit--lensa-7428_e4ee5e829c2ae69b440aea12b33ff3132974c8393b53c03ee8d0a4e3d14b7575?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Cadillac Place - Detroit state office building",
-        "geocode_source": "Census",
-        "zip_parsed": "48202",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4340,11 +3957,7 @@
         "apply_urls": "https://careers.stellantis.com/job/23622735/follow-up-analyst-supervisor-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23590982/metrology-manager-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23381002/manufacturing-mechanical-engineer-upe-assembly-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23560415/launch-manager-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23381001/manufacturing-mechanical-engineer-machining-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23409201/energy-center-engineer-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23110369/occupational-health-registered-nurse-detroit-metro-area-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23466540/per-diem-occupational-registered-nurse-detroit-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/manufacturing/5299414754/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23381001/manufacturing-mechanical-engineer-machining-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.stellantis.com/job/23381002/manufacturing-mechanical-engineer-upe-assembly-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Detroit Assembly Complex - Mack Plant",
-        "geocode_source": "Census",
-        "zip_parsed": "48214",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4381,11 +3994,7 @@
         "apply_urls": "Learn4Good",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] MI manufacturing facility (~35 mi NW of Detroit)",
-        "geocode_source": "Census",
-        "zip_parsed": "48189",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4422,11 +4031,7 @@
         "apply_urls": "https://jobs.famunaa.org/job/industrial-sales-development-program-account-manager-trainee/85265409/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.recruit.net/job/oem-account-manager-mobile-fluid-jobs/0E92E20D995DD042?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/automation-technical-specialist-detroit-sunsource-dca281443b16e9662caf2d2b7d10e6e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://titanexecutivesearch.com/job/industrial-sales-account-manager-detroit-mi/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://builtin.com/job/outside-sales-account-manager-fluid-power-components-and-solutions/9999683?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/SunSource/Job/OEM-Account-Manager-Mobile-Fluid-Power/-in-Detroit,MI?jid=c1724e4052044640&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/sales-development-pro-12-month-path-to-account-manager--detroit--e7bba84a2c8ccfaea0d390e89fdbbab5e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/outside-sales-account-manager-fluid-detroit-sunsource-dbbd48aff96f4f973840ac59300fb222?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/industrial-sales-account-manager-trainee-detroit-sunsource-8a0108d084d7e1bf868ac5f8326af8cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/sunsource/detroit/detroit-metro-outside-sales-fluid-process-account-manager-66968603/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/SunSource/Job/Servo-Motor-Pump-Mechanical-Repair-Technician/-in-Taylor,MI?jid=47e5efec0a3fc777&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Taylor, MI | Address research: [LOCAL] Nearest verified metro-Detroit branch; Taylor, MI not confirmed",
-        "geocode_source": "Census",
-        "zip_parsed": "48313",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4463,11 +4068,7 @@
         "apply_urls": "https://bebee.com/us/jobs/concrete-tester-superior-materials-llc-farmington-mi--t7xk-753727914?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/summer-laborer-superior-materials-farmington-hills-mi--theirstack-695885885?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.salesjobs.com/sales-job/51082521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Farmington Hills, MI | Address research: [LOCAL] Confirmed via listings",
-        "geocode_source": "Census",
-        "zip_parsed": "48336",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4504,11 +4105,7 @@
         "apply_urls": "https://trigogroup.applicantpro.com/jobs/4135457?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=7c9406f47e343274&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobget.com/jobs/job/ats_applicantpro_4-4158125?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/trigo-group/detroit/quality-inspector-123636793/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-2283-be85959e73dfbfe3477b0a6163b50979?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.trabajo.org/job-5003-73496780226bdb3718490202431c6285?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://trigogroup.applicantpro.com/jobs/4143795?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobget.com/jobs/job/ats_applicantpro_4-4143798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonara.ai/job-details/quality-manager-at-trigo-global-quality-solutions-2f66d4a8-7863-246e-28bc-716d197557d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.careerbuilder.com/job-details/resident-engineer-quality-liaison-detroit-mi--01447384-4e79-46ba-addb-d18a8de9d107?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI; Highland Park, MI | Address research: [LOCAL] TRIGO USA Automotive HQ servicing region",
-        "geocode_source": "Census",
-        "zip_parsed": "48326",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4545,11 +4142,7 @@
         "apply_urls": "https://www.talascend.com/portal/jobseekers/jobs/136023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135719?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/136007?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/136015?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135988?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135937?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135465?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/135476?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.talascend.com/portal/jobseekers/jobs/136023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Listed as company's 'Detroit' office (Troy, MI)",
-        "geocode_source": "Census",
-        "zip_parsed": "48098",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4586,11 +4179,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=41febf48c1f4b47f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] FMCSA SAFER carrier record, near DTW",
-        "geocode_source": "Census",
-        "zip_parsed": "48174",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4627,11 +4216,7 @@
         "apply_urls": "https://www.sonara.ai/job-details/submersible-pump-technician-at-tencarva-machinery-company-llc-7623dba2-a8bf-b2d4-8cd6-094fc78cdd9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobtarget.com/jobs/jt-79u1uwmpcn/mechanic-i-detroit-michigan?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/field-service-technician-hiring-immediately-tencarva-machinery-company-detroit--jobmesh-3ed04d0e-8306-4af2-986a-1cdbc4fede9f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/skilled_labor/5310194989/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://recruiting.paylocity.com/recruiting/jobs/Details/4231694/Tencarva-Machinery-Company/Repair-Technician?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://recruiting.paylocity.com/recruiting/jobs/Details/4356337/Tencarva-Machinery-Company/Mechanical-Engineer---Industrial-Pump-Fluid-Systems?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/applications-engineer-industrial-pump-systems--warren--e55b09672c901c72d8ec2972648b737fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/tencarva-machinery-company/warren/service-repair-manager-industrial-pumps-flow-control-equipment-59962218/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/vixxo-corporation/equipment-technician-denver-co-field-based-32451410/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.salesjobs.com/sales-job/51043692?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonara.ai/job-details/submersible-pump-technician-at-tencarva-machinery-company-llc-7623dba2-a8bf-b2d4-8cd6-094fc78cdd9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/tencarva-machinery/detroit/industrial-pump-repair-tech-oem-backed-rebuild-testing-125371994/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobtarget.com/jobs/jt-79u1uwmpcn/mechanic-i-detroit-michigan?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/tencarva-machinery/service-repair-manager-industrial-pumps-process-equipment-41584941/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.monster.com/job-openings/repair-tech-industrial-pumps-rotating-equipment-warren-mi--fd914e01-950e-488a-8b13-336f2f37ca71?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/vixxo-corporation/equipment-technician-denver-co-field-based-32451410/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI; Warren, MI | Name variants in scrape: Tencarva Machinery Company; Tencarva Machinery | Address research: [LOCAL] Confirmed via company Michigan locations page",
-        "geocode_source": "Census",
-        "zip_parsed": "48089",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4668,11 +4253,7 @@
         "apply_urls": "https://jobs.practicelink.com/jobs/1538284/pediatrics-adolescent-med/physician/michigan/dmc-children-s-hospital-of-michigan/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://prosple.com/graduate-employers/tenet-healthcare/jobs-internships/pharmacy-intern-dmc-childrens-hospital-of-michigan-detroit-mi-job-type-prn-shift-rotating?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.hospitalrecruiting.com/job/840243/adolescent-pediatrician/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.digitalhire.com/job-listing/opening/1uRbkfSYGzPOD7qVgVTMF2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.practicelink.com/jobs/1592242/pediatrics-cardiology/physician/michigan/dmc-children-s-hospital-of-michigan/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.sonicjobs.com/us/jobs/detroit/full-time/patient-access-specialist-troy-days-pt-699dd039118492d3f874b7ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/343284896891928576?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] DMC Detroit Receiving Hospital",
-        "geocode_source": "Census",
-        "zip_parsed": "48201",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4709,11 +4290,7 @@
         "apply_urls": "Learn4Good",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Warren City Hall",
-        "geocode_source": "Nominatim",
-        "zip_parsed": "48093",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Nominatim"
       }
     },
     {
@@ -4750,11 +4327,7 @@
         "apply_urls": "https://talents.vaia.com/companies/the-kissner-group/detroit/heavy-equipment-operator-haul-truck-driver-utility-66921192/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://wepoweramerica.applicantpro.com/jobs/3823459?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/the-kissner-group/detroit/electro-mechanical-tech-74290283/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/the-detroit-salt-company/detroit/underground-diesel-mechanic-heavy-equipment-74293140/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ziprecruiter.com/c/Detroit-Salt-Company/Job/Heavy-Equipment-Operator-(Haul-Truck-Driver-Utility)/-in-Detroit,MI?jid=a741b6d784dcb1ae&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/the-detroit-salt-company/detroit/underground-heavy-equipment-operator-haul-truck-driver-66969902/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://career.io/job/controls-engineer-detroit-detroit-salt-8ea39cf50532ebc2077247d5f51b2a0c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/underground-mine-haul-truck-operator--detroit--ebb6eed34bea3c22564945fb128999734?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/6613599598982201344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/the-detroit-salt-company/detroit/underground-maintenance-planner-supervisor-88060020/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Mineshaft/office address",
-        "geocode_source": "Census",
-        "zip_parsed": "48217",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4791,11 +4364,7 @@
         "apply_urls": "LinkedIn",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Farmington Hills, MI | Address research: [LOCAL] Confirmed via BBB/Yelp/company site",
-        "geocode_source": "Census",
-        "zip_parsed": "48335",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4832,11 +4401,7 @@
         "apply_urls": "Edinburgh City FC",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: River Rouge, MI | Address research: [LOCAL] CBP Detroit Service Port office near Ambassador Bridge",
-        "geocode_source": "Census",
-        "zip_parsed": "48216",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4873,11 +4438,7 @@
         "apply_urls": "https://www.jobleads.com/us/job/cdl-b-ready-mix-truck-driver-local-routes-benefits--detroit--e5392a7343da7756568bfc00266e0ace4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Detroit-ready-mix-concrete-driver-MI-48201/1370454300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Detroit-Licensed-Millwright-MI-48209/1358777100/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Detroit-Electrical-Technician-1-MI-48209/1359977300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Farmington-Hills-Technical-Services-Representative-MI/1365587700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Detroit-ready-mix-concrete-driver-MI-48201/1370454300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/maintenance-planning-coordinator-ii-1-at-votorantim-cimentos-north-america-vcna-4442351874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Detroit-ready-mix-concrete-driver-MI-48201/1370454300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.linkedin.com/jobs/view/maintenance-planning-coordinator-ii-1-at-votorantim-cimentos-north-america-vcna-4442351874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/cdl-b-ready-mix-truck-driver-local-routes-benefits--detroit--e5392a7343da7756568bfc00266e0ace4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://careers.vcna.com/job/Detroit-Electrical-Technician-1-MI-48209/1359977300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/votorantim-cimentos-north-america-vcna/detroit/licensed-millwright-hydraulics-pneumatics-expert-111959117/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/votorantim-cimentos-north-america-vcna/farmington-hills/plant-operations-batch-control-specialist-120467406/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.career.com/job/votorantim-cimentos-north-america-vcna/order-taker/j202606040325067107078?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/mechanic-heavy-duty-1-votorantim-cimentos-auburn-hills--ss-us-iengs0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Auburn Hills, MI; Detroit, MI; Detroit, MI  (+1 other); Farmington Hills, MI | Name variants in scrape: Votorantim Cimentos North America (VCNA); Votorantim Cimentos; VCNA | Address research: [LOCAL] VCNA/St Marys Cement Detroit facility",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4914,11 +4475,7 @@
         "apply_urls": "https://www.jobleads.com/us/job/senior-technical-project-manager--detroit--eaeb4edddcc7308aecdc5ca81ef436322?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://us.jobrapido.com/jobpreview/1006080676597858304?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobtarget.com/jobs/jt-79l3x6mpcn/natural-gas-designer-2980-detroit-michigan?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.lever.co/wadetrim/b1db98d7-875e-4790-a337-97ec83875f17?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/senior-transportation-construction-inspector-2971--detroit--e52b94617eba64aaeeaa1989c40aac821?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.jobleads.com/us/job/hybrid-remote-natural-gas-project-manager--detroit--e1f267c9e0d210ad679d0e3119510a255?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobright.ai/jobs/info/6a4adc02f9cbb100d1ab5032?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=87a39b9c6ae0ce44&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.learn4good.com/jobs/detroit/michigan/government/5290220199/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://talents.vaia.com/companies/wade-trim/civil-structural-substation-engineer-2734-06-48045028/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.lever.co/wadetrim/034ae26f-97ef-45f7-a45f-9632067646df?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Wade Trim's Detroit corporate office",
-        "geocode_source": "Census",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4955,11 +4512,7 @@
         "apply_urls": "https://www.indeed.com/viewjob?jk=7dc481b62d50d7a1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Terminal on the Detroit River",
-        "geocode_source": "Census",
-        "zip_parsed": "48209",
-        "geo_bucket": "Core 12",
-        "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -4996,11 +4549,7 @@
         "apply_urls": "https://www.adzuna.com/details/5815681288?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.recruit.net/job/wayne-county-government-is-registered-jobs/921444A01ECB69A8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://waynecountygovernment.applicantpro.com/jobs/3709380?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.indeed.com/viewjob?jk=aa36f830fc263ff5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://waynecountygovernment.applicantpro.com/jobs/4136676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://waynecountygovernment.applicantpro.com/jobs/3986272?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://waynecountygovernment.applicantpro.com/jobs/3986297.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://waynecountygovernment.applicantpro.com/jobs/3737070.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://waynecountygovernment.applicantpro.com/jobs/4091809.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://lifeworq.com/job/584d52d7-4b20-481d-bee0-50f9587bc897?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Wayne County government headquarters",
-        "geocode_source": "Census",
-        "zip_parsed": "48226",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -5037,11 +4586,7 @@
         "apply_urls": "ZipRecruiter",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Wayne, MI | Address research: [LOCAL] Operated by Wayne RESA at this address",
-        "geocode_source": "Census",
-        "zip_parsed": "48184",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -5078,11 +4623,7 @@
         "apply_urls": "https://www.ihireschooladministrators.com/jobs/view/529992165?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihireelementaryteachers.com/jobs/view/529410950?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.workinsports.com/jobs/view/529733429?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihireelementaryteachers.com/jobs/view/529732215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihirehr.com/jobs/view/528122770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://bebee.com/us/jobs/grounds-keeper-2-edustaff-write-wayne-resa-detroit--lensa-2365_67cface4aa8e501b67757e480020fd528c5788214c94f52d4f7e945eacc78909?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihireelementaryteachers.com/jobs/view/528122140?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://salutemyjob.com/jobs/elementary-afternoon-custodial-leader-detroit-michigan/2847410129-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://earnbetter.com/app/job/01KVPMV9HAW4RHP30GXXRZCJJG/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.ihireschooladministrators.com/jobs/view/529125164?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Wayne RESA headquarters",
-        "geocode_source": "Census",
-        "zip_parsed": "48184",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     },
     {
@@ -5119,11 +4660,7 @@
         "apply_urls": "https://www.mediabistro.com/jobs/3542419646-multimedia-producer-editor?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.mediabistro.com/jobs/3542435966-dynamic-multimedia-producer-editor?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://sidehustles.com/job/research-associate-nutrition-food-science-d2e1405f/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.higheredjobs.com/admin/details.cfm?JobCode=179497654&Title=Sr.+Library+Associate,+Access+Services&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.chronicle.com/job/38016608/building-coordinator-and-admin-assistant-i-law-school/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.chronicle.com/job/38008454/reservations-supervisor/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.mediabistro.com/jobs/3542179202-assistant-editor-job-at-wayne-state-university-in-detroit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.chronicle.com/job/38011051/planned-giving-assistant/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://www.higheredjobs.com/admin/details.cfm?JobCode=179460765&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic | https://jobs.chronicle.com/job/38016612/pathologists-assistant-medical-examiner-s-office/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "latest_scrape": "2026-07-28",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Main campus address",
-        "geocode_source": "Census",
-        "zip_parsed": "48202",
-        "geo_bucket": "Detroit (other)",
-        "in_scope": "Review",
-        "zone": "Detroit"
+        "geocode_source": "Census"
       }
     },
     {
@@ -5160,11 +4697,7 @@
         "apply_urls": "Learn4Good",
         "latest_scrape": "2026-06-02",
         "notes": "Job locations: Detroit, MI | Address research: [LOCAL] Based in Ann Arbor (~40 mi from Detroit), services Detroit area",
-        "geocode_source": "Census",
-        "zip_parsed": "48103",
-        "geo_bucket": "Outside corridor",
-        "in_scope": "No",
-        "zone": "Outside the area"
+        "geocode_source": "Census"
       }
     }
   ]
