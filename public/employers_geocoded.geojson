@@ -39,7 +39,12 @@
         "zip_parsed": "48183",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -80,7 +85,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -121,7 +131,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -162,7 +177,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -203,7 +223,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -244,7 +269,12 @@
         "zip_parsed": "48217",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -285,7 +315,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -326,7 +361,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Unclear: 1",
+        "lowest_education": "Unclear",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "Unclear",
+        "job_descriptions": null
       }
     },
     {
@@ -367,7 +407,12 @@
         "zip_parsed": "48207",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -408,7 +453,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "Training or certificate: 3",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "33% from posting text (1/3)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " | Tech Time Repair Cell Phone Repair Technician Job at Tech Time Repair ...Tech Time Repair is your go-to solution for all your household electronics needs. We're... ...home appliances. With a team of skilled technicians and a commitment to exceptional customer... ...are seeking a skilled and detail-oriented Cell Phone Repair Technician to join our team on a... | "
       }
     },
     {
@@ -449,7 +499,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "Training or certificate: 2",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "100% from posting text (2/2)",
+        "job_educations": "Training or certificate | Training or certificate",
+        "job_descriptions": "CDL Class A | PART-TIME CDL DRIVERS WANTED Churchill Transportation is BUSY and looking for part-time CDL drivers to help cover additional freight commercial-driver-s-license-cdl"
       }
     },
     {
@@ -490,7 +545,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -531,7 +591,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -572,7 +637,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "College degree: 3",
+        "lowest_education": "College degree",
+        "education_confidence": "33% from posting text (1/3)",
+        "job_educations": "College degree | College degree | College degree",
+        "job_descriptions": "Qualifications: Experience in the construction industry and familiarity with Microsoft 365 and Azure Cloud required. The predicted salary is between 72000 - 108000 $ per year. Job Description Role Summary: IT Application Developer will develop. plan, test, implement, and validate IT system solutions that improve business efficiency and productivity as well as support business strategies and goals. This role will also identify and communicate business needs and translate business requirements into technical system and functional specifications. Core Description: 1. Business Support and Developm |  | "
       }
     },
     {
@@ -613,7 +683,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -654,7 +729,12 @@
         "zip_parsed": "48229",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -695,7 +775,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -736,7 +821,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -777,7 +867,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -818,7 +913,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -859,7 +959,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -900,7 +1005,12 @@
         "zip_parsed": "48183",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -941,7 +1051,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -982,7 +1097,12 @@
         "zip_parsed": "48192",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": "No degree required: 3 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "29% from posting text (2/7)",
+        "job_educations": "College degree | No degree required | College degree | College degree | No degree required | No degree required | College degree",
+        "job_descriptions": " |  |  |  | Bachelor's Degree or High School Diploma (or GED) plus Equivalent Experience | Maintenance Scheduler 1 in Southfield Job Board Companies BASF CORPORATION Maintenance Scheduler 1 Southfield Full-Time No home office possible Now hiring! Maintenance Scheduler 1 Now hiring! Maintenance Scheduler Greenville, OH We are looking for a Maintenance Scheduler to join our team in Greenville, OH. Come create chemistry with us! At BASF, we create chemistry through the power of connected minds. By balancing economic success with environmental protection and social responsibility, we are building a more sustainable future through chemistry. As the world's leading chemical company, we he | "
       }
     },
     {
@@ -1023,7 +1143,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1064,7 +1189,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1105,7 +1235,12 @@
         "zip_parsed": "48192",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1146,7 +1281,12 @@
         "zip_parsed": "48210",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1187,7 +1327,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1228,7 +1373,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1269,7 +1419,12 @@
         "zip_parsed": "48217",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 8 | Training or certificate: 1 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "38% from posting text (5/13)",
+        "job_educations": "Training or certificate | No degree required | No degree required | No degree required | College degree | College degree | No degree required | No degree required | No degree required | College degree | No degree required | No degree required | College degree",
+        "job_descriptions": " | Candidates should have a High School Diploma or GED, with preferred experience of three to five years in a similar role |  | The ideal candidate must have a high school diploma, experience with precision measurement devices, and the ability to operate lathe and milling machines |  |  |  | Qualifications: Experience with TIG and Stick welding; high school diploma required. The predicted salary is between 43 - 44 $ per hour. A leading petroleum company in Detroit, Michigan is seeking a skilled Maintenance Welder to maintain and repair refinery equipment. The ideal candidate will have experience with TIG and Stick welding methods and must hold a high school diploma and valid driver's license. A competitive hourly wage of $43.77, along with comprehensive benefits including a 401k match, paid vacation, and health insurance, are offered. Candidates must pass relevant assessments and  |  | A valid driver's license is required |  | Candidates must have a high school diploma or equivalent, along with strong computer skills and the ability to work in varying conditions | "
       }
     },
     {
@@ -1310,7 +1465,12 @@
         "zip_parsed": "48183",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1351,7 +1511,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1392,7 +1557,12 @@
         "zip_parsed": "48210",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1433,7 +1603,12 @@
         "zip_parsed": "48210",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1474,7 +1649,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1515,7 +1695,12 @@
         "zip_parsed": "48217",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "No listings",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1556,7 +1741,12 @@
         "zip_parsed": "48217",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 2 | Training or certificate: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (2/4)",
+        "job_educations": "Training or certificate | No degree required | Training or certificate | No degree required",
+        "job_descriptions": "The ideal candidate will possess a High School Diploma, valid driver's license, and required certifications |  | The ideal candidate will possess a High School Diploma, valid driver's license, and required certifications | "
       }
     },
     {
@@ -1597,7 +1787,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 7 | Training or certificate: 1 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "10% from posting text (1/10)",
+        "job_educations": "No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | College degree | No degree required | Training or certificate | College degree",
+        "job_descriptions": " |  |  | Back to search Home 48279, Detroit, MI Decorator General Maintenance / Painter ABM US Posted 3 months ago , valid for 19 days Detroit, MI 48279, US Competitive Full Time By applying, a Sonicjobs account will be created for you. Sonicjobs's Privacy Policy and Terms & Conditions will apply. SonicJobs' also apply. Sonic Summary The General Maintenance / Painter position involves maintaining equipment such as bins, counters, and doors in various work areas including clean rooms and offices. Candidates are expected to use various painting tools such as brushes and rollers, making this role suitable |  |  |  |  |  | "
       }
     },
     {
@@ -1638,7 +1833,12 @@
         "zip_parsed": "48084",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1679,7 +1879,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 2 | Training or certificate: 1 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (2/4)",
+        "job_educations": "College degree | No degree required | No degree required | Training or certificate",
+        "job_descriptions": " | Qualifications: Bachelor's degree or 3-5 years of relevant experience; supervisory experience in mining preferred. The predicted salary is between 72000 - 108000 $ per year. ABOUT THE ROLE The Area Manager position is based in Presque Isle, Michigan and reports to the Operations Director. The Area Manager is primarily responsible for driving employee productivity, operational efficiency, employee engagement, and customer service levels by assisting with overseeing and managing operations within the product line. Position will oversee these (3) locations, position requires 50%+ travel by car in | We are looking for candidates with a high school diploma and 1-2 years of experience in a quarry or industrial setting | "
       }
     },
     {
@@ -1720,7 +1925,12 @@
         "zip_parsed": "48034",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -1761,7 +1971,12 @@
         "zip_parsed": "48075",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "College degree: 8",
+        "lowest_education": "College degree",
+        "education_confidence": "25% from posting text (2/8)",
+        "job_educations": "College degree | College degree | College degree | College degree | College degree | College degree | College degree | College degree",
+        "job_descriptions": " |  |  |  |  |  | Minimum Qualifications: Bachelors degree in Information Technology, Business Administration or related discipline. CompTIA A+, Microsoft Certified: Fundamentals or equivalent certifications preferred. Minimum of three (3) years experience in a technical support or help desk role, preferably in an educational environment. Technical Skills: Basic knowledge of Windows and macOS operating systems. Familiarity with common software applications, preferably all aspects of the Microsoft Office Suite. Understanding of network fundamentals, including Wi-Fi connectivity and basic troubleshooting. Experie | Qualifications: 1 year of sales experience and strong relationship-building skills. The predicted salary is between 43200 - 72000 $ per year. A leading technology services company in Michigan is seeking a competitive and self-motivated Account Manager. This role involves managing client relationships, identifying new business opportunities, and collaborating with solutions leaders. Candidates should have at least 1 year of sales experience and excel in building professional relationships. The position offers a competitive salary, benefits like health insurance, and requires a hybrid work sched"
       }
     },
     {
@@ -1802,7 +2017,12 @@
         "zip_parsed": "48202",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 10",
+        "lowest_education": "No degree required",
+        "education_confidence": "0% from posting text (0/10)",
+        "job_educations": "No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  |  | "
       }
     },
     {
@@ -1843,7 +2063,12 @@
         "zip_parsed": "48390",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "College degree: 1",
+        "lowest_education": "College degree",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "College degree",
+        "job_descriptions": null
       }
     },
     {
@@ -1884,7 +2109,12 @@
         "zip_parsed": "48201",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "College degree: 1",
+        "lowest_education": "College degree",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "College degree",
+        "job_descriptions": null
       }
     },
     {
@@ -1925,7 +2155,12 @@
         "zip_parsed": "48238",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 1 | Training or certificate: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (1/2)",
+        "job_educations": "Training or certificate | No degree required",
+        "job_descriptions": " | Privacy Policy Register JobSearch Log-in FAQs Employer FAQs Apply to Job Post a Job Local Jobs Home Here to Apply for Jobs or Post Jobs. Search 10+ Million Listings Daily Login / View this new \"Chemical Production Operator - Batch & Shipping\" opening in Detroit MI, USA. Apply for jobs in your niche area, and explore related local manufacturing / production / jobs in Detroit and nearby county areas of Michigan USA. LANGUAGE Jobs Local US Jobs Advertisers Edu Jobs Admin Health Food Retail Tech Jobs by Category Education / Teaching Engineering Healthcare IT/Tech Management Nursing Restaurant/Food"
       }
     },
     {
@@ -1966,7 +2201,12 @@
         "zip_parsed": "48218",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -2007,7 +2247,12 @@
         "zip_parsed": "48341",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 8 | College degree: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "33% from posting text (3/9)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | Training or certificate | College degree | Training or certificate | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " |  |  | What You Need to Have: High School diploma or equivalent, plus four years of experience as an industrial electrician (required). Ability to read, write, speak, and understand English at a level sufficient to safely and effectively perform job duties, including following work instructions, safety procedures, and company communications. State Licensed Electrician / Journeyman Card holder (preferred). Minimum of three years' experience working in and/or servicing manufacturing environments as an Industrial Electrician (required). Looking to hire a handyman in Pontiac, MI? Tell us what you need an |  | Qualifications: High school diploma, tool and die experience, and mechanical skills. The predicted salary is between 60000 - 80000 $ per year. Role Overview Picture your shift beginning at 5:00 PM inside Plant 8 in Pontiac, MI. You review a set of blueprints and sketches, visualize the final part, and select the materials and machines needed to bring it to life. You plan the job, compute dimensions, and map the assembly sequence. Next, you set up lathes, a milling machine, a shaper, and a grinder\u00e2\u0080\u0094machining each surface to exacting tolerances. With calipers, micrometers, gauge pins, and gauge |  | Who We Want: Troubleshoots, maintains and repairs dies, die components, and tooling used in the production process. Analyzes specifications, lays out metal stock, and sets up and operations machine tools to make and repair dies. What You\u00e2\u0080\u0099ll Do: Studies specifications such as blueprints, sketches, models, or descriptions, and visualizes product to determine materials required and machines to be used to fabricate parts. Computes dimensions, plans layout, and determines assembly method and sequence of operations. Measures, marks, and scribes metal stock for machining. Sets up and operates machi | "
       }
     },
     {
@@ -2048,7 +2293,12 @@
         "zip_parsed": "48201",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 1 | Training or certificate: 13 | Unclear: 22",
+        "lowest_education": "No degree required",
+        "education_confidence": "75% from posting text (27/36)",
+        "job_educations": "No degree required | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Unclear | Training or certificate | Unclear | Training or certificate | Training or certificate | Unclear | Unclear | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " |  | Qualifications: 1. Bachelor\u2019s degree in Nursing (BSN). 2. Licensed to practice as a Registered Nurse (RN) in the State of Michigan. 3. Specialty certification by professional organization, preferred. 4. A minimum of two years of clinical nursing experience, including one year in area of specialization. Two to three years Pediatric nursing experience, including one year in area of specialization, if in a pediatric setting. Pediatric acute care experience Facility Description Children\u2019s Hospital Michigan international leader pediatric and adolescent medicine. Surgical services include general, t |  | Minimum Qualifications: 1. Registered by the American Registry of Radiologic Technologist (ARRT) in Radiography (R). 2. Required to have or successfully complete American Heart Association (AHA) Basic Life Support - Healthcare Provider (BLS) training by end of orientation period. Skills Required 1. Analytical and clinical skills necessary to determine the most age appropriate method of providing requested radiographs specific to patient's physical ability and/or limitations. 2. Interpersonal and communication skills necessary to deal effectively with and instruct patients who may be under phys | Qualifications: 1. Graduation from an AMA/CoARC approved Respiratory Care program. Associates degree in Science, Allied Health or equivalent. 2. Registration (RRT) by the National Board of Respiratory Care (NBRC). 3. Licensure to practice as a Respiratory Therapist in the State of Michigan. 4. One to three years of respiratory care experience. Previous leadership experience preferred. 5. Successful completion of ECMO training program, if applicable. 6. Hyperbaric training, if applicable. 7. BCLS certification required. ACLS certification preferred. Job: Respiratory Services Primary Location: F | Qualifications: 1. Bachelor's degree in Nursing (BSN). Certification or Master of Science Degree in related area, preferred. 2. Three years pediatric nursing experience. Experience in a pediatric ICU and/or experience with solid organ transplant strongly preferred. 3. Licensed to practice as a Registered Nurse by the State of Michigan. Job: Nursing Primary Location: Facility: Job Type: Shift Type: Employment practices will not be influenced or affected by an applicant\u2019s or employee\u2019s race, color, religion, sex (including pregnancy), national origin, age, disability, genetic information, sexual |  | My Account / Create Account Physicians Job Search Opportunity Details - Clinical Geneticist New Search Clinical Geneticist Apply Now Opportunity Criteria Specialty Genetics Candidate Type MD, DO Visa Accepted Negotiable Salary Range Not Specified Loan Repayment Employment Type Full Time Bonuses Offered None Clinical Geneticist Opportunity at Children\u2019s Hospital of Michigan Clinical Geneticist \u2014 Children's Hospital of Michigan / Detroit, MI Why Join Us Children's Hospital of Michigan has been a cornerstone of pediatric medicine since 1886 \u2014 the first and largest children's hospital in the state |  | Minimum Qualifications: 8+ years combined of related education, experience, or certification in sales, account management or business development. Efficient and reliable transportation, including an active driver\u00e2\u0080\u0099s license, allowing for travel across an assigned region to meet business needs. Internet Connectivity - Min Speeds: 3.8Mbps/3.0Mbps (up/down): Latency Preferred Qualifications 4+ years of experience in sales management, or team leadership, with at least 2 years\\' experience managing hybrid-remote teams. Proven track record of consistently exceeding sales or enrollment targets. Expe | Minimum Qualifications: 1. Graduation from a school of nursing required. 2. BSN preferred. 3. Licensed to practice as a Registered Nurse (RN) in the state of Michigan required. 4. American Heart Association (AHA) BLS required. Facility Description Children\u00e2\u0080\u0099s Hospital of Michigan is an international leader in pediatric and adolescent medicine. Surgical services include general, thoracic, reconstructive and cardiovascular. Imaging technology designed specifically for children provides advanced diagnostic services including Positron Emission Tomography (PET) and MRI. The Children\u00e2\u0080\u0099s Hospital o | Qualifications: 1. High school graduate or equivalent. 2. Successful completion of a hospital-based anesthesia technician training program of one (1) year duration or more; or, equivalent on-the-job training of at least one (1) to two (2) years under the supervision of an anesthesia care provider. Children\u2019s Hospital of Michigan is an international leader in pediatric and adolescent medicine. Surgical services include general, thoracic, reconstructive and cardiovascular. Imaging technology designed specifically for children provides advanced diagnostic services including Positron Emission Tomo | Qualifications: 1. Bachelors in Nursing (BSN) required. Master's degree preferred. If Masters prepared, either bachelors or masters must be in Nursing. 2. Licensed to practice as a Registered Nurse (RN) in the state of Michigan. 3. Three years of progressive Nursing experience. Facility Description Children\u2019s Hospital of Michigan is an international leader in pediatric and adolescent medicine. Surgical services include general, thoracic, reconstructive and cardiovascular. Imaging technology designed specifically for children provides advanced diagnostic services including Positron Emission Tom | MINIMUM QUALIFICATIONS: 1. Graduation from a school of nursing required. 2. BSN preferred. 3. Licensed to practice as a Registered Nurse (RN) in the state of Michigan required. 4. American Heart Association (AHA) BLS required. Job: Nursing Primary Location: Detroit, Michigan Facility: DMC Children\\'s Hospital of Michigan Job Type: Full Time Shift Type: Day Registered Nurse Operating Room Full Time Days in Detroit employer: DMC Children's Hospital of Michigan At Children's Hospital of Michigan, we pride ourselves on being an exceptional employer that values the contributions of our surgical tec | Qualifications: 1. Registered by the American Registry of Radiologic Technologist (ARRT) in Radiology (RT) or Vascular-Interventional Radiography (VI) or Cardiovascular-Interventional (CV). 2. Required to have or successfully complete American Heart Association (AHA) Basic Life Support Healthcare Provider (BLS) training by end of orientation period. 3. Advanced Cardiac Life Support certification (ACLS) within 6 months of hire for employees working in adult setting or Pediatric Advanced Life Support certification (PALS) within 1 year of hire for employees working in a cardiology setting. 4. One |  | MD, DO, or MD/PhD required |  | Qualifications: 1. Graduation from an AMA/CoARC approved Respiratory Care program. Associates degree in Science, Allied Health or equivalent. 2. Registration (RRT) by the National Board of Respiratory Care (NBRC). 3. Licensure to practice as a Respiratory Therapist in the State of Michigan. 4. One to three years of respiratory care experience. Previous leadership experience preferred. 5. Successful completion of ECMO training program, if applicable. 6. Hyperbaric training, if applicable. 7. BCLS certification required. ACLS certification preferred. Job: Respiratory Services Primary Location: F | RN Nurse in Dearborn Job Board Companies DMC Children's Hospital of Michigan RN Nurse Dearborn Full-Time 36000 - 60000 $ / year (est.) No home office possible Up to $25,000 Sign on Bonus, based on relevant experience Unit Specializes in: Pediatric Medical Surgical Children\u00e2\u0080\u0099s Hospital of Michigan is an international leader in pediatric and adolescent medicine. Surgical services include general, thoracic, reconstructive and cardiovascular. Imaging technology designed specifically for children provides advanced diagnostic services including Positron Emission Tomography (PET) and MRI. The Childr | Qualifications: 1. Bachelor's degree in Nursing (BSN). Certification or Master of Science Degree in related area, preferred. 2. Three years pediatric nursing experience. Experience in a pediatric ICU and/or experience with solid organ transplant strongly preferred. 3. Licensed to practice as a Registered Nurse by the State of Michigan. Job: Nursing Primary Location: Facility: Job Type: Shift Type: Employment practices will not be influenced or affected by an applicant\u2019s or employee\u2019s race, color, religion, sex (including pregnancy), national origin, age, disability, genetic information, sexual | Candidates must have a high school diploma and complete an anesthesia technician program or possess equivalent training | I'm not a robot Please click to confirm. | Minimum Qualifications: 1. Enrollment in second year professional program at an accredited College of Pharmacy, or equivalent. 2. Registered or eligible for registration as a Pharmacy Intern in Michigan. Facility Description Children\u2019s Hospital Michigan international leader pediatric and adolescent medicine. Surgical services include general, thoracic, reconstructive and cardiovascular. Imaging technology designed specifically for children provides advanced diagnostic services including Positron Emission Tomography (PET) and MRI. The Emergency Department verified Level 1 Pediatric Trauma Cente |  | My Account / Create Account Physicians Job Search Opportunity Details - Pediatric Gastroenterologist New Search Pediatric Gastroenterologist Apply Now Opportunity Criteria Specialty Pediatrics : Gastroenterology Candidate Type MD, DO Visa Accepted Negotiable Salary Range Not Specified Loan Repayment Employment Type Full Time Bonuses Offered None Peds Gastroenterologist Opportunities at Children\u2019s Hospital of Michigan in Detroit Why Join Us Children's Hospital of Michigan has been a cornerstone of pediatric medicine since 1886 \u2014 the first and largest children's hospital in the state, and consis |  | Qualifications: 1. Registered by the American Registry of Radiologic Technologist (ARRT) in Radiology (R) or Magnetic Resonance Imaging (MR) or American Registry of Magnetic Resonance Imaging Technologists (ARMRIT). 2. Required to have or successfully complete American Heart Association (AHA) Basic Life Support - Healthcare Provider (BLS) training by end of orientation period. 3. One or more years of experience as a Radiologic Technologist (ARRT) in Radiology (R) or advanced certification in Magnetic Resonance Imaging (MR) or American Registry of Magnetic Resonance Imaging Technologists (ARMRI | My Account / Create Account Physicians Job Search Opportunity Details - Pediatric Endocrinologist New Search Pediatric Endocrinologist Apply Now Opportunity Criteria Specialty Pediatrics : Endocrinology Candidate Type MD, DO Visa Accepted Negotiable Salary Range Not Specified Loan Repayment Employment Type Full Time Bonuses Offered Relocation Pediatric Endocrinology Opportunity at Children\u2019s Hospital of Michigan Why Join Us Children's Hospital of Michigan has been the region's cornerstone of pediatric care since 1886 \u2014 a nationally ranked, 228-bed facility and the first and largest children's  | Qualifications: 1. Registered by the American Registry of Radiologic Technologist (ARRT) in Radiology (R) or Computed Tomography (CT) preferred. 2. Required to have or successfully complete American Heart Association (AHA) Basic Life Support - Healthcare Provider (BLS) training by end of orientation period. 3. One or more years of experience as a Radiologic Technologist (ARRT) in Radiology or advanced certification in Computed Tomography (CT). Job: Imaging/Radiology Primary Location: DMC Children's Hospital of Michigan Job Type: Shift Type: Employment practices will not be influenced or affect | Minimum Qualifications: 1. Master\u2019s degree in Speech and Language Pathology. 2. Current license to practice as a Speech Language Pathologist in the State of Michigan. 3. Certificate of Clinical Competence from the American Speech and Hearing Association. 4. Six to twelve months additional experience preferred. Skills Required 1. Interpersonal skills needed to effectively interact with patients, families, students and other hospital/site personnel. 2. Verbal and written communications skills needed to write reports and make presentations. 3. Analytical skills to interpret diagnostic tests, asse | My Account / Create Account Physicians Job Search Opportunity Details - Pediatric Neurology - Epileptologist New Search Pediatric Neurology - Epileptologist Apply Now Opportunity Criteria Specialty Pediatrics : Neurology Candidate Type MD, DO Visa Accepted H-1B Salary Range Not Specified Loan Repayment Employment Type Full Time Bonuses Offered None Pediatric Epileptologist Opportunity at the Children\u2019s Hospital of Michigan in Detroit Why Join Us Children's Hospital of Michigan has been a cornerstone of pediatric medicine since 1886, and its Division of Neurology is one of the most established  | Minimum Qualifications: 1. Bachelor's degree in Physical Therapy or certificate from an accredited Physical Therapy program, and current license to practice as a Physical Therapist in the State of Michigan. 2. Three to five years experience in physical therapy in order to acquire skills necessary to treat a variety of patients at various locations. Skills Required: 1. Analytical ability to interpret diagnostic tests; assess patient progress; determine appropriate treatment plan; and provide appropriate patient care to a wide variety of patients at various rehabilitation sites. 2. High level of | My Account / Create Account Physicians Job Search Opportunity Details - Pediatric Neurologist New Search Pediatric Neurologist Apply Now Opportunity Criteria Specialty Child Neurology Candidate Type MD, DO Visa Accepted Negotiable Salary Range Not Specified Loan Repayment Employment Type Full Time Bonuses Offered None Pediatric Neurology Opportunities at Children's Hospital of Michigan - Detroit Why Join Us The Children's Hospital of Michigan \u2014 the state's first and largest children's hospital \u2014 has been setting the standard for pediatric care since 1886, and its nationally ranked neurology di | Minimum Qualifications: 1. Graduation from a school of nursing required. 2. BSN preferred. 3. Licensed to practice as a Registered Nurse (RN) in the state of Michigan required. 4. American Heart Association (AHA) BLS required. Facility Description Children\u00e2\u0080\u0099s Hospital of Michigan is an international leader in pediatric and adolescent medicine. Surgical services include general, thoracic, reconstructive and cardiovascular. Imaging technology designed specifically for children provides advanced diagnostic services including Positron Emission Tomography (PET) and MRI. The Children\u00e2\u0080\u0099s Hospital o"
       }
     },
     {
@@ -2089,7 +2339,12 @@
         "zip_parsed": "48207",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -2130,7 +2385,12 @@
         "zip_parsed": "48207",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -2171,7 +2431,12 @@
         "zip_parsed": "48335",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 5 | Training or certificate: 5",
+        "lowest_education": "No degree required",
+        "education_confidence": "10% from posting text (1/10)",
+        "job_educations": "No degree required | Training or certificate | Training or certificate | Training or certificate | Training or certificate | No degree required | Training or certificate | No degree required | No degree required | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  | Qualifications: Previous experience as a floor care technician or in related role preferred Proven knowledge of floor care equipment and techniques required Knowledge and ability to follow safety procedures Requires frequent lifting, carrying, pushing, pulling of up to 50 lbs. BENEFITS FOR OUR TEAM MEMBERS Full-time and part-time positions are offered the following benefits: Retirement Plan, Associate Shopping Program, Health and Wellness Programs, Discount Marketplace, Identify Theft Protection, Pet Insurance, and other voluntary benefits including Critical Illness Insurance, Accident Insuran | "
       }
     },
     {
@@ -2212,7 +2477,12 @@
         "zip_parsed": "48340",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "Training or certificate",
+        "job_descriptions": null
       }
     },
     {
@@ -2253,7 +2523,12 @@
         "zip_parsed": "48242",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 7 | Training or certificate: 2 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "10% from posting text (1/10)",
+        "job_educations": "No degree required | College degree | No degree required | No degree required | No degree required | No degree required | No degree required | Training or certificate | No degree required | Training or certificate",
+        "job_descriptions": " | Global Food Safety & Quality Assurance Technician in Detroit Job Board Companies DO &amp; CO AG Global Food Safety & Quality Assurance Technician Detroit Full-Time No home office possible DO & CO AG is seeking a dynamic and energetic FSQA Technician in Romulus, Michigan. The position includes daily food safety activities, quality assurance, and regulatory compliance tasks. Ideal candidates should have at least 3 years of QA administration experience and a Bachelor\u00e2\u0080\u0099s Degree. The role offers $26.00 hourly, along with daily complimentary meals and eligibility for 401K and medical benefits. Oppo |  |  |  |  |  |  |  | "
       }
     },
     {
@@ -2294,7 +2569,12 @@
         "zip_parsed": "48214",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 5 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "86% from posting text (6/7)",
+        "job_educations": "No degree required | No degree required | College degree | College degree | No degree required | No degree required | No degree required",
+        "job_descriptions": "High school diploma or GED | High school diploma or GED | Senior Freight Forwarding Sales Executive DP World \u00b7 Downtown Detroit \u00b7 Detroit, Michigan $59.93 - $71.92/hr About the Job About the role and company We are the leading provider of worldwide smart end-to-end supply chain & logistics, enabling the flow of trade across the globe. DP World\u2019s comprehensive range of products and services covers every link of the integrated supply chain \u2013 from maritime and inland terminals to marine services and industrial parks as well as technology-driven customer solutions. The Freight Forwarding Field Sales Executive will develop a personal Book Of Business (BOB |  | Plant Manager, CL Site Operations in Detroit Job Board Companies DP World Plant Manager, CL Site Operations Detroit Full-Time No home office possible Join to apply for the Plant Manager, CL Site Operations role at DP World 3 days ago Be among the first 25 applicants Join to apply for the Plant Manager, CL Site Operations role at DP World We are looking for an experienced Plant Manager , based in Detroit, MI to plan, direct and coordinate the operations at the facility. You will be responsible for improving performance, safety, productivity, and efficiency through the implementation of effectiv | HS Diploma/GED required | Home Career Areas Operations Management Sales & Marketing Engineering & IT Corporate Functions Quality & BPI Jobs By Location About DP World Language Deutsch (Deutschland) English (United States) Espa\u00f1ol (M\u00e9xico) Fran\u00e7ais (Canada) Magyar (Magyarorsz\u00e1g) Nederlands (Nederland) Polski (Polska) Slovencina (Slovensko) View Profile Select how often (in days) to receive an alert: Sorry, this position has been filled. www.dpworld.com Privacy Policy Contact Us \u00a9 2024 syncreon - A DP World Company Opens in a new tab."
       }
     },
     {
@@ -2335,7 +2615,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 1 | Training or certificate: 1 | College degree: 10",
+        "lowest_education": "No degree required",
+        "education_confidence": "100% from posting text (12/12)",
+        "job_educations": "College degree | Training or certificate | College degree | College degree | No degree required | College degree | College degree | College degree | College degree | College degree | College degree | College degree",
+        "job_descriptions": "Home Careers Accounting & Finance Communications & Marketing Continuous Improvement Customer Service Engineering Human Resources Information Technology Plant & Field Operations Students & Graduates MBA & Leadership Development Programs Student & Graduate Jobs Veterans View All Jobs Map of Jobs Log In > Select how often (in days) to receive an alert: Sorry, this position is not currently posted. Site Map Contact Us Opens in a new tab. | Home Careers Accounting & Finance Communications & Marketing Continuous Improvement Customer Service Engineering Human Resources Information Technology Plant & Field Operations Students & Graduates MBA & Leadership Development Programs Student & Graduate Jobs Veterans View All Jobs Map of Jobs Log In > Select how often (in days) to receive an alert: Sorry, this position is not currently posted. Site Map Contact Us Opens in a new tab. | Home Careers Accounting & Finance Communications & Marketing Continuous Improvement Customer Service Engineering Human Resources Information Technology Plant & Field Operations Students & Graduates MBA & Leadership Development Programs Student & Graduate Jobs Veterans View All Jobs Map of Jobs Log In > Select how often (in days) to receive an alert: Sorry, this position is not currently posted. Site Map Contact Us Opens in a new tab. | Home Careers Accounting & Finance Communications & Marketing Continuous Improvement Customer Service Engineering Human Resources Information Technology Plant & Field Operations Students & Graduates MBA & Leadership Development Programs Student & Graduate Jobs Veterans View All Jobs Map of Jobs Log In > Select how often (in days) to receive an alert: Sorry, this position is not currently posted. Site Map Contact Us Opens in a new tab. | Minimum Education & Experience Requirements: Students participating in an undergraduate or graduate degree program are eligible to participate in the program. Those who are graduating from college within a full term from application are not considered students, and therefore will not be considered (i.e., students applying in June who are graduating at the end of that term or the next, are not considered students due to impending graduation date). College students graduating with their Associate\u2019s or bachelor\u2019s and immediately moving into a bachelor\u2019s or master\u2019s program are considered students | Home Careers Accounting & Finance Communications & Marketing Continuous Improvement Customer Service Engineering Human Resources Information Technology Plant & Field Operations Students & Graduates MBA & Leadership Development Programs Student & Graduate Jobs Veterans View All Jobs Map of Jobs Log In > Select how often (in days) to receive an alert: Sorry, this position is not currently posted. Site Map Contact Us Opens in a new tab. | Minimum Education & Experience Requirements: \u2022 Bachelor's degree in Business, Finance or other business-related or analytical / technical discipline and at least 8 years of experience in business/financial or quantitative analysis, inclusive of at least 6 years of investment experience OR \u2022 MBA and at least 6 years\u2019 experience in business/financial or quantitative analysis inclusive of at least 6 years of investment experience \u2022 CFA/CAIA certification can count towards 2 years of investment experience requirement * Experience working with PowerPoint, Excel and Word. Other Qualifications Prefer | Minimum Education & Experience Requirements: This is a multi-track base requirement job; education and experience requirements can be satisfied through one of the following options: Bachelor\u2019s degree and 10 years of experience, inclusive of 3 years of leading experience working as a team or project lead in a data analytical or computer programming function; or Master\u2019s degree and 8 years of experience, inclusive of 3 years of leading experience working as a team or project lead in a data analytical or computer programming function; or Ph.D. degree and 6 years of experience, including 3 years o | Jobs search Related Jobs Mechanical Estimator KUKA Full-time Sterling Heights, MI, US 1w ago Construction & Skilled Trades Apply utility and Substations Project Manager Alipro LLC Contract Detroit, Michigan, United States $80 - $100 / hour Residential Construction Collier Construction, INC Livonia, Michigan, United States $23 - $35 / hour 3w ago Sr. Project Manager ZSG 1m ago Director of Facilities - The Henry, Dearborn, MI Hotel Equities Dearborn, MI, US $95,000 - $110,000 / year Construction Foreman Renovations Now Fraser, Michigan, United States $23 - $27 / hour Project Manager - Commercial | Minimum Education & Experience Requirements: Must possess a Bachelor\u2019s degree in business, accounting, finance, industrial technology, engineering or a relevant science At least five years of experience in asset management, operations, or project development, or in an equivalent role within a construction, manufacturing, or service environment. Other Qualifications Preferred: Working knowledge of contract terms and conditions and the ability to administer complex contracts Strong communication skills with the ability to clearly and concisely communicate both verbally and in writing to internal | Home Careers Accounting & Finance Communications & Marketing Continuous Improvement Customer Service Engineering Human Resources Information Technology Plant & Field Operations Students & Graduates MBA & Leadership Development Programs Student & Graduate Jobs Veterans View All Jobs Map of Jobs Log In > Select how often (in days) to receive an alert: Sorry, this position is not currently posted. Site Map Contact Us Opens in a new tab. | Minimum Education & Experience Requirements: Must possess a Bachelor\u2019s degree in business, accounting, finance, industrial technology, engineering or a relevant science At least five years of experience in asset management, operations, or project development, or in an equivalent role within a construction, manufacturing, or service environment. Other Qualifications Preferred: Working knowledge of contract terms and conditions and the ability to administer complex contracts Strong communication skills with the ability to clearly and concisely communicate both verbally and in writing to internal"
       }
     },
     {
@@ -2376,7 +2661,12 @@
         "zip_parsed": "48218",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": "No degree required: 7 | Training or certificate: 1 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "100% from posting text (9/9)",
+        "job_educations": "Training or certificate | College degree | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required",
+        "job_descriptions": "Minimum Education & Experience Requirements: Bachelor\u2019s degree in electrical engineering or electrical engineering technology, or related technical field and a minimum of four (4) years of related engineering experience; Associate degree in Electrical Engineering, Electrical Engineering Technology, or related technical field and a minimum of six (6) years of related engineering experience Experience is preferably obtained in a coke plant, chemical or petrochemical manufacturing facility, or other heavy industrial setting Other Qualifications Preferred: Experience with Allen-Bradley PLCs (e.g.  | Minimum Education & Experience Requirements: A Bachelor of Science degree in Chemical, Mechanical, Civil, or Electrical Engineering from an ABET/EAC accredited university At least one year of related engineering experience preferably in a coke plant, chemical or petrochemical manufacturing facility, or other heavy industrial setting Other Qualifications Other requirements: Strong communication skills to convey plant interests with audiences of varied site-specific and/or technical knowledge of operations, including Standard Operating Procedure development Excellent presentation skills for inte | Qualifications: Must possess and maintain a valid driver\u2019s license A high school diploma or GED is required, with industrial or manufacturing experience in an operating discipline preferred, to provide for the following: Strong safety experience Ability to work in a team orientated atmosphere Demonstrated capability to achieve results through people, technology, and processing equipment Good knowledge of the assigned area(s) of responsibility Ability to function within a matrix organization where employees report to both a functional leader and a business leader Ability to develop and maintain | Qualifications: A high school diploma or GED A valid driver\u2019s license 1-3 years of heavy industrial experience to provide the following: Must be proficient in precision cutting with burning torch. Must have ability to arc weld (SMAW) in 2F &3F positions. Must have basic pipe threading and fitting skills. Must have basic rigging knowledge and experience. Must have basic print reading abilities. Strong safety experience Ability to work in a team orientated atmosphere Demonstrated capability to achieve results through people, technology, and processing equipment Good knowledge of the assigned are | Qualifications: High school diploma or GED, with 1-3 years of industrial experience. The predicted salary is between 76000 - 84000 $ per year. DTE is one of the nation\u00e2\u0080\u0099s largest diversified energy companies. Our electric and gas companies have fueled our customer's homes and Michigan\u00e2\u0080\u0099s progress for more than a century. We\u00e2\u0080\u0099re also serving communities beyond Michigan, where our affiliated businesses offer renewable energy, emission control technologies, and energy services to industries in 19 states. At DTE, we take great care of each other and our customers, and we use our energy to be a  | Qualifications: A high school diploma or GED and a valid driver\u2019s License Manufacturing experience in an operating discipline preferred Must have basic Microsoft Word and Excel experience A thorough understanding of chemical plant safety standards and a focus on personal safety Knowledge of pump and piping applications Familiar with operation of automated computer controls in a chemical plant Understanding of chemical processes, including distillation and chemical reactors Familiar with industrial wastewater treatment and/or storm water discharge systems Detail oriented individual with strong  | Qualifications: Must possess and maintain a valid driver\u2019s license A high school diploma or GED is required, with industrial or manufacturing experience in an operating discipline preferred, to provide for the following: Strong safety experience Ability to work in a team orientated atmosphere Demonstrated capability to achieve results through people, technology, and processing equipment Good knowledge of the assigned area(s) of responsibility Ability to function within a matrix organization where employees report to both a functional leader and a business leader Ability to develop and maintain | Qualifications: A high school diploma or GED A valid driver\u2019s license Must have 3 years of heavy industrial experience to provide the following: Must have experience calibrating, programming, installing, and troubleshooting \u201csmart\u201d process instrumentation such as temperature, pressure and level transmitters and control valves Experience in process control loops Experience in Distribution Control Systems (DCS) and loop tuning with DCS Experience with PLC, hydraulic controls, and process analyzers such as opacity, oxygen, combustibles, process gas and chemical analysis required Strong safety exp | Qualifications: \u2022 A high school diploma or GED \u2022 A valid driver\u2019s license \u2022 Must have 1 to 3 years of relevant experience including the following: \u2022 Knowledge of basic motor starter, how to use a voltmeter to troubleshoot, understand how to read, explain, and troubleshoot a motor schematic, how to read electrical prints in general with an understanding of electrical symbols and specifications, how to check fuses, OL\u2019s, transformer, contactors, etc., how to use a meggar, understand the power distribution 1-line, qualified in arc flash. \u2022 Must pass written test on general electrical knowledge \u2022 "
       }
     },
     {
@@ -2417,7 +2707,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "Training or certificate",
+        "job_descriptions": null
       }
     },
     {
@@ -2458,7 +2753,12 @@
         "zip_parsed": "48218",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": "College degree: 7",
+        "lowest_education": "College degree",
+        "education_confidence": "71% from posting text (5/7)",
+        "job_educations": "College degree | College degree | College degree | College degree | College degree | College degree | College degree",
+        "job_descriptions": " | Senior Strategy Analyst \u00e2\u0080\u0094 Remote, Growth & M&A in Detroit Job Board Companies DTE Vantage Senior Strategy Analyst \u00e2\u0080\u0094 Remote, Growth & M&A Detroit Full-Time No home office possible DTE Vantage in Detroit, MI is seeking an ambitious individual to join its Corporate Strategy team. This role involves analyzing industry trends, assessing capital investments, and supporting M&A activities. Ideal candidates will have a quantitative undergraduate degree and two years of relevant experience, with strong analytical and problem-solving skills. The position emphasizes independence and teamwork in a fas | Strategic Associate \u00e2\u0080\u0094 Corporate Growth & M&A in Detroit Job Board Companies DTE Vantage Strategic Associate \u00e2\u0080\u0094 Corporate Growth & M&A Detroit Full-Time No home office possible A leading energy company is seeking motivated individuals for its Corporate Strategy group in Detroit. This role involves understanding industry trends, analyzing major investments, and supporting M&A activities. Ideal candidates will have an MBA or relevant advanced degree, along with experience in management consulting or similar fields. The position requires strong communication, analytical skills, and the ability  | Minimum Education & Experience Requirements: Bachelor\u00e2\u0080\u0099s degree from an accredited college or university in Occupational Safety or a closely related field Four years of practical experience in industrial safety, safety management systems, training, field/site safety auditing, project management, and hazard identification and control Other Qualifications Extensive knowledge of occupational safety regulations Knowledge of electrical standards Knowledge of, and experience with, safety management systems Intermediate proficiency with Microsoft Office Suite Other Requirements Excellent oral and wr |  | Remote Portfolio Manager - Growth & Value Marketing DTE Vantage Detroit , United States 2 days ago Until 9/9/2026 Job description DTE Vantage in Detroit, MI is looking for a professional to support General Managers and Directors in managing project interests. The role involves developing financial forecasts, evaluating potential acquisitions, and enhancing relationships with stakeholders. The ideal candidate must possess a Bachelor\u2019s degree and at least five years of relevant experience. Strong communication, problem-solving, and organizational skills are essential for success in this position | Qualifications: Bachelor\u00e2\u0080\u0099s degree in Occupational Safety and four years of experience required. The predicted salary is between 72000 - 108000 $ per year. A major energy company is seeking a Safety Specialist to oversee safety programs and policies across multiple sites in the United States, based in Detroit, Michigan. This role involves developing and improving safety measures while collaborating with leadership to strengthen safety culture. Candidates must possess a Bachelor\u00e2\u0080\u0099s degree in Occupational Safety and four years of relevant experience. Excellent communication skills and a strong"
       }
     },
     {
@@ -2499,7 +2799,12 @@
         "zip_parsed": "48239",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 3 | Training or certificate: 6 | College degree: 2 | Unclear: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (6/12)",
+        "job_educations": "No degree required | Unclear | Training or certificate | Training or certificate | Training or certificate | No degree required | College degree | College degree | Training or certificate | Training or certificate | No degree required | Training or certificate",
+        "job_descriptions": "Menu Register Resume Employers / Post Job About Us Help & FAQs International Contact Us Search Jobs Search Companies Career Advice Resume / CV Writing Browse jobs Join Us Your Safety Employers Post Job Recruiters Publishers Multiposting & ATS Employment News Employment Advice Publisher Program Terms Advertiser Terms Employers Terms And Conditions Privacy Policy General Terms Yes All Filters Date posted Last 24 hours 3 Days 7 Days 14+ Days Radius Within 0 Miles 5 Miles 10 Miles 25 Miles 50 Miles Apply Method All jobs Apply Directly on WhatJobs Work Arrangement Any Working Arrangement Home What  |  | Qualifications: GED or High School Diploma; certified Journeyperson or 8 years of experience required. The predicted salary is between 60000 - 84000 $ per year. Millwright/Welder page is loaded## Millwright/Welderremote type: Onsitelocations: Detroit, MI UStime type: Full timeposted on: Posted Yesterdaytime left to apply: End Date: December 1, 2025 (30+ days left to apply)job requisition id: DT-15562**Inside the Role**Certified Journeyman Millwright/Welder - Installs, services, moves and dismantles equipment and machinery, including conveyors, chain drives, hoists, production elevators and mon |  | Journeyman Pipefitter - $37 A leading truck manufacturer in Detroit is seeking a Certified Journeyman Pipefitter to install, maintain, and label plumbing and mechanical piping systems Ideal candidates must possess a GED or High School Diploma and a Certified Journeyperson card or equivalent experience |  |  |  | Journeyman Pipefitter: High-Impact Installations in Detroit Journeyman Pipefitter: High-Impact Installations A leading automotive company is looking for a Certified Journeyman Pipefitter in Detroit, MI Candidates must possess a GED or high school diploma and a certified journeyperson card or be able to document 8 years of experience Journeyman Pipefitter: High-Impact Installations in Detroit employer: Daimler Truck North America LLC | View this new \"Onsite Journeyman Millwright & Welder \u2014 Detroit\" opening in Detroit MI, USA Onsite Journeyman Millwright & Welder \u2014 Detroit is seeking a Certified Journeyman Millwright/Welder in Detroit, MI Ideal candidates will have a GED or high school diploma, a Journeyperson card or appropriate experience, and good |  | ull timeposted on: Posted Todaytime left to apply: End Date: November 30, 2026 (30+ days left to apply)job requisition id: DT-17959**Inside the Role**Certified Journeyman Instrument Repair \u00e2\u0080\u0093 Repair, Calibrate / Verify Gaging, Adjustments and surveillance **Qualifications*** GED or High School Diploma is required* Certified Journeyperson card holder or ability to document 8 years of experience* Must possess good written and verbal communication skills* Read and interpret equipment manuals and w"
       }
     },
     {
@@ -2540,7 +2845,12 @@
         "zip_parsed": "48185",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 5 | Training or certificate: 1 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "30% from posting text (3/10)",
+        "job_educations": "No degree required | College degree | No degree required | College degree | College degree | College degree | No degree required | No degree required | No degree required | Training or certificate",
+        "job_descriptions": "Lead Hospital Tech (7AM-3PM) - 6243 Lansing, MI USA \u2013 Field Service / Full Time / On-site apply for this job Daniels Health is searching for a customer service oriented individual to join us as a Lead Field Service Representative . This position is responsible for the inspection and servicing of all products within their assigned hospital or medical center. They will be responsible for maintaining inventory and delivering the first line of customer service on behalf of Daniels. The Representative will team up daily with drivers, operations personnel, sales teams, and corporate support staff to |  |  |  | Qualification: PLC Programming HMI Programming Allen-Bradley, Siemens, and Beckhoff Platforms Industrial Robotics Machine Vision Cognex, Keyence, and OpenCV EtherNet/IP, Modbus, and OPC UA Motion Control and Servo Systems Safety-Rated Automation Electrical Schematics, P&IDs, and Mechanical Drawings Regulated Medical, Pharmaceutical, or Waste-Processing Environments Required Bachelor's degree in Electrical Engineering, Mechatronics, Automation Engineering, or a related discipline 8+ years of experience in a controls or automation engineering role Strong PLC and HMI programming experience with p |  |  |  |  | CDL B License Required"
       }
     },
     {
@@ -2581,7 +2891,12 @@
         "zip_parsed": "48328",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 4 | Training or certificate: 2 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "29% from posting text (2/7)",
+        "job_educations": "No degree required | No degree required | No degree required | No degree required | Training or certificate | College degree | Training or certificate",
+        "job_descriptions": " |  |  | Qualifications: 18 years of age Basic math skills Fluent in English Able to pass a drug screen Legally eligible to work in the United States Physical Demands This position requires the ability to perform routine physical tasks associated with dock and inspection operations, including ascending and descending from forklifts, operating forklifts and handling freight and related equipment. Duties may involve standing, walking, lifting, carrying, pushing, pulling, bending, reaching, climbing, and entering trailers, with regular use of scanners and computer systems. The physical demands described h |  | Senior Logistics Operations Lead Operations Dayton Freight Gibraltar , United States 2 days ago Until 9/9/2026 Job description Dayton Freight Lines is seeking an Operations Supervisor in Brownstown Charter Township, Michigan, to coordinate the movement of freight while managing personnel performance and safety compliance. The ideal candidate will have knowledge of the LTL/Transportation industry and a strong understanding of local geography. This role offers a competitive pay structure, opportunities for advancement, and comprehensive benefits. Interested in this role? Related Operations Manag | "
       }
     },
     {
@@ -2622,7 +2937,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 4 | Training or certificate: 4 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "30% from posting text (3/10)",
+        "job_educations": "No degree required | Training or certificate | No degree required | Training or certificate | Training or certificate | No degree required | Training or certificate | College degree | College degree | No degree required",
+        "job_descriptions": " |  |  | Qualifications: Must be 21+, hold a valid CDL-A, and have at least 1 year of driving experience. Job Description Wolverine Packing, CDL-A Local Drivers wanted!! Wolverine Packing is hiring local CDL-A Drivers to deliver throughout Michigan & the Midwest. You must be dependable and take the proper steps to prevent loss of life, injury, or property damage to ourselves, other employees, and members of the general public. Most delivery runs return the same day, however if overnight stay is ever required the company will pay for hotel accommodations. We take pride in our modern fleet of semi-trucks |  | Required Qualifications: High School Diploma or GED Experience in the trucking and/or intermodal transportation industry Experience with Google Suite (Gmail, etc.) Strong communication skills both verbal and written Ability to prioritize and multitask Organizational skills. Hiring someone like this? Get your role in front of qualified candidates on Sorce. Get started |  |  | Qualifications: Bachelor\ufffds Degree or at least 3 years of relevant industry or sales experience for a large, distributed service-focused sales organization A producer with a verifiable track record of identifying, creating, and closing deals, and ultimately building a business. Expertise in building and managing a pipeline from lead generation through deal closure (Preferred) Industry experience in transportation, logistics, chemical services, bulk containers, environmental services, or industrial maintenance (Preferred) Experience in distributed service-based organizations with field sales tea | "
       }
     },
     {
@@ -2663,7 +2983,12 @@
         "zip_parsed": "48223",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 6 | College degree: 3",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "11% from posting text (1/9)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | College degree | Training or certificate | Training or certificate | College degree | Training or certificate | College degree",
+        "job_descriptions": " |  |  |  |  |  |  | Electrician (Journeyman) in Detroit Electrician (Journeyman) Serve Others, Enrich Lives, Rise Together and Give Back Job Overview In order for the Journeyman Electrician to perform this job successfully, the individual must be able to perform each essential duty satisfactorily PLEASE NOTE: Candidates that are interested in this opportunity MUST be a Card-holding Journeyman with a minimum of 5 years of electrical experience Required Education/Skills/Experience The ideal candidate will possess the following skills/qualifications: MUST be a Card-holding Journeyman (Certification is required ) Ele | "
       }
     },
     {
@@ -2704,7 +3029,12 @@
         "zip_parsed": "48174",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 2 | Training or certificate: 1 | College degree: 6",
+        "lowest_education": "No degree required",
+        "education_confidence": "78% from posting text (7/9)",
+        "job_educations": "College degree | No degree required | No degree required | College degree | College degree | College degree | College degree | College degree | Training or certificate",
+        "job_descriptions": "Bachelor\u00e2\u0080\u0099s degree in Engineering, Business, Finance, or related field (Master\u00e2\u0080\u0099s preferred) | Qualifications: High school diploma preferred; must be a self-starter with basic math skills. Job Description: Responsibilities: Use a variety of hand tools and filling and packaging machinery. Perform a variety of hand packaging operations. Assemble components to product following shop packet. Assist in line start-up, and prep work as in proper application, and quantity verification. Ability to operate multiple production machines simultaneously. Is expected to utilize vacuums, mops and other equipment to clean the work area daily and other areas as assigned. Communicate equipment problems to |  | Ideal candidates should hold a Bachelor's degree and have at least 5 years of relevant experience, particularly in automotive and plant manufacturing environments | Injection Mold Tooling Engineer - Design, Launch & Optimize in Romulus Job Board Companies Detroit Thermal Systems, LLC. Injection Mold Tooling Engineer - Design, Launch & Optimize Romulus Full-Time No home office possible A leading manufacturing company in Michigan is seeking a Tooling Engineer to design and develop Injection Mold tooling. You will be responsible for evaluating vendor capabilities, providing technical support, and managing tooling projects through all phases. The ideal candidate will have a B.S. in Engineering and 5-7 years of relevant experience, with strong communication an | The ideal candidate will have a Bachelor\\'s degree in Engineering and 5-10 years of relevant experience in quality engineering and manufacturing processes | Plant Leader: Launch, Scale & Optimize Manufacturing in Romulus Job Board Companies Detroit Thermal Systems, LLC. Plant Leader: Launch, Scale & Optimize Manufacturing Romulus Full-Time No home office possible Detroit Thermal Systems, LLC. is seeking a Plant Manager for their operations in Romulus, Michigan. This role involves leading complex manufacturing operations, ensuring safety and quality performance across various metrics. The ideal candidate has at least 10 years of experience in manufacturing leadership and a background in financial management and process improvement. The company's fo |  | Maintenance & Assembly Supervisor - 3rd Shift in Romulus Job Board Companies Detroit Thermal Systems, LLC. Maintenance & Assembly Supervisor - 3rd Shift Romulus Full-Time No home office possible Contact Detail: Detroit Thermal Systems, LLC. Recruiting Team View Detroit Thermal Systems, LLC. Profile Location: Romulus"
       }
     },
     {
@@ -2745,7 +3075,12 @@
         "zip_parsed": "48214",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "College degree: 2",
+        "lowest_education": "College degree",
+        "education_confidence": "100% from posting text (2/2)",
+        "job_educations": "College degree | College degree",
+        "job_descriptions": "Compliance and Accounting Manager - EPA Grants Finance Detroit/Wayne County Port Authority Detroit , United States 5 days ago Until 9/9/2026 Job description Compliance and Accounting Manager - EPA Grants Compliance and Accounting Manager - EPA Grants Detroit/Wayne County Port Authority Detroit, MI 5 days ago Be among the first 25 applicants Detroit/Wayne County Port Authority provided pay range This range is provided by Detroit/Wayne County Port Authority. Your actual pay will be based on your skills and experience \u2014 talk with your recruiter to learn more. Base pay range $65,000.00/yr - $80,00 | QUALIFICATIONS: Bachelor's degree in Accounting, Finance, Public Administration, or a related field. CPA, MBA, or Master's degree preferred. Minimum 3-5 years of experience in accounting, grants compliance, or financial administration in a public or nonprofit setting. Direct experience with EPA grants or similar federal grant compliance and use of ASAP.gov is strongly preferred. Strong knowledge of federal cost principles (e.g., 2 CFR Part 200), audit preparation, and fund accounting. Proficiency in accounting systems (preferably Peachtree/Sage) and Microsoft Office Suite, especially Excel. Ex"
       }
     },
     {
@@ -2786,7 +3121,12 @@
         "zip_parsed": "48228",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "Training or certificate",
+        "job_descriptions": null
       }
     },
     {
@@ -2827,7 +3167,12 @@
         "zip_parsed": "48076",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 1 | College degree: 10",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "18% from posting text (2/11)",
+        "job_educations": "College degree | College degree | College degree | College degree | College degree | College degree | College degree | College degree | College degree | Training or certificate | College degree",
+        "job_descriptions": " |  |  |  |  |  |  | Qualifications: Strong communication skills are required to understand, interpret, and communicate ideas. Comprehensive knowledge and use of Excel, Access, PowerPoint, and MS Word. Working knowledge of SAS or SQL is desirable. Strong analytical and problem-solving skills with attention to detail is required. Ability to work independently. Demonstrated ability to handle multiple projects simultaneously and consistently meet strict project deadlines. Knowledge of BCBSM's prescription drug programs and the PBM industry is a plus. Additional Information HealthCare Background is Required By clickin |  | Qualifications: Requires an Associate\u00e2\u0080\u0099s Degree or 4+ years of relevant experience. The predicted salary is between 72000 - 108000 $ per year. W2 Contract Local to Metro-Detroit, MI 6:30am-3pm Seeking a Process Analyst to support cross-functional teams and leadership in driving operational efficiency and project success. This role involves data analysis, dashboard management, meeting facilitation, and administrative support, with occasional travel to working sessions and meetings. Key Responsibilities Gather, analyze, and interpret data to support project goals and operational decisions. Main | "
       }
     },
     {
@@ -2868,7 +3213,12 @@
         "zip_parsed": "48238",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -2909,7 +3259,12 @@
         "zip_parsed": "48174",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 9 | Training or certificate: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "8% from posting text (1/13)",
+        "job_educations": "No degree required | No degree required | No degree required | No degree required | Training or certificate | Training or certificate | Training or certificate | No degree required | No degree required | Training or certificate | No degree required | No degree required | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  | Qualifications: High school diploma or GED; customer service experience preferred. The predicted salary is between 36000 - 60000 $ per year. Receive and enter vehicle accidents into appropriate database. Process liability insurance claims, in accordance with accident details, Drug and Alcohol policies and DOT compliance. Manage driver files under the accident policy. Responsible for handling Estes vehicle damage and communicate with adverse parties related to vehicle accidents. Coordinate with internal and external stakeholders to obtain and communicate necessary DOT compliance information. In |  |  |  | "
       }
     },
     {
@@ -2950,7 +3305,12 @@
         "zip_parsed": "48091",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 2 | Training or certificate: 6",
+        "lowest_education": "No degree required",
+        "education_confidence": "38% from posting text (3/8)",
+        "job_educations": "Training or certificate | No degree required | Training or certificate | Training or certificate | No degree required | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " | Qualifications: Strong communication skills and a passion for customer service. The predicted salary is between 60000 - 80000 $ per year. Position Summary: As an HVAC Comfort Advisor, you meet with our fantastic customers in their home offering expertise on which equipment best fits their comfort needs. Each day is spent building lasting relationships, serving customers, closing sales, and building a path for a bright future. Pay: Commission with uncapped earning potential! Hours: Evening and Saturday availability required. We are looking for HVAC technicians, plumbers, and electricians. We ar |  |  | Qualifications: Strong communication skills and a passion for sales. The predicted salary is between 60000 - 80000 $ per year. Flame Furnace Company is seeking an HVAC Comfort Advisor in Warren, MI. In this role, you will meet with customers in their homes to assess their HVAC needs and provide expert advice on suitable equipment. This position emphasizes relationship-building and sales, requiring evening and Saturday availability. Join us and enjoy uncapped earning potential as you help improve customer comfort! Flame Furnace Company prides itself on premium service in the HVAC sector dating  | What We're Looking For: 3+ years of plumbing service experience preferred Strong troubleshooting and diagnostic skills Valid driver's license with clean driving record Ability to lift 50+ lbs., climb ladders, and work in tight spaces Skilled with hand and power tools Strong communication and customer service skills Ability to work independently and manage service calls efficiently Positive attitude and team-oriented mindset Authorized to work in the U.S. Minimum age of 18 required Our Culture & Values We believe in: Honesty Positive Attitude Hard Work Our culture is built on teamwork, accounta |  | "
       }
     },
     {
@@ -2991,7 +3351,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 2 | Unclear: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "0% from posting text (0/3)",
+        "job_educations": "No degree required | Unclear | No degree required",
+        "job_descriptions": " |  | "
       }
     },
     {
@@ -3032,7 +3397,12 @@
         "zip_parsed": "48126",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 2 | Training or certificate: 2 | College degree: 6",
+        "lowest_education": "No degree required",
+        "education_confidence": "30% from posting text (3/10)",
+        "job_educations": "No degree required | College degree | College degree | Training or certificate | Training or certificate | No degree required | College degree | College degree | College degree | College degree",
+        "job_descriptions": "find your future at ford. Hourly Production Team Member - Temporary Full Time - Wayne County / SE Michigan Job ID 54680 Category Other Location Dearborn, Michigan Work Type On-site Apply Now The hourly rated positions available at Ford Motor Company manufacturing or warehousing facilities are for vehicle or vehicle component assembly. The production worker is required to assemble the vehicle or component part using the materials and tools provided in a predefined order and process. These positions may require the selection, manipulation, attachment of parts onto the vehicle or component using  |  |  |  | Back to jobs Job details Senior Counsel, Regulatory Ford Motor Company via Indeed Location Dearborn, MI, US Type Full Time Level Senior Counsel Labor & Employment Corporate Environment Compliance About this role Overview At Ford, you\u2019ll work on ideas that matter, alongside passionate people who want to make a global impact. Together, we\u2019re shaping the next era of transportation\u2014grounded in purpose, driven by progress. Make your move. Job Type: Full time Work Type: Hybrid Ford Motor Company\u2019s Office of the General Counsel is seeking a highly skilled, exceptionally detail-oriented, and proactive |  |  |  |  | Qualifications: You'll have... Bachelor\u2019s degree CMMS Experience Ability to coach and teach Even better, you may have... Ascent/Pega understanding/experience Process driver \u2013 ability to enact change Data Analytics \u2013 PowerBi, Strong Presentation skills and ability to produce presentations with high quality Strong problem solving skills and ability to drive to root cause You may not check every box, or your experience may look a little different from what we've outlined, but if you think you can bring value to Ford Motor Company, we encourage you to apply! As an established global company, we of"
       }
     },
     {
@@ -3073,7 +3443,12 @@
         "zip_parsed": "48093",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 3 | Training or certificate: 2 | College degree: 5",
+        "lowest_education": "No degree required",
+        "education_confidence": "0% from posting text (0/10)",
+        "job_educations": "College degree | College degree | College degree | College degree | Training or certificate | Training or certificate | College degree | No degree required | No degree required | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  |  | "
       }
     },
     {
@@ -3114,7 +3489,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 4 | Training or certificate: 2 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "40% from posting text (4/10)",
+        "job_educations": "College degree | No degree required | College degree | No degree required | College degree | Training or certificate | No degree required | College degree | No degree required | Training or certificate",
+        "job_descriptions": " | The ideal candidate has a high school diploma and one year of experience in related fields such as fire services or emergency medical response |  |  | Associate\u2019s degree in a related operational area |  | Qualifications: High school diploma and 2 years of maintenance experience required. The predicted salary is between 50000 - 70000 $ per year. Locations: 6425 Huber St Detroit, MI 48211 Time Type: Full time Posted on: Posted Yesterday Job Requisition ID: R25_0000000312 Compensation: $23.51 - $32.42 (Based on Experience) Summary: Repair and maintain tools and equipment. Perform required routine preventative, predictive, and corrective maintenance. Perform other related duties and work for Field Services, Water, and Wastewater Plant Operations. Job Responsibilities: Perform preventative, predicti |  | Qualifications: High school diploma or GED and completion of a pre-apprenticeship program. The predicted salary is between 18000 - 22000 $ per year. The Great Lakes Water Authority (GLWA), in collaboration with Macomb Community College, has a two-year apprenticeship to hire and train water technicians for GLWA. Water Technicians play an essential role in GLWA's efforts to provide water of unquestionable quality to the residents of southeast Michigan, performing duties in water plant operations, including chemical analysis and treatment, process operation, and plant equipment maintenance. The a | "
       }
     },
     {
@@ -3155,7 +3535,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "Training or certificate: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "Training or certificate",
+        "job_descriptions": null
       }
     },
     {
@@ -3196,7 +3581,12 @@
         "zip_parsed": "48075",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -3237,7 +3627,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 4 | Training or certificate: 1 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "0% from posting text (0/7)",
+        "job_educations": "Training or certificate | No degree required | No degree required | No degree required | College degree | No degree required | College degree",
+        "job_descriptions": " |  |  |  |  |  | "
       }
     },
     {
@@ -3278,7 +3673,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "Training or certificate: 2",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "100% from posting text (2/2)",
+        "job_educations": "Training or certificate | Training or certificate",
+        "job_descriptions": "Menu About Us Our Story Locations Technology Culture of Safety Solutions Drayage Container Storage Transloading Intermodal Rail Chassis Provisioning Project Logistics SmartStacks Destination Cargo Management Specialized Services Cross Border Overweight Refrigerated Sustainable Work with Us Become a Driver Refer a Driver Become a Carrier Administrative Careers Haul of Fame Insights Login to IMC Compass Get a Quote Track Shipment Contact Drive for IMC Logistics in Detroit Truck driving jobs in Detroit, MI As a privately held, progressive industry leader, IMC has the freedom to make decisions in  | IMC Logistics encourages our CDL-A Owner Operator truck drivers to work hard, but also to spend time with their families IMC Logistics Offers Local CDL-A Owner Operator: We encourage applications from qualified Owner Operators who have military experience, no high school diploma, and no college degree CDL-A Local Owner Operator Requirements: Class A CDL License Required"
       }
     },
     {
@@ -3319,7 +3719,12 @@
         "zip_parsed": "48336",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "College degree: 6",
+        "lowest_education": "College degree",
+        "education_confidence": "0% from posting text (0/6)",
+        "job_educations": "College degree | College degree | College degree | College degree | College degree | College degree",
+        "job_descriptions": " |  |  |  |  | "
       }
     },
     {
@@ -3360,7 +3765,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 2 | Training or certificate: 5 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (4/8)",
+        "job_educations": "Training or certificate | Training or certificate | College degree | No degree required | No degree required | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": "Required Qualifications: 6+ years of technical and operational experience in service or retrofit projects. Experience leading mechanics on projects totaling $3\u2013$4M in revenue. Strong HVAC mechanical systems knowledge. Excellent communication skills for both technical and non-technical audiences. Proficiency in project management tools and MS Office. Ability to travel based on project needs. Fully vaccinated against COVID-19 by start date. Preferred Qualifications 2\u20134 years of engineering or trade school training (degree or equivalent). Benefits & Perks HIRING SALARY RANGE: $89k-134k (Salary de | Vocational School program graduate or associate's degree in a technical field, or two years\u2019 experience in servicing electronic and or mechanical systems | BEST - Technical Sales - Fire Systems - Detroit, MI in Farmington Hills Job Board Companies Johnson Controls, Inc. BEST - Technical Sales - Fire Systems - Detroit, MI Farmington Hills Full-Time No home office possible Overview BEST \u00e2\u0080\u0093 Fire \u00e2\u0080\u0093 Technical Sales Build your best future with the Johnson Controls Team As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will b |  |  |  | \u00a9 2026 Workwise Solutions Inc. Home About Post a job Search Jobs Browse Jobs Resources Contact Us Terms & Conditions Privacy Policy Company Locations | "
       }
     },
     {
@@ -3401,7 +3811,12 @@
         "zip_parsed": "48227",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 6 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "0% from posting text (0/10)",
+        "job_educations": "College degree | College degree | College degree | College degree | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  |  | "
       }
     },
     {
@@ -3442,7 +3857,12 @@
         "zip_parsed": "48120",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": "No degree required: 6 | Training or certificate: 2 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "40% from posting text (4/10)",
+        "job_educations": "No degree required | No degree required | Training or certificate | No degree required | Training or certificate | No degree required | College degree | No degree required | No degree required | College degree",
+        "job_descriptions": " |  |  | Required Qualifications: High School Diploma (Associate\u2019s Degree in Engineering Technology or a related field is preferred). Minimum of 2 years of relevant work experience in an automotive engineering laboratory or a related field. Proven experience with testing equipment, digital electronics, and interpreting electrical schematics. Strong technical aptitude, excellent verbal and written communication skills, and a demonstrated ability to work both independently and within a team. Required Skills Data Analysis Digital Electronics Equipment Calibration Team Leadership Test Procedure Coordinatio |  |  | Requirements: Minimum of 2 years of experience in automotive software flashing Strong communication skills Knowledge of engineering testing methods Work Environment The role involves a mixture of office and lab work with physical requirements. Required Skills Communication skills Engineering testing methods Software integrity On-road durability testing Automotive software flashing |  | CDL-A Owner Operator | Bachelor\u2019s degree in engineering, construction management, or related field required"
       }
     },
     {
@@ -3483,7 +3903,12 @@
         "zip_parsed": "48314",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 5 | Training or certificate: 2 | College degree: 3",
+        "lowest_education": "No degree required",
+        "education_confidence": "20% from posting text (2/10)",
+        "job_educations": "No degree required | No degree required | No degree required | Training or certificate | Training or certificate | No degree required | No degree required | College degree | College degree | College degree",
+        "job_descriptions": "Requirements: Previous EDM Operator experience required Experience supporting tooling and manufacturing operations Background in production and/or prototype environments Automotive manufacturing experience preferred Experience with EDM programming and setup processes Strong organizational skills and attention to detail Ability to work independently and take ownership of assigned projects High School Diploma or GED required Preferred Skills & Experience Experience with Visi CAD/CAM software Experience operating Makino sinker EDM machines and CNC electrode cutting equipment Familiarity with Erow | Qualifications: High School Diploma or GED required. Technical training, skilled trades education, or experience in fixture building, gage making, manufacturing, or a related field. Experience using fixture building tools, shop equipment, and precision measuring instruments. Ability to read blueprints, engineering drawings, and technical documentation. Ability to perform basic shop math and technical calculations. Mechanical aptitude with attention to detail and quality. Ability to work safely around machinery and follow established shop procedures. Willingness to learn new materials, manufact |  |  |  |  |  |  |  | "
       }
     },
     {
@@ -3524,7 +3949,12 @@
         "zip_parsed": "48154",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 4 | Training or certificate: 3 | College degree: 2 | Unclear: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "40% from posting text (4/10)",
+        "job_educations": "No degree required | Training or certificate | No degree required | Unclear | College degree | Training or certificate | No degree required | No degree required | College degree | Training or certificate",
+        "job_descriptions": " |  |  |  |  | MINIMUM QUALIFICATIONS: The following represents the minimum qualifications for this position. The District reserves the right to waive any qualification at its discretion. Bachelor's degree in Elementary Education Valid Michigan Elementary Teaching Certificate Demonstrated commitment to high levels of learning for all students Ability to build and maintain positive, respectful relationships with students, families, and colleagues Strong interpersonal, collaboration, and teamwork skills Outstanding verbal and written communication skills Demonstrated ability to use student data to inform instr | MINIMUM QUALIFICATIONS: The following is a list of minimum qualifications for this position, any one of which may be waived by the Administration in exercising its prerogative to determine qualifications. Applicants must have met at least one of the following: A high school diploma or GED and A passing score on the Basic Skills Test MTTC; or A passing score of at least 480 on the evidence-based reading and writing section of the SAT and 530 on the mathematics section in lieu of the Basic Skills Test or Professional Readiness Exam; or A passing score of 460 on the ETS Parapro Assessment Complet | There are 15 elementary schools, 3 middle schools, 3 high schools, 1 career technical center, 1 early childhood center, and 1 vocational and transition center in the school district A high school diploma or equivalent |  | MINIMUM QUALIFICATIONS: The following is a list of minimum qualifications for this position, any one of which may be waived by the Administration in exercising its prerogative to determine qualifications: Associate's degree in Early Childhood Education, CDA, or Meet the \"highly qualified\" standard Complete equivalent of at least two years college or minimum associates Pass the \"Work Keys\" assessment A passionate commitment to working with students Knowledge of Creative Curriculum and Teaching Strategies Gold is preferred Demonstrated positive interpersonal relationships Evidence of ability to "
       }
     },
     {
@@ -3565,7 +3995,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 3 | Training or certificate: 4 | College degree: 2 | Unclear: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "90% from posting text (9/10)",
+        "job_educations": "Training or certificate | No degree required | Training or certificate | No degree required | No degree required | Unclear | College degree | Training or certificate | Training or certificate | College degree",
+        "job_descriptions": "Minimum Qualifications: \uf0b7 High School Diploma \uf0b7 3+ consistent years of experience as a certified commercial driver (this time cannot include driving school) \uf0b7 Prior experience operating 9- and 10 up to 13 speeds high-to-low manual transmission tractor-trailers hauling liquid material \uf0b7 Valid Commercial Driver License \uf0b7 Current \u201cX\u201d (hazmat tanker) and airbrakes license endorsements \uf0b7 Current Medical Examiner\u2019s Card \uf0b7 Ability to pass a road test \uf0b7 Good driving record (3 points or less) \uf0b7 Reliable transportation \uf0b7 24-hour contact number \uf0b7 Ability to work in a fast-paced environment \uf0b7 Strong inter | g designated shifthours Maintain good housekeeping within Dispatchoffice Other duties (temporary or permanent) as assigned by management Minimum Qualifications High School Diploma or equivalent 2+ years of experience in dispatching Mustdemonstrateability to assess limited scope and project information and assign resources needed for proj | Minimum Qualifications: High School Diploma 3+ consistent years of experience as a certified commercial driver (this time cannot include driving school) Prior experience operating 9- and 10 up to 13 speeds high-to-low manual transmission tractor-trailers hauling liquid material Valid Commercial Driver License Current \u201cX\u201d (hazmat & tanker) and air brakes license endorsements Current Medical Examiner\u2019s Card Ability to pass a road test Good driving record (3 points or less) Reliable transportation 24-hour contact number Ability to work in a fast-paced environment Strong interpersonal and communic | The ideal candidate should have at least a high school diploma and 2+ years in dispatching, alongside strong organizational and multi-tasking skills | Minimum Qualifications: High School Diploma Valid Chauffeur License Good driving record (3 points or less) Reliable transportation 24-hour contact number Ability to work in a fast-paced environment Strong interpersonal and communication (written and oral) skills Excellent multi-tasking, organizational, and teamwork skills Positive and professional Must demonstrate a proactive approach to all tasks Preferred Qualifications Previous field work in industrial maintenance, environmental remediation, or emergency response Current 40-hour HAZWOPER training certification Trained in Confined Space Trai |  | The role requires a Bachelor\\'s degree in environmental science or related fields and at least one year of experience | CDL-A Equipment Operator: Tankers, Pumps & Field Work in Detroit CDL-A Equipment Operator: Tankers, Pumps & Field Work A company specializing in environmental services is seeking a CDL-A Equipment Operator in Detroit, Michigan | CDL-A Equipment Operator Tankers & Field Pumps in Detroit CDL-A Equipment Operator Tankers & Field Pumps | Candidates should have a Bachelor's degree in a relevant field and at least 1 year of experience"
       }
     },
     {
@@ -3606,7 +4041,12 @@
         "zip_parsed": "48202",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 8 | College degree: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/9)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | College degree | Training or certificate | Training or certificate",
+        "job_descriptions": " |  |  |  |  |  |  |  | "
       }
     },
     {
@@ -3647,7 +4087,12 @@
         "zip_parsed": "48375",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 10",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "30% from posting text (3/10)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " |  |  | What We're Looking For: Journeyman or Master Plumbing License preferred 3+ years of plumbing installation experience Strong knowledge of plumbing systems, materials, and installation methods Ability to read blueprints and job specifications Valid driver's license with acceptable driving record Ability to lift 50+ lbs., climb ladders, and work in active construction environments Skilled with hand and power tools Strong communication and problem-solving skills Positive attitude and team-oriented mindset Authorized to work in the United States Minimum age of 18 Our Core Values Honesty \u2014 We commun |  |  | What We're Looking For: Journeyman or Master Plumbing License preferred 3+ years of plumbing installation experience Strong knowledge of plumbing systems, materials, and installation methods Ability to read blueprints and job specifications Valid driver's license with acceptable driving record Ability to lift 50+ lbs., climb ladders, and work in active construction environments Skilled with hand and power tools Strong communication and problem-solving skills Positive attitude and team-oriented mindset Authorized to work in the United States Minimum age of 18 Our Core Values Honesty Positive At | HVAC Retrofit Technician: NATE Sign-On Bonus & Growth in Detroit Job Board Companies Moore Mechanical HVAC Retrofit Technician: NATE Sign-On Bonus & Growth Detroit Full-Time No home office possible Moore Mechanical in Detroit, MI, is seeking a skilled HVAC Retrofit Technician to join a growing team. This role focuses on upgrading and replacing HVAC systems in residential and commercial buildings while ensuring high-quality workmanship and exceptional customer service. The ideal candidate has at least 3 years of HVAC retrofit experience, a strong understanding of HVAC systems, and must be able  |  | "
       }
     },
     {
@@ -3688,7 +4133,12 @@
         "zip_parsed": "48213",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -3729,7 +4179,12 @@
         "zip_parsed": "48210",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 7 | Training or certificate: 2 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "20% from posting text (2/10)",
+        "job_educations": "No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | Training or certificate | No degree required | College degree | Training or certificate",
+        "job_descriptions": " | Operator / Excavator - 10,000 - 35,000 lbs. in Detroit Job Board Companies PURIS Operator / Excavator - 10,000 - 35,000 lbs. Detroit Full-Time No home office possible Operator / Excavator - 10,000 - 35,000 lbs. in Detroit employer: PURIS At PURIS in Dawson, MN, we pride ourselves on being an exceptional employer that fosters a collaborative and supportive work environment. Our commitment to employee growth is evident through our comprehensive onboarding and training programs, ensuring that every team member feels valued and empowered. With a focus on work-life balance, competitive pay, and a c |  |  |  |  |  |  | Qualifications: 5+ years of estimating experience, especially in sewer and water projects. The predicted salary is between 72000 - 108000 $ per year. A leading infrastructure company in Michigan is seeking an Estimator to develop responsive estimates for water and wastewater projects. The role involves reviewing project specifications, communicating with various stakeholders, and utilizing MS Office and estimating software. Candidates should have over 5 years of experience in estimating, particularly in sewer and water projects, and possess excellent communication skills. The company offers a  | "
       }
     },
     {
@@ -3770,7 +4225,12 @@
         "zip_parsed": "48238",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 8 | Training or certificate: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "70% from posting text (7/10)",
+        "job_educations": "No degree required | No degree required | No degree required | Training or certificate | No degree required | Training or certificate | No degree required | No degree required | No degree required | No degree required",
+        "job_descriptions": "General Labor Manufacturing in Detroit Job Board Companies Perigee Manufacturing Company, Inc. General Labor Manufacturing Detroit Full-Time No home office possible Job Description Benefits: 401(k) 401(k) matching Bonus based on performance Company parties Competitive salary Dental insurance Health insurance Opportunity for advancement Paid time off Training & development Vision insurance Requirements and responsibilities: - Operating production equipment (tapping, milling, broaching, etc) - Material handling, cleaning parts & machines - Follow specific work, safety instructions, procedures -  | Qualifications: 3 years of CNC experience and strong problem-solving skills required. The predicted salary is between 42000 - 84000 $ per year. Job Description 401(k) 401(k) matching Bonus based on performance Company parties Competitive salary Dental insurance Health insurance Opportunity for advancement Paid time off Training & development Vision insurance Requirements and responsibilities: -Operate and maintain CNC Lathes & CNC Mills -Minimum of three (3) years experience on CNC Lathes & Mills (REQUIRED) -Minimum of one (1) year experience on Miyano CNC Lathes (REQUIRED) -Good working knowl | Benefits: 401(k) 401(k) matching Bonus based on performance Company parties Competitive salary Dental insurance Health insurance Opportunity for advancement Paid time off Training & development Vision insurance Requirements and responsibilities: -Minimum 2 years of Quality Control experience required -Very proficient with measuring devices (calipers, micrometers, drop gages, pin gages, go & no-go gages, etc) -Familiar with GD&T drawing symbols and blueprint interpretation -Familiar with Quality Management Systems, including ISO 9001 -Experience with SPC (statistical process controls), data ent | Benefits: 401(k) 401(k) matching Bonus based on performance Company parties Competitive salary Dental insurance Health insurance Opportunity for advancement Paid time off Training & development Vision insurance Flexible schedule Free food & snacks Free uniforms Help or transport service Home office stipend Signing bonus Tuition assistance Requirements and responsibilities: -Program, setup, and prove out CNC Lathes (Miyano) -Minimum of ten (10) years experience operating CNC Lathes & Mills (REQUIRED) -Minimum of five (5) years experience programming and setting up CNC Lathes & Mills (REQUIRED)  |  | The role requires an Associate Degree, 5 years of administrative experience, and proficiency in Microsoft Office |  | Precision QC Inspector \u00e2\u0080\u0094 2+ yrs, GD&T, ISO 9001, SPC in Detroit Job Board Companies Perigee Manufacturing Company, Inc. Precision QC Inspector \u00e2\u0080\u0094 2+ yrs, GD&T, ISO 9001, SPC Detroit Full-Time No home office possible Perigee Manufacturing Company, Inc. is seeking a Quality Control professional in Detroit, Michigan. Candidates must have a minimum of 2 years of experience and be proficient with measuring tools. Strong attention to detail and communication skills are essential. The role involves generating reports, completing paperwork accurately, and adhering to safety procedures. The ideal ca | Qualifications: 3+ years of CNC experience and strong problem-solving abilities. The predicted salary is between 60000 - 80000 $ per year. A manufacturing company in Michigan is seeking an experienced CNC Operator to efficiently operate and maintain CNC Lathes and Mills. The ideal candidate should have at least three years of relevant experience and be skilled in using various measuring devices. Attention to quality and ability to follow safety instructions are essential. Strong problem-solving, communication skills, and a solid work ethic are highly valued in this role. Candidates must be phy | "
       }
     },
     {
@@ -3811,7 +4271,12 @@
         "zip_parsed": "48242",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 3",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/3)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " |  | "
       }
     },
     {
@@ -3852,7 +4317,12 @@
         "zip_parsed": "48202",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 5 | College degree: 6",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "45% from posting text (5/11)",
+        "job_educations": "Training or certificate | College degree | College degree | Training or certificate | Training or certificate | Training or certificate | College degree | College degree | College degree | College degree | Training or certificate",
+        "job_descriptions": " |  | Senior Mechanical Engineer - Controlled Environments Progressive Companies 4 months ago Detroit, MI, United States Hybrid Full-time Junior Level (1-3 years) Apply to Job Job Description As a Senior Mechanical Engineer at Progressive Companies, you will lead design strategies for controlled environments such as cleanrooms, laboratories, and mission-critical spaces. You will mentor teams and develop advanced mechanical systems with an emphasis on performance, precision, sustainability, and regulatory compliance. You will collaborate across disciplines and markets to shape environme Required Skil | Required Qualifications: Bachelor's degree in Civil Engineering or related Engineering discipline. Professional Engineer (P. E.) licensure required. Minimum of 5 years of post-graduation professional engineering experience. Proficiency with AutoCAD Civil 3D and standard engineering software. Working knowledge of design platforms such as Revit, HEC-RAS, EPANET, or MicroStation. Strong understanding of civil engineering design principles, permitting processes, and applicable codes. Excellent communication, collaboration, and organizational skills. Preferred Qualifications Experience designing mu | Mechanical Engineer II - Science, Industrial & Technology Progressive Companies 4 months ago Detroit, MI, United States Hybrid Full-time Junior Level (1-3 years) Apply to Job Job Description As a Mechanical Engineer II, you are a licensed Professional Engineer with strong career ambition and a proven ability to translate complex mechanical systems into high-performing building solutions. You collaborate within a multi-disciplinary team to design mechanical systems that balance technical excellence, budget, and schedule. Through strong planning, prioritization, and client focus, you he Required |  |  |  | Qualifications: Bachelor\u2019s degree in Engineering required. Approximately 15+ years of post-graduation professional engineering experience in mechanical systems design. Demonstrated expertise with Revit and AutoCAD for engineering design and documentation. Strong understanding of mechanical, plumbing, fire protection, and fuel/gas codes and regulatory compliance. Experience developing HVAC, energy, and building mechanical systems, including energy modeling or performance simulations. Ability to communicate complex technical information through reports, presentations, and stakeholder discussions | Requirements: What We're Looking For 3+ years of Applications Engineering or related pump industry experience required Bachelor's degree in Mechanical Engineering or a related engineering or technical discipline required Pump OEM or industrial pump distributor experience preferred Understanding of pump hydraulics, pump construction, and system applications Ability to interpret specifications, contracts, P&IDs, drawings, and technical submittal requirements Experience working with ERP systems, quotation tools, or order management systems preferred Experience with CAD, SolidWorks, or similar des | "
       }
     },
     {
@@ -3893,7 +4363,12 @@
         "zip_parsed": "48038",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 5",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/5)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " |  |  |  | "
       }
     },
     {
@@ -3934,7 +4409,12 @@
         "zip_parsed": "48084",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 2 | Training or certificate: 3 | College degree: 5",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (5/10)",
+        "job_educations": "Training or certificate | No degree required | College degree | Training or certificate | College degree | College degree | Training or certificate | No degree required | College degree | College degree",
+        "job_descriptions": " | Join Our Dental Team in Picturesque Northern Michigan! Are you a passionate and skilled dentist looking for an exciting opportunity in the heart of Michigan\u2019s natural beauty? We are seeking a dedicated Associate Dentist to join our client\u2019s thriving practices in Gaylord and Lewiston. The office boasts experienced, long-standing staff members, providing a wonderful support system for a fulfilling dental career. Pay: Upto $5000/Day Schedule: Full-time / Negotiable, ideally four days per week. Potential schedule: Monday/Wednesday in Gaylord and Tuesday/Thursday in Lewiston. Vacation Days: Associa | LANGUAGE English (United States) Espa\u00f1ol (M\u00e9xico) \u65e5\u672c\u8a9e (\u65e5\u672c) Portugu\u00eas (Brasil) \u7b80\u4f53\u4e2d\u6587 (\u4e2d\u56fd\u5927\u9646) VIEW PROFILE CAREERS HOME JOIN OUR TALENT NETWORK VIEW ALL JOBS Select how often (in days) to receive an alert: Manager, Engineering Date: Jul 17, 2026 Company: Woodbridge Sorry, this position has been filled. Opens in a new tab. | Requirements: *** In-depth knowledge of health and safety regulations in this profession (e.g. HIPAA) *** Diploma in Dental Hygiene/Masters is a plus! *** Knowledge in Dentrix. *** Minimum 3 years experience as a Dental Hygienist is must! Get Directions Job Features Salary $43/Hr |  |  |  | Requirements: Valid license to practice Electronic billing and billing knowledge. Ability to meet monthly production/collection goals. Proficiency in communication and negotiation skills. Familiarity with financing such as Care Credit/Lending club and. Ability to multitask while maintaining a calm, confident demeanor. Ability to review the patient\u2019s clinical history including review of x-rays, notes, and images as needed. Ability to interact with staff and patients as a professional and maintain a collaborative approach. Flexibility to use technology including computers, internet, spreadsheets |  | Qualifications: Years In Sales Industry: Professional Services Benefits: yes Customer Size: all Car Allowance: Sales Cycle: Short Travel: none Years Selling in Industry: Education: They Sell To Whom Location: Troy, MI 5.0 Job Company Ratings/Reviews Full description of the position Business Development Coordinator Company: Raizan Solutions LLC Location: Troy, Michigan (Main Office) About Us Raizan Solutions LLC, based in Troy, Michigan, is a leading medical and engineering placement firm committed to delivering unparalleled talent solutions. With over a decade of expertise, we bridge the gap b"
       }
     },
     {
@@ -3975,7 +4455,12 @@
         "zip_parsed": "48211",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 2 | Training or certificate: 6 | College degree: 1 | Unclear: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "40% from posting text (4/10)",
+        "job_educations": "Training or certificate | Training or certificate | No degree required | No degree required | Training or certificate | Training or certificate | College degree | Training or certificate | Training or certificate | Unclear",
+        "job_descriptions": "MINIMUM QUALIFICATIONS: A valid class A commercial driver's license is required with hazardous material and tanker endorsements or ability to get endorsement(s) within 90 days from hire date, and an MVR that meets Company policy standards. Ability to pass 40-hour HAZWOPER Training upon hire. Rewarding Compensation and Benefits Eligible employees can elect to participate in: \u2022 Comprehensive medical benefits coverage, dental plans and vision coverage. \u2022 Health care and dependent care spending accounts. \u2022 Short- and long-term disability. \u2022 Life insurance and accidental death & dismemberment insur | HazMat Field DriverTechnician - CDL (A or B) |  | We're sorry\u2026 the job you are trying to apply for has been filled. Maybe you would like to consider the Categories below : | POSITION SUMMARY: A Driver- CDL (B) is responsible for safely operating a collection truck, and providing prompt, courteous and complete waste removal services for customers In addition, a Driver \u2013 CDL (B) is responsible for ensuring his or her vehicle is in compliance with the Company\u2019s safety standards prior to operating the vehicle, ensures that all Compan |  |  |  |  | "
       }
     },
     {
@@ -4016,7 +4501,12 @@
         "zip_parsed": "48015",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 6 | Training or certificate: 3 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "36% from posting text (4/11)",
+        "job_educations": "Training or certificate | No degree required | No degree required | No degree required | No degree required | Training or certificate | Training or certificate | No degree required | College degree | No degree required | College degree",
+        "job_descriptions": "Minimize downtime and support production needs Follow all safety procedures and union guidelines QualificationsQualifications: Skilled Trades certification or equivalent experience Minimum 3 years of industrial/manufacturing maintenance experience Automotive manufacturing experience preferred Ability to work any shift and overtime as requ | Back to search Home 48015, Center Line, MI Transfer Press Tech SODECIA AUTOMOTIVE DETROIT CORP Posted 5 months ago , valid for 17 days Center Line, MI 48015, US $23.91 per hour Full Time Health Insurance Paid Time Off By applying, a Sonicjobs account will be created for you. Sonicjobs's Privacy Policy and Terms & Conditions will apply. SonicJobs' also apply. Sonic Summary The Press Technician position at Sodecia in Center Line, MI is an entry-level role with a salary of $23.91 per hour. Candidates must have a minimum of 3 years of experience in a stamping or manufacturing environment, specific | The job is an entry-level position at Sodecia in Center Line, MI, requiring a high school diploma and three years of experience in a similar role |  |  | Candidates must have completed an Industrial Electrician Apprenticeship Program and possess a Journeyman\u2019s Card or equivalent with a minimum of 8 years of industrial experience QualificationsQualifications Completion of an Industrial Electrician Apprenticeship Program Journeyman\u2019s Card or equivalent (minimum 8 years of industrial experience) Trade certification required |  |  |  |  | "
       }
     },
     {
@@ -4057,7 +4547,12 @@
         "zip_parsed": "48203",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 3 | College degree: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/4)",
+        "job_educations": "Training or certificate | College degree | Training or certificate | Training or certificate",
+        "job_descriptions": " |  |  | "
       }
     },
     {
@@ -4098,7 +4593,12 @@
         "zip_parsed": "48122",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Around Southwest Detroit"
+        "zone": "Around Southwest Detroit",
+        "education_tiers": "Training or certificate: 7 | College degree: 3",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "10% from posting text (1/10)",
+        "job_educations": "College degree | Training or certificate | College degree | College degree | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate",
+        "job_descriptions": " |  | Qualifications: 2 years of supervisory experience and strong communication skills required. The predicted salary is between 60000 - 80000 $ per year. Savage Services is seeking an Operations Supervisor for its facility in Detroit, MI. The role includes supporting the Operations Manager with logistics, team development, and enhancing customer engagement while ensuring adherence to safety standards and operational excellence. Key qualifications include: 2 years of supervisory experience in industrial settings Knowledge of petroleum coke processes Strong communication skills Benefits include oppo |  |  |  |  |  |  | "
       }
     },
     {
@@ -4139,7 +4639,12 @@
         "zip_parsed": "48174",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "College degree: 2",
+        "lowest_education": "College degree",
+        "education_confidence": "0% from posting text (0/2)",
+        "job_educations": "College degree | College degree",
+        "job_descriptions": " | "
       }
     },
     {
@@ -4180,7 +4685,12 @@
         "zip_parsed": "48203",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 4 | Training or certificate: 4 | College degree: 3",
+        "lowest_education": "No degree required",
+        "education_confidence": "55% from posting text (6/11)",
+        "job_educations": "Training or certificate | No degree required | Training or certificate | College degree | Training or certificate | Training or certificate | No degree required | College degree | College degree | No degree required | No degree required",
+        "job_descriptions": " | Maintain a clean and organized work environment, following safety protocols Qualifications High school diploma or GED | JOIN the TEAM SRM Concrete may use one or more automated employment decision tools as part of its hiring and selection process for certain positions. These tools may assist SRM in evaluating job-related qualifications, including work experience, education, skills, certifications, and other information provided in or with an application. If an automated employment decision tool is used to evaluate your application for a position covered by New York City Local Law 144, SRM will provide notice at least 10 business days before the tool is used. You may request information about the type of data co |  | JOIN the TEAM SRM Concrete may use one or more automated employment decision tools as part of its hiring and selection process for certain positions. These tools may assist SRM in evaluating job-related qualifications, including work experience, education, skills, certifications, and other information provided in or with an application. If an automated employment decision tool is used to evaluate your application for a position covered by New York City Local Law 144, SRM will provide notice at least 10 business days before the tool is used. You may request information about the type of data co |  | Maintain a clean and organized work environment, following safety protocols Qualifications High school diploma or GED | JOIN the TEAM SRM Concrete may use one or more automated employment decision tools as part of its hiring and selection process for certain positions. These tools may assist SRM in evaluating job-related qualifications, including work experience, education, skills, certifications, and other information provided in or with an application. If an automated employment decision tool is used to evaluate your application for a position covered by New York City Local Law 144, SRM will provide notice at least 10 business days before the tool is used. You may request information about the type of data co |  |  | High school diploma or equivalent required; vocational or technical certification in diesel engine repair is a plus Valid driver's license required; CDL is preferred At SRM Concrete, you're more than a CDL driver\u2014you're a valued team member helping to build America's future"
       }
     },
     {
@@ -4221,7 +4731,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 1 | Training or certificate: 1 | College degree: 1 | Unclear: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "60% from posting text (3/5)",
+        "job_educations": "College degree | No degree required | Unclear | Training or certificate | Unclear",
+        "job_descriptions": " | Qualifications: College coursework or 2 years in bookkeeping/accounting; strong communication skills. The predicted salary is between 45000 - 50000 $ per year. Job Category: Professionals Requisition Number: COMME001271 Posted: September 12, 2025 Employment Type: Full-Time Locations PVS Corporate, 10900 Harper Avenue, Detroit, MI 48213, USA PVS enables our world through the safe and reliable delivery of chemistry, either created by us or sourced through trusted partners. The products and services that we provide touch everyone in some unique way. We are passionate about the work we do and abid | Qualifications: Strong computer skills, attention to detail, and ability to multitask. The predicted salary is between 42000 - 45000 $ per year. Product Coordinator in Detroit employer: Southwest Economic Solutions Sackett-Waconia is an exceptional employer that fosters a collaborative and innovative work culture, particularly for Programmers at our Norwood Young America and Waconia facilities. We prioritize employee growth through hands-on experience with cutting-edge technology and provide competitive compensation, ensuring our team members are well-supported in their professional developmen | Local Truck Driver - Safe Team Player with Benefits in Detroit Job Board Companies Southwest Economic Solutions Local Truck Driver - Safe Team Player with Benefits Detroit Full-Time No home office possible A long-established regional company in Detroit seeks a full-time Company Driver to deliver products safely and serve as a brand ambassador. The ideal candidate will have at least one year of commercial driving experience, with a focus on safety and compliance with DOT regulations. Benefits include health insurance, 401(k), paid training, and performance bonuses. Join a team that values safet | "
       }
     },
     {
@@ -4262,7 +4777,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -4303,7 +4823,12 @@
         "zip_parsed": "48202",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "Training or certificate: 1 | College degree: 2",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/3)",
+        "job_educations": "College degree | Training or certificate | College degree",
+        "job_descriptions": " |  | "
       }
     },
     {
@@ -4344,7 +4869,12 @@
         "zip_parsed": "48214",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 5 | Training or certificate: 2 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "73% from posting text (8/11)",
+        "job_educations": "College degree | College degree | No degree required | College degree | No degree required | College degree | Training or certificate | Training or certificate | No degree required | No degree required | No degree required",
+        "job_descriptions": "Basic Qualifications: Bachelor\u2019s Degree Minimum 5 years of supervisory experience in a manufacturing environment Ability to demonstrate lean manufacturing knowledge and application Ability to direct the workforce and deliver results on Key Performance Indicators Experience in resolving employee conflicts with professionalism and integrity Excellent oral and written communication skills including working knowledge of Microsoft Office and/or Google Suite Ability to work any shift and overtime as required Preferred Qualifications: Bachelor\u2019s Degree in Supply Chain, Logistics, Business or a relate | Basic Qualifications: Bachelor\u2019s degree in Engineering 7+ years of combined experience with metrology equipment for root cause diagnostics such as scanning, CMM, laser tracker, vision measurement and component gages Experience solving dimensional issues, wind noise, water leak, squeak and rattle body interior/exterior issues Understand capabilities and use of various metrology systems Understand expectations of stamping and body shop dimensional performance Proficient in the use of various data analysis techniques Comprehensive knowledge of statistics and SPC techniques Team leadership and/or  | Basic Qualifications: Bachelor of Science in a related technical discipline OR high school diploma/GED with minimum THREE (3) years of experience in Engineering or Manufacturing Engineering Ability to work and interact with all levels of the organization Strong oral, written, presentation and organizational skills Ability to translate technical data and analysis into an executive summary format for presentation in easily understandable formats Ability to embrace cross-functional teams responsible for developing, specifying, building, and launching powertrain manufacturing products Knowledge of |  | Basic Qualifications: Bachelor of Science in a related technical discipline OR high school diploma/GED with minimum THREE (3) years of experience in Engineering or Manufacturing Engineering Ability to work and interact with all levels of the organization Strong oral, written, presentation and organizational skills Ability to translate technical data and analysis into an executive summary format for presentation in easily understandable formats Ability to embrace cross-functional teams responsible for developing, specifying, building, and launching powertrain manufacturing products Knowledge of |  | BASIC QUALIFICATIONS: Associate degree in nursing Valid state nursing license with no restrictions Basic Life Support Certification Minimum of 3 years RN nursing experience PREFERRED QUALIFICATIONS: Bachelor of Science in Nursing Advanced Cardiovascular Life Support (ACLS) Certification 3 + years of occupational health or emergency room or critical care nursing experience Benefits Salaried Employee Benefits (US, Non-Represented) Health & Wellbeing Comprehensive coverages encompassing the Physical, Mental, Emotional, and overall Wellbeing of our employees, including short- and long-term disabil | Basic Qualifications: Associate degree in nursing 3+ years RN experience Valid state nursing license in good standing Basic Life Support Certification Preferred Qualifications: Bachelor of Science in Nursing Minimum 3 years of Occupational health or emergency and/or critical care nursing experience Advanced Cardiovascular Life Support (ACLS) Certification Benefits Salaried Employee Benefits (US, Non-Represented) Health & Wellbeing Comprehensive coverages encompassing the Physical, Mental, Emotional, and overall Wellbeing of our employees, including short- and long-term disability. Compensation |  | Basic Qualifications: Bachelor of Science in a related technical discipline OR high school diploma/GED with minimum THREE (3) years of experience in Engineering or Manufacturing Engineering Ability to work and interact with all levels of the organization Strong oral, written, presentation and organizational skills Ability to translate technical data and analysis into an executive summary format for presentation in easily understandable formats Ability to embrace cross-functional teams responsible for developing, specifying, building, and launching powertrain manufacturing products Knowledge of | Basic Qualifications: Bachelor of Science in a related technical discipline OR high school diploma/GED with minimum THREE (3) years of experience in Engineering or Manufacturing Engineering Ability to work and interact with all levels of the organization Strong oral, written, presentation and organizational skills Ability to translate technical data and analysis into an executive summary format for presentation in easily understandable formats Ability to embrace cross-functional teams responsible for developing, specifying, building, and launching powertrain manufacturing products Knowledge of"
       }
     },
     {
@@ -4385,7 +4915,12 @@
         "zip_parsed": "48189",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -4426,7 +4961,12 @@
         "zip_parsed": "48313",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 1 | Training or certificate: 1 | College degree: 9",
+        "lowest_education": "No degree required",
+        "education_confidence": "9% from posting text (1/11)",
+        "job_educations": "College degree | College degree | Training or certificate | College degree | College degree | College degree | College degree | College degree | College degree | College degree | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  |  | Detroit Metro Outside Sales Fluid Process Account Manager Job Board Companies SunSource Detroit Full-Time No home office possible A leading industrial distribution company is seeking an Outside Sales Account Manager in the Detroit area. This position focuses on developing new business within the Fluid Process industry and managing a specific sales territory. Successful candidates will have a competitive mindset, 2+ years of sales experience, and a technical degree. The role requires collaboration with customer service teams and entails full cycle prospecting activities. Compensation includes i | "
       }
     },
     {
@@ -4467,7 +5007,12 @@
         "zip_parsed": "48336",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 3",
+        "lowest_education": "No degree required",
+        "education_confidence": "67% from posting text (2/3)",
+        "job_educations": "No degree required | No degree required | No degree required",
+        "job_descriptions": "Concrete Tester Healthcare Superior Materials, LLC. Farmington , United States From $5,583 /month 1 months ago Until 9/7/2026 Temporary On-site Job description A Technical Services Representative assists with achieving the company\u2019s established annual budget by reducing waste resulting from producing concrete products which do not meet project specifications. This is achieved by understanding specification boundaries and concrete mixture adjustment options. Work location will be at all (12) southeastern Michigan production facilities, with special focus upon the Detroit based production facili |  | Qualifications: Years In Sales Industry: Construction Repair and Maintenance Services Benefits: yes Customer Size: all Car Allowance: Sales Cycle: Short Travel: none Years Selling in Industry: Education: They Sell Construction To Whom Construction, Repair &amp; Maintenance Services Location: Farmington Hills, MI 1.0 Job Company Ratings/Reviews Full description of the position WELCOME TO VCNA! We are Superior Materials , part of Votorantim Cimentos North America (VCNA). As the North American operations of Votorantim Cimentos, a global building materials and sustainability solutions leader in 11"
       }
     },
     {
@@ -4508,7 +5053,12 @@
         "zip_parsed": "48326",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 4 | College degree: 6",
+        "lowest_education": "No degree required",
+        "education_confidence": "60% from posting text (6/10)",
+        "job_educations": "No degree required | No degree required | No degree required | No degree required | College degree | College degree | College degree | College degree | College degree | College degree",
+        "job_descriptions": "Jobs Login THIS POSITION HAS BEEN CLOSED! PLEASE CHOOSE ONE OF THE OPTIONS BELOW: Search Search Current Openings Sign Up For Job Alerts! Resources Trigo Website Career Opportunities Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 |  | silient to pressureRigorousCustomer focusClient orientedReliable & trustworthyFlexibleInitiativeAutonomousInnovativeDaringWork experienceOverall recommendationsNo experience necessary Ability to read blueprints a plusEducation backgroundOverall recommendationsHigh School Diploma or Equivalent recommended or comparable work experience About T | * No experience necessary * High School Diploma or Equivalent recommended or comparable work experience | Candidates should have 4+ years of experience in automotive or manufacturing, a bachelor's degree in business management, and strong communication skills Candidates should have at least 4 years of leadership experience and a Bachelor's degree in a relevant field |  | Jobs Login Apply Now Sign Up For Job Alerts! Resources Trigo Website Career Opportunities Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | ities (operational and staff management)Exposed to client relationshipsISO and relevant quality experience required Education backgroundOverall recommendations Bachelor's degree in Business Management or related field preferred or equivalent work experience TRIGO15About TRIGO Global Quality SolutionsFounded in 1997, TRIGO is a multinat |  | "
       }
     },
     {
@@ -4549,7 +5099,12 @@
         "zip_parsed": "48098",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 8 | Training or certificate: 3",
+        "lowest_education": "No degree required",
+        "education_confidence": "64% from posting text (7/11)",
+        "job_educations": "Training or certificate | Training or certificate | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | No degree required | Training or certificate",
+        "job_descriptions": "Qualifications: High school diploma or equivalent Proven experience as a maintenance electrician or similar role (6+ years preferred) Strong knowledge of electrical systems, equipment, and troubleshooting techniques Familiarity with local, state, and national electrical codes and safety regulations Ability to read and interpret electrical blueprints, wiring diagrams, and technical manuals Proficiency in using testing equipment and tools for diagnostics Excellent problem-solving skills and attention to detail Strong communication and collaboration skills Ability to work independently and as par | Qualifications: Minimum 6 years of documented work experience in the HVAC or electrical trade, or minimum 4 years of work experience in the HVAC or electrical trade with 2 years of supporting education. 7+ years of facility-related work experience including customer service, leadership, and supervisory experience. Managerial experience is required. Knowledge of maintenance processes, construction planning, and execution. Exposure to HVAC, fluid handling, mechanical and electrical systems engineering and operation. Working knowledge of computer applications including Microsoft Office and CMMS s | Qualifications: High school diploma or equivalent. No experience required. Preferred Qualifications High school automotive shop class(es). Experience performing personal vehicle maintenance. Proficient with computer usage. Ability to learn and follow written instructions. Ability to perform fine hand manipulation. Knowledge of tools and their use. Ability to focus on details and quality of work. Valid driver\u2019s license with a good driving record. Ability to work overtime as needed including weekends. We thank all applicants for their interest. However, only those qualified individuals who close |  | Qualifications: High school diploma or equivalent Minimum 1 year of mechanical, instrumentation, electrical, or fabrication experience Demonstrated ability to perform the duties of this position through relevant experience, training, or education Preferred Qualifications Associate degree or technical school certification Two years of experience testing vehicles, powertrains, engines, fuel systems, emissions, chassis components, or material properties Experience operating or calibrating emissions analyzers, flow meters, or tensile test machines Experience with Siemens LMS TestLab or MTS Flextes | Qualifications: High school diploma or equivalent Minimum 2 years of experience in an automotive technician or instrumentation installation role Strong verbal and written communication skills Proficiency with Microsoft Office applications (Word, Excel, PowerPoint, etc.) Ability to organize and track multiple vehicle build information Good attention to detail Self-starter, self-motivated, and willing to learn Preferred Qualifications Associates degree Prototype vehicle experience Knowledge of automotive wire harness installation practices State/ASE certifications #ind123 We thank all applicants |  |  | Qualifications: High school diploma or equivalent. No previous experience required. Understanding of good customer service, reliable attendance, and ability to work overtime. Ability to obtain or qualify for an industrial truck license. Ability to read, count, and communicate inventory data both written and verbal. Ability to follow directions and learn new skills, with attention to detail. Basic computer skills. We thank all applicants for their interest. However, only those qualified individuals who closely meet the qualifications of the position will be contacted. The details of the positio |  | Qualifications: High school diploma or equivalent Proven experience as a maintenance electrician or similar role (6+ years preferred) Strong knowledge of electrical systems, equipment, and troubleshooting techniques Familiarity with local, state, and national electrical codes and safety regulations Ability to read and interpret electrical blueprints, wiring diagrams, and technical manuals Proficiency in using testing equipment and tools for diagnostics Excellent problem-solving skills and attention to detail Strong communication and collaboration skills Ability to work independently and as par"
       }
     },
     {
@@ -4590,7 +5145,12 @@
         "zip_parsed": "48174",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "Training or certificate: 1",
+        "lowest_education": "Training or certificate",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "Training or certificate",
+        "job_descriptions": null
       }
     },
     {
@@ -4631,7 +5191,12 @@
         "zip_parsed": "48089",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 3 | Training or certificate: 9 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "50% from posting text (8/16)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | Training or certificate | Training or certificate | College degree | College degree | College degree | Training or certificate | College degree | Training or certificate | No degree required | Training or certificate | No degree required | No degree required | Training or certificate",
+        "job_descriptions": " |  |  |  | We're sorry, that job does not exist or is not currently active. | We're sorry, that job does not exist or is not currently active. |  | Service & Repair Manager - Industrial Pumps & Flow Control Equipment in Warren Job Board Companies Tencarva Machinery Company Service & Repair Manager - Industrial Pumps & Flow Control Equipment Warren Full-Time No home office possible Service & Repair Manager - Industrial Pumps & Flow Control Equipment in Warren employer: Tencarva Machinery Company Detroit Pump & Tencarva is an exceptional employer, celebrating 100 years of service in Michigan with a strong reputation for stability and long-term customer relationships. Employees enjoy a supportive work culture with realistic workloads, opport | QUALIFICATIONS: At least one year of experience servicing equipment, preferably with experience using proper testing equipment and practices for general electric and water. At least one year of experience in a customer-facing or customer-service role. Must like coffee: Tasting is the final step in all repairs. Smartphone proficient in inventory, managing, scheduling, and other tasks. Must possess a valid driver\u00e2\u0080\u0099s license with a clean driving record. Must be able to lift 50 lbs. without assistance. What Vixxo has to Offer You: Competitive base pay based on experience and certifications; quart | Qualifications: Years In Sales Industry: Manufacturing Benefits: yes Customer Size: all Car Allowance: Sales Cycle: Short Travel: none Years Selling in Industry: Education: They Sell Machinery Manufacturing To Whom Location: Warren, MI 4.0 Job Company Ratings/Reviews Full description of the position Description: This role is with Detroit Pump, a division of Tencarva Machinery Company. About Tencarva: Founded in 1978, Tencarva is an equipment distributor, engineering and design partner, ISO 9001 manufacturer, and full-service repair center. Serving thousands of customers across the industrial a |  | Industrial Pump Repair Tech - OEM-Backed Rebuild & Testing in Detroit Job Board Companies Tencarva Machinery Industrial Pump Repair Tech - OEM-Backed Rebuild & Testing Detroit Full-Time No home office possible Tencarva Machinery Company in Detroit is seeking a reliable mechanic who specializes in the repair, rebuild, and testing of industrial pumps and rotating equipment. You will work in our OEM-authorized service center, diagnosing failures and ensuring equipment meets OEM standards. This role requires at least 3 years of hands-on experience with various pump types and mechanical measurement |  | Qualifications: Hands-on experience with pumps and leadership skills required. The predicted salary is between 72000 - 108000 $ per year. Description Description : Detroit Pump is seeking a dynamic leader for its service and repair business. If you have hands-on experience with process pumps and demonstrated leadership skills, this is a great opportunity for you! We have a clean, modern shop with established operating procedures and an experienced staff. Overview Summary: Oversees the operation of the service business and its output to produce the best, highest quality product on-time to meet  |  | QUALIFICATIONS: At least one year of experience servicing equipment, preferably with experience using proper testing equipment and practices for general electric and water. At least one year of experience in a customer-facing or customer-service role. Must like coffee: Tasting is the final step in all repairs. Smartphone proficient in inventory, managing, scheduling, and other tasks. Must possess a valid driver\u00e2\u0080\u0099s license with a clean driving record. Must be able to lift 50 lbs. without assistance. What Vixxo has to Offer You: Competitive base pay based on experience and certifications; quart"
       }
     },
     {
@@ -4672,7 +5237,12 @@
         "zip_parsed": "48201",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 2 | Training or certificate: 3 | Unclear: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "71% from posting text (5/7)",
+        "job_educations": "Training or certificate | Unclear | Training or certificate | No degree required | Training or certificate | No degree required | Unclear",
+        "job_descriptions": "Why Join Us Children's Hospital of Michigan has been the cornerstone of pediatric care in the state since 1886 and as a proud member of the Detroit Medical Center, it remains the first and largest children's hospital in Michigan. This is an academic opportunity with real reach: you'll care for an underserved adolescent population while teaching, mentoring, and shaping the next generation of pediatricians at one of the nation's largest pediatric residency programs. Ranked among America's best children's hospitals by U.S. News & World Report, CHM offers the clinical depth, research infrastructur |  | Pediatric Adolescent Medicine Jobs Michigan Detroit Pediatric Adolescent Medicine Job in Detroit, Michigan Adolescent Pediatrician Company: Tenet Healthcare Profession/Specialty: Pediatric Adolescent Medicine Location: Detroit, Michigan, United States Job Type: Full-time, In-person, Permanent Next Steps... Apply Now Register Now Job Description Why Join Us Children's Hospital of Michigan has been the cornerstone of pediatric care in the state since 1886 and as a proud member of the Detroit Medical Center, it remains the first and largest children's hospital in Michigan. This is an academic opp | Qualifications: High school diploma: Six to twelve months additional technical training in medical office/secretarial procedures, typing, and so forth, is preferred. Experience: One to two years of progressively more responsible administrative/clerical work experience. Education: One to two years of college level courses leading to an associate's degree in business, secretarial science or a related field is preferred. Knowledge: Knowledge of medical terminology is highly desirable. Required Skills Record Maintenance Insurance Information Management Clerical Services Secretarial Services Data C | Children\u2019s Hospital of Michigan is a leader in treating the most children for inpatient and outpatient cardiovascular care in southeastern Michigan. With an extensive team of attending and a dedicated nursing and technical staff, the Pediatric Cardiologists and Pediatric Cardiovascular surgeons at Children\u2019s Hospital of Michigan provide a full range of advanced cardiac services for fetuses, newborns, infants, children, and adolescents with congenital or acquired heart disease, and for adults with congenital heart disease. We are actively seeking Pediatric Cardiologists with interest in general | Candidates should have a high school diploma, with an associate degree preferred, and a minimum of three years of experience in patient access or hospital registration High school diploma, associate degree in related area preferred | "
       }
     },
     {
@@ -4713,7 +5283,12 @@
         "zip_parsed": "48093",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -4754,7 +5329,12 @@
         "zip_parsed": "48217",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 4 | Training or certificate: 5 | College degree: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "60% from posting text (6/10)",
+        "job_educations": "No degree required | Training or certificate | Training or certificate | Training or certificate | No degree required | No degree required | College degree | No degree required | Training or certificate | Training or certificate",
+        "job_descriptions": "Heavy Equipment Operator (Haul Truck Driver/Utility) in Detroit Job Board Companies The Kissner Group Heavy Equipment Operator (Haul Truck Driver/Utility) Detroit Full-Time No home office possible Contact Detail: The Kissner Group Recruiting Team View The Kissner Group Profile Location: Detroit | Jobs Login Apply Now with our quick 3 minute Application! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | Electro/Mechanical Tech in Detroit Job Board Companies The Kissner Group Electro/Mechanical Tech Detroit Full-Time No home office possible Contact Detail: The Kissner Group Recruiting Team View The Kissner Group Profile Location: Detroit | Underground Diesel Mechanic \u00e2\u0080\u0094 Heavy Equipment in Detroit Job Board Companies The Detroit Salt Company Underground Diesel Mechanic \u00e2\u0080\u0094 Heavy Equipment Detroit Full-Time No home office possible A historic mining organization in Detroit is seeking a Diesel Mechanic to maintain, repair, and troubleshoot heavy mining equipment. This hands-on role requires experience with cranes, haul trucks, and conveyors, as well as a Michigan mechanic certification. Ideal candidates will have strong problem-solving skills and the ability to work safely in various conditions. Join the team to contribute to the e |  | Qualifications: High school diploma and preferred experience in heavy equipment operation. The predicted salary is between 43200 - 72000 $ per year. A historic mining organization in Detroit is seeking a Heavy Equipment Operator (Haul Truck Driver) to transport materials within the mine. This entry-level role requires operating heavy machinery safely while adhering to safety standards. Candidates should possess a high school diploma and preferred experience in heavy equipment operation. The position offers full-time employment with competitive benefits. Join a dedicated team committed to safet |  |  |  | Qualifications: Supervisory experience or degree with heavy equipment maintenance background. The predicted salary is between 72000 - 108000 $ per year. A mining organization in Detroit is seeking a Maintenance Planner/Supervisor to oversee maintenance operations and ensure effective scheduling and planning to sustain safety and production standards. Candidates should have relevant supervisory experience or a degree coupled with extensive background in heavy equipment maintenance and technical troubleshooting. This position involves leadership roles in compliance with safety standards and a ha"
       }
     },
     {
@@ -4795,7 +5375,12 @@
         "zip_parsed": "48335",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -4836,7 +5421,12 @@
         "zip_parsed": "48216",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -4877,7 +5467,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 3 | Training or certificate: 11 | Unclear: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "67% from posting text (10/15)",
+        "job_educations": "Training or certificate | Training or certificate | Training or certificate | Training or certificate | Unclear | Training or certificate | No degree required | Training or certificate | No degree required | Training or certificate | Training or certificate | Training or certificate | Training or certificate | No degree required | Training or certificate",
+        "job_descriptions": " | Website Privacy Policy Home About Us Affiliates St Marys Cement (CA) St Marys Cement (US) Ciment St Marys Canada Building Materials Prairie Materials Superior Building Materials United Building Materials Join Talent Network Language English Fran\u00e7ais View Profile Select how often (in days) to receive an alert: Sorry, this position has been filled. About VCNA Top Jobs View All Jobs Privacy Policy Opens in a new tab. Provider Description Enabled SAP as service provider \"route\" is used for session stickiness \"careerSiteCompanyId\" is used to send the request to the correct data center \"JSESSIONID\"  | Journeyman Millwright license/card is required | Journeyman Card or Master Electrician Card Four (4) years\u2019 of experience as an electrician journeyman | Website Privacy Policy Home About Us Affiliates St Marys Cement (CA) St Marys Cement (US) Ciment St Marys Canada Building Materials Prairie Materials Superior Building Materials United Building Materials Join Talent Network Language English Fran\u00e7ais View Profile Select how often (in days) to receive an alert: Sorry, this position has been filled. About VCNA Top Jobs View All Jobs Privacy Policy Opens in a new tab. Provider Description Enabled SAP as service provider \"route\" is used for session stickiness \"careerSiteCompanyId\" is used to send the request to the correct data center \"JSESSIONID\"  | Website Privacy Policy Home About Us Affiliates St Marys Cement (CA) St Marys Cement (US) Ciment St Marys Canada Building Materials Prairie Materials Superior Building Materials United Building Materials Join Talent Network Language English Fran\u00e7ais View Profile Select how often (in days) to receive an alert: Sorry, this position has been filled. About VCNA Top Jobs View All Jobs Privacy Policy Opens in a new tab. Provider Description Enabled SAP as service provider \"route\" is used for session stickiness \"careerSiteCompanyId\" is used to send the request to the correct data center \"JSESSIONID\"  |  | Website Privacy Policy Home About Us Affiliates St Marys Cement (CA) St Marys Cement (US) Ciment St Marys Canada Building Materials Prairie Materials Superior Building Materials United Building Materials Join Talent Network Language English Fran\u00e7ais View Profile Select how often (in days) to receive an alert: Sorry, this position has been filled. About VCNA Top Jobs View All Jobs Privacy Policy Opens in a new tab. Provider Description Enabled SAP as service provider \"route\" is used for session stickiness \"careerSiteCompanyId\" is used to send the request to the correct data center \"JSESSIONID\"  |  |  | Journeyman Card or Master Electrician Card Four (4) years\u2019 of experience as an electrician journeyman | The role requires heavy industrial experience and a Journeyman Millwright license | Qualifications: Knowledge of plant equipment, strong interpersonal skills, and multitasking ability. The predicted salary is between 60000 - 80000 $ per year. Votorantim Cimentos North America (VCNA) is looking for a dedicated plant operator in Farmington Hills, MI. You will provide plant operator support and coordinate daily operations. The ideal candidate will have knowledge of plant equipment and materials, strong interpersonal and management skills, and the ability to handle multiple tasks in a fast-paced environment. This role offers growth opportunities, training, and competitive benefit |  | HS Diploma or equivalent required Current, valid driver's license required"
       }
     },
     {
@@ -4918,7 +5513,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 1 | Training or certificate: 2 | College degree: 8",
+        "lowest_education": "No degree required",
+        "education_confidence": "55% from posting text (6/11)",
+        "job_educations": "College degree | College degree | No degree required | College degree | Training or certificate | College degree | College degree | College degree | College degree | College degree | Training or certificate",
+        "job_descriptions": " | Bachelor of Arts degree in Marketing or related field | High school diploma is required Bachelor's Degree in Civil/Environmental (or related field) is preferred | The candidate must have a bachelor's degree Planning or a related field and have zero to five years of related experience Bachelor\u2019s Degree in Planning or related field |  |  | Qualification: Identity and Access Management Okta Identity & Access Management system Certified Identity Management Professional (CIMP) Microsoft SQL Cybersecurity Project administration Required Bachelor's degree in Computer Science with a focus on Cybersecurity or a closely related field At least two years of experience in identity and access management or a related field Certified Identity Management Professional (CIMP) certification required Excellent communication and project administration skills Strong analytical skills Good organizational skills and attention to detail Familiarity wit |  |  | Qualifications: Bachelor's in Civil Engineering and 5-10 years of relevant experience required. The predicted salary is between 72000 - 108000 $ per year. Job Description What We Offer: Our excellent salary and benefits package includes medical, dental, vision, life insurance, short and long-term disability coverage, education reimbursement, 401(k), performance bonuses, and an employee stock program. Employee Resource Groups and Programs offered include the Young Professionals Group, Women at Wade Trim, Diversity, Equity and Inclusion, Professional Development, Leadership Development, Rotation | The candidate must be a licensed PE with a bachelor's degree in civil or environmental engineering and ten to fifteen years of related experience Bachelor's degree in Civil or Environmental Engineering"
       }
     },
     {
@@ -4959,7 +5559,12 @@
         "zip_parsed": "48209",
         "geo_bucket": "Core 12",
         "in_scope": "Yes",
-        "zone": "Southwest Detroit"
+        "zone": "Southwest Detroit",
+        "education_tiers": "No degree required: 1",
+        "lowest_education": "No degree required",
+        "education_confidence": "0% from posting text (0/1)",
+        "job_educations": "No degree required",
+        "job_descriptions": null
       }
     },
     {
@@ -5000,7 +5605,12 @@
         "zip_parsed": "48226",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 3 | Training or certificate: 5 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "60% from posting text (6/10)",
+        "job_educations": "College degree | Training or certificate | No degree required | No degree required | Training or certificate | Training or certificate | Training or certificate | No degree required | Training or certificate | College degree",
+        "job_descriptions": " |  | Jobs THIS POSITION HAS BEEN CLOSED! PLEASE CHOOSE ONE OF THE OPTIONS BELOW: Search Search Current Openings Sign Up For Job Alerts! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 |  | Jobs Apply Now Sign Up For Job Alerts! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | Jobs Apply Now Sign Up For Job Alerts! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | Jobs Apply Now Sign Up For Job Alerts! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | Jobs Apply Now Sign Up For Job Alerts! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | Jobs Apply Now Sign Up For Job Alerts! Hiring Software Maintained by isolved Talent Acquisition - \u00a9 2026 | "
       }
     },
     {
@@ -5041,7 +5651,12 @@
         "zip_parsed": "48184",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     },
     {
@@ -5082,7 +5697,12 @@
         "zip_parsed": "48184",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": "No degree required: 5 | Training or certificate: 3 | College degree: 2",
+        "lowest_education": "No degree required",
+        "education_confidence": "10% from posting text (1/10)",
+        "job_educations": "Training or certificate | College degree | No degree required | College degree | Training or certificate | No degree required | Training or certificate | No degree required | No degree required | No degree required",
+        "job_descriptions": " |  |  |  |  |  |  |  | * A bachelor's degree from an accredited educational institution preferred * Possess a Master's Degree from an accredited educational institution preferred | "
       }
     },
     {
@@ -5123,7 +5743,12 @@
         "zip_parsed": "48202",
         "geo_bucket": "Detroit (other)",
         "in_scope": "Review",
-        "zone": "Detroit"
+        "zone": "Detroit",
+        "education_tiers": "No degree required: 4 | Training or certificate: 2 | College degree: 4",
+        "lowest_education": "No degree required",
+        "education_confidence": "70% from posting text (7/10)",
+        "job_educations": "College degree | College degree | College degree | Training or certificate | No degree required | Training or certificate | No degree required | No degree required | No degree required | College degree",
+        "job_descriptions": "Qualifications: Minimum Qualifications Education Bachelor's degree or certification from a reputable media arts school required. Bachelor's degree in mass communications or combination of education and experience in full cycle of video production. Experience Intermediate (3 to 4 years job-related experience). Demonstrated experience in full cycle of video production (videography and video editing of rough, finish, colorization, and audio post. Experienced knowledge of video production process, including lighting and camera techniques, with the ability to provide examples of having demonstrated | Bachelor's degree required, 3\u20134 years\u2019 experience, and strong collaboration with teams |  |  | Qualifications: Graduation from an accredited college or university or an equivalent combination of education and/or experience preferred. Some knowledge of and experience with University academic and/or non-academic personnel processing procedures and practices. Some knowledge of accounting principles and bookkeeping procedures and applications. Ability to communicate effectively with others. Ability to work under pressure and meet established deadlines. Some supervisory experience preferred. Typically, incumbents have held lower level clerical and/or secretarial support positions. Preferred  | Qualifications: Education Bachelor's degree Additional Education Information: Bachelor\u2019s degree from an accredited college or university with a preferred concentration in Business, Hospitality, Student Affairs or Higher Education or an equivalent combination of education and/or experience. Master\u2019s Degree preferred. Experience Experienced (minimum 2 years of job-related experience) Minimum of 2 years of job-related experience. Preference for related experience in student center reservations, event planning, student activities. Experience with EMS (Student Center Scheduling Software) preferred. | Qualifications: Graduation from an accredited college or university or an equivalent combination of education and/or experience. Excellent oral and written communication skills. Some knowledge and experience with computer software applications for publications or other communications, e.g. Filemaker Pro, Word, Excel, etc. Ability to organize and prioritize work assignments to meet established deadlines. Ability to establish and maintain effective working relationships between external and internal contributors. Some knowledge and experience in writing, editing and proofreading preferred. Some  | education and experience.: Experience Experienced (minimum 2 years of job-related experience) Minimum 2-4 years of job-related experience in a higher-level administrative role. Prior experience in a higher-education, non-profit organization preferred. Knowledge, Skills and Abilities ANALYTICAL AND PRESENTATION SKILLS: Ability to evaluate, interpret, and present complex information effectively in professionally prepared documents or presentations. Must possess a demonstrated attention to detail in order to achieve a high degree of accuracy. COLLABORATION: Exhibit a willingness to partner with u |  | Qualifications: Education: Bachelor's degree Requires graduation from an accredited Bachelor\u2019s or Masters Pathologists\u2019 Assistant program. Alternatively, has completed Bachelor\u2019s Degree in Sciences with background in physiology and anatomy and a minimum of 3 years of experience in Pathology. Must be eligible for certification as a Pathologist\u2019s Assistant by the American Society for Clinical Pathology and complete certification within 2 years of hire. Must maintain certification by completing continuing education requirements. Certification as a Pathologists\u2019 Assistant by the American Society f"
       }
     },
     {
@@ -5164,7 +5789,12 @@
         "zip_parsed": "48103",
         "geo_bucket": "Outside corridor",
         "in_scope": "No",
-        "zone": "Outside the area"
+        "zone": "Outside the area",
+        "education_tiers": null,
+        "lowest_education": "Unclassified",
+        "education_confidence": null,
+        "job_educations": null,
+        "job_descriptions": null
       }
     }
   ]

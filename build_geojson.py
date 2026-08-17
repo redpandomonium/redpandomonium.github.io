@@ -21,6 +21,16 @@ PROPERTY_COLUMNS = [
     # App.jsx. They must stay in this list or a rebuild silently drops them
     # from the map and every employer falls back to "unclassified".
     "zip_parsed", "geo_bucket", "in_scope", "zone",
+    # Education data, written by apply_education_to_map.py. Same rule as the
+    # scope columns: if these are not listed here, a rebuild drops them and the
+    # education filter on the map silently empties.
+    "education_tiers", "lowest_education", "education_confidence",
+    # Per-job education tier and requirements snippet, index-aligned with
+    # job_titles/apply_urls above (all four are written together by
+    # apply_education_to_map.py so the alignment holds). Without these two
+    # listed here, a rebuild silently collapses every job at an employer back
+    # down to one badge.
+    "job_educations", "job_descriptions",
 ]
 
 # The 12 target ZIP codes, split into the two zones the map labels separately.
