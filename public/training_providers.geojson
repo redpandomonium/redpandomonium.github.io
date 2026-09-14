@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.080815930215,
+          42.324510325854
+        ]
+      },
+      "properties": {
+        "provider": "MiSide / Southwest Solutions (Michigan Works service provider)",
+        "category": "Community organization",
+        "homepage_url": "https://www.miside.org/",
+        "program_page_url": "",
+        "address": "2835 Bagley St, Detroit, MI",
+        "zip": "48216",
+        "credential_focus": "General workforce services,referrals to training",
+        "cost_notes": "Free",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "The Michigan Works! service provider specifically for the Southwest Detroit American Job Center catchment. Confirm current program slate directly -- may be referral-only rather than a direct training provider.",
+        "zone": "Southwest Detroit",
+        "in_scope": "Yes",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.988159101717,
+          42.395102809431
+        ]
+      },
+      "properties": {
+        "provider": "Downriver Community Conference (Michigan Works service provider)",
+        "category": "Community organization",
+        "homepage_url": "https://dccwf.org/",
+        "program_page_url": "https://dccwf.org/locations/",
+        "address": "5901 Conner St, Detroit, MI",
+        "zip": "48213",
+        "credential_focus": "General workforce services,referrals to training",
+        "cost_notes": "Free",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "Michigan Works service provider for the Downriver catchment (under SEMCA Michigan Works!, not Michigan Works! Southeast).",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.239442430782,
+          42.212900112379
+        ]
+      },
+      "properties": {
+        "provider": "Wayne County Community College District - Downriver Campus",
+        "category": "Community college",
+        "homepage_url": "https://www.wcccd.edu/",
+        "program_page_url": "https://www.wcccd.edu/locations/downriver-campus",
+        "address": "21000 Northline Rd, Taylor, MI",
+        "zip": "48180",
+        "credential_focus": "CDL/Truck Driving,Mechatronics,Robotics,Advanced Manufacturing,EV/Battery Technician",
+        "cost_notes": "Community college tuition; check for free/scholarship pathways",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "District also has an Eastern Campus Regional Training Center and a School of Continuing Education worth checking for shorter noncredit certificates.",
+        "zone": "Outside the area",
+        "in_scope": "No",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.233747931259,
+          42.323287721137
+        ]
+      },
+      "properties": {
+        "provider": "Henry Ford College - Workforce & Professional Development",
+        "category": "Community college",
+        "homepage_url": "https://www.hfcc.edu/wfpd",
+        "program_page_url": "https://www.hfcc.edu/wfpd/classes-training",
+        "address": "5101 Evergreen Rd, Dearborn, MI",
+        "zip": "48128",
+        "credential_focus": "Manufacturing,Skilled Trades,Supply Chain/Logistics,Energy & Construction Technology,Industrial Sewing",
+        "cost_notes": "Noncredit/short-term programs often lower cost than degree track",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "Center for Lifelong Learning runs the noncredit courses most relevant to open-enrollment scope. Trade and Apprentice program page also worth a direct check: hfcc.edu/programs/trade-apprentice.",
+        "zone": "Outside the area",
+        "in_scope": "No",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2253457,
+          42.1408538
+        ]
+      },
+      "properties": {
+        "provider": "Dorsey College - Woodhaven Campus",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://www.dorsey.edu/woodhaven-campus/",
+        "program_page_url": "https://www.dorsey.edu/woodhaven-campus/",
+        "address": "19810 W Rd, Woodhaven, MI",
+        "zip": "48183",
+        "credential_focus": "Medical Assistant,Pharmacy Technician,Dental Assistant,Sterile Processing Technician,EMT,Paramedic,HVAC,Practical Nurse",
+        "cost_notes": "Private school -- verify sticker price and financial aid options",
+        "reachable_by_bus": "unknown",
+        "source": "web search 2026-08-18",
+        "notes": "Named directly in the implementation plan; this is the specific campus flagged as closest to the corridor.",
+        "zone": "Around Southwest Detroit",
+        "in_scope": "Yes",
+        "geocode_source": "Nominatim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.120050960953,
+          42.305965834193
+        ]
+      },
+      "properties": {
+        "provider": "All Stars Truck Driving School",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://www.allstarstruckschool.com/",
+        "program_page_url": "https://www.allstarstruckschool.com/",
+        "address": "1411 Central Ave, Detroit, MI",
+        "zip": "48209",
+        "credential_focus": "CDL Class A/B",
+        "cost_notes": "No prior experience required; verify current tuition",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "Already appears in employers_master.xlsx as an Education & Workforce Development employer -- confirms the plan's note that some of the answer is already in the existing dataset. In Southwest Detroit proper.",
+        "zone": "Southwest Detroit",
+        "in_scope": "Yes",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.118908253791,
+          42.400634565063
+        ]
+      },
+      "properties": {
+        "provider": "Focus: HOPE",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://www.focushope.edu/",
+        "program_page_url": "https://www.focushope.edu/programs/",
+        "address": "1200 Oakman Blvd, Detroit, MI",
+        "zip": "48238",
+        "credential_focus": "General Manufacturing/Mechatronics (Machinist Training Institute),IT/Computer Technology,CDL/Truck Driving (Logistics & Transportation Pathway)",
+        "cost_notes": "Free per Detroit at Work listing",
+        "reachable_by_bus": "yes",
+        "source": "web search + detroitatwork.com/training 2026-08-18",
+        "notes": "Currently an active Detroit at Work training partner (Industrial Manufacturing, Logistics & Transportation, Construction, Tree Trimming, IT, IT Python Developer pathways). Large, well-known, and free -- high priority to verify program-by-program.",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06843610323,
+          42.340201348035
+        ]
+      },
+      "properties": {
+        "provider": "Goodwill Industries of Greater Detroit",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://www.goodwilldetroit.org/",
+        "program_page_url": "https://www.goodwilldetroit.org/services/for-individuals/skilled-trades-academy/",
+        "address": "3111 Grand River Ave, Detroit, MI",
+        "zip": "48208",
+        "credential_focus": "Welding,General Manufacturing/Mechatronics (Career/Skilled Trades Academy incl. EVSE)",
+        "cost_notes": "Free per Detroit at Work listing",
+        "reachable_by_bus": "yes",
+        "source": "web search + detroitatwork.com/training 2026-08-18",
+        "notes": "Active Detroit at Work partner for Welding Skills Trades. Also runs Flip the Script (second-chance/justice-involved workforce program) worth a separate look.",
+        "zone": "Outside the area",
+        "in_scope": "No",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.093769874547,
+          42.349223184194
+        ]
+      },
+      "properties": {
+        "provider": "Detroit Training Center",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://detroittraining.com/",
+        "program_page_url": "https://detroittraining.com/workforce",
+        "address": "5151 Loraine St, Detroit, MI",
+        "zip": "48208",
+        "credential_focus": "CDL/Truck Driving,Welding,General Manufacturing/Mechatronics (Heavy Equipment),Other (Masonry, Lead/Asbestos Abatement)",
+        "cost_notes": "$4,000-$6,000 -- private, NOT free; check current state workforce fund eligibility",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "Unlike the Detroit at Work partners on this list, this one charges real tuition. Confirm current price and whether corridor residents can access it fee-free through a Detroit at Work referral.",
+        "zone": "Outside the area",
+        "in_scope": "No",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06865357055,
+          42.326049818775
+        ]
+      },
+      "properties": {
+        "provider": "LIFT Learning Lab (LIFT Manufacturing Innovation Institute)",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://lift.technology/",
+        "program_page_url": "https://lift.technology/learning-lab/",
+        "address": "1400 Rosa Parks Blvd, Detroit, MI",
+        "zip": "48216",
+        "credential_focus": "Welding,General Manufacturing/Mechatronics (Operation Next: CNC Machining, Robotics, Welding)",
+        "cost_notes": "Free per Detroit at Work / Operation Next",
+        "reachable_by_bus": "yes",
+        "source": "web search + detroitatwork.com/training 2026-08-18",
+        "notes": "Located in Corktown, close to the Southwest Detroit corridor. Delivered in partnership with Henry Ford College per LIFT's own site -- may overlap with the HFC row above; check for duplicate programme listings when classifying.",
+        "zone": "Southwest Detroit",
+        "in_scope": "Yes",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.980476072712,
+          42.391198725459
+        ]
+      },
+      "properties": {
+        "provider": "Emerging Industries Training Institute",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://trainandemploy.org/",
+        "program_page_url": "https://trainandemploy.org/",
+        "address": "5555 Conner St Suite 1646, Detroit, MI",
+        "zip": "48213",
+        "credential_focus": "Industrial Electrical (Pre-Apprentice Electrical),EV/Mobility/Battery Technician (Solar),CDL/Truck Driving,IT/Computer Technology (PC tech support)",
+        "cost_notes": "Free per Detroit at Work listing",
+        "reachable_by_bus": "yes",
+        "source": "web search + detroitatwork.com/training 2026-08-18",
+        "notes": "Listed by Detroit at Work as 'Emerging Industries Technology Institute' (name varies by source -- trainandemploy.org is the org's own domain). Also offers carpentry, culinary, heavy machinery, mechanic, and urban farming per its own site -- broader than the DAW listing suggests.",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.072351753252,
+          42.365018403193
+        ]
+      },
+      "properties": {
+        "provider": "TEK Ready Computer Learning Academy",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://www.tekready.org/",
+        "program_page_url": "https://www.tekready.org/about",
+        "address": "440 Burroughs St Ste 131, Detroit, MI",
+        "zip": "48202",
+        "credential_focus": "IT/Computer Technology",
+        "cost_notes": "Free per Detroit at Work listing",
+        "reachable_by_bus": "yes",
+        "source": "web search + detroitatwork.com/training 2026-08-18",
+        "notes": "Based at TechTown in Midtown. Offers IT support, network, and cybersecurity certification tracks.",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.074817127557,
+          42.371377922316
+        ]
+      },
+      "properties": {
+        "provider": "NPower Michigan",
+        "category": "Trade/vocational school",
+        "homepage_url": "https://www.npower.org/",
+        "program_page_url": "https://www.npower.org/graduation/fall-2024-tech-fundamentals/michigan/",
+        "address": "116 Lothrop St Ste 104A, Detroit, MI",
+        "zip": "48202",
+        "credential_focus": "IT/Computer Technology",
+        "cost_notes": "Free; targets ages 18-26 and veterans",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "Tech Fundamentals leads to CompTIA A+, Google IT Support Certificate, and an IT Generalist Apprenticeship credential -- concrete outcome data available (85% completion, jobs averaging 519% more than prior pay) if this needs a citation later.",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05625031126,
+          42.33756709264
+        ]
+      },
+      "properties": {
+        "provider": "Payne-Pulliam School of Trade and Commerce (PSTC)",
+        "category": "Trade/vocational school",
+        "homepage_url": "http://paynepulliam.org/",
+        "program_page_url": "http://paynepulliam.org/contact-us/",
+        "address": "2345 Cass Ave, Detroit, MI",
+        "zip": "48201",
+        "credential_focus": "General Manufacturing/Mechatronics (ReBuild Detroit skilled trades)",
+        "cost_notes": "Free (Detroit at Work network location)",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "A Detroit at Work career-center location, not just a referral point -- runs ReBuild Detroit (formerly SER Bridges to Career Opportunities) directly. Second location at 11457 Shoemaker St, Detroit 48213 runs the PATH Program.",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.221563969832,
+          42.41926541089
+        ]
+      },
+      "properties": {
+        "provider": "Wayne County Community College District - Northwest Campus",
+        "category": "Community college",
+        "homepage_url": "https://www.wcccd.edu/",
+        "program_page_url": "https://www.wcccd.edu/",
+        "address": "8200 W Outer Dr, Detroit, MI",
+        "zip": "48219",
+        "credential_focus": "Medical Assistant/Healthcare (Pharmacy Technician, Dental Assisting)",
+        "cost_notes": "Community college tuition; check for free/scholarship pathways",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "Listed by Detroit at Work as 'WCCCD-NW' for Pharmacy Technician and Dental Assisting specifically -- confirm whether those sections run at reduced/no cost through the DAW partnership vs. the college's standard tuition.",
+        "zone": "Outside the area",
+        "in_scope": "No",
+        "geocode_source": "Census"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.060874730853,
+          42.351983092099
+        ]
+      },
+      "properties": {
+        "provider": "JVS Human Services (Gesher Human Services)",
+        "category": "Community organization",
+        "homepage_url": "https://www.jvshumanservices.org/",
+        "program_page_url": "",
+        "address": "4250 Woodward Ave, Detroit, MI",
+        "zip": "48201",
+        "credential_focus": "Forklift/Material Handling (simulated warehouse/fulfillment training)",
+        "cost_notes": "Free",
+        "reachable_by_bus": "yes",
+        "source": "web search 2026-08-18",
+        "notes": "A Detroit Employment Solutions Corp. training partner. Runs a simulated warehouse/sorting/fulfillment center; historically disability-focused workforce training, worth confirming general eligibility.",
+        "zone": "Detroit",
+        "in_scope": "Review",
+        "geocode_source": "Census"
+      }
+    }
+  ]
+}

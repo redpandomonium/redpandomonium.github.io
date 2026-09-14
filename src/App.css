@@ -1,3 +1,14 @@
+/* Breakpoint: <900px is "mobile" (phone portrait/landscape, phone-sized
+   tablets) -- full-width List/Map toggle instead of the side-by-side layout
+   below. >=900px is unchanged desktop. This number is duplicated in
+   src/useIsMobile.js (window.matchMedia) -- the JS layout branch (which pane
+   is rendered) and this CSS (how each pane is styled) must agree exactly, or
+   the two disagree at the boundary and produce a broken hybrid layout.
+   Change both together or neither. All mobile-only rules live in one
+   `@media (max-width: 899px)` block at the end of this file rather than
+   nested into each rule above, so "everything that changes on mobile" stays
+   reviewable in one place. */
+
 .app-container {
   display: flex;
   height: 100vh;
@@ -18,6 +29,47 @@
   height: 48px;
   width: auto;
   pointer-events: none;
+}
+
+/* --- Map empty state -------------------------------------------------------
+   Shown until something is selected -- resting state hides every category by
+   default (see the seeding effect in App.jsx), so without this the map would
+   just be a blank basemap, which reads as broken rather than "nothing picked
+   yet". pointer-events: none on the wrapper so the map underneath stays fully
+   pannable/zoomable; the card itself doesn't need to catch clicks either. */
+.map-empty-state {
+  position: absolute;
+  inset: 0;
+  z-index: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  padding: 24px;
+}
+
+.map-empty-state-card {
+  max-width: 280px;
+  text-align: center;
+  background: rgba(26, 27, 34, 0.85);
+  border: 1px solid #2e303a;
+  border-radius: 10px;
+  padding: 20px 24px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
+}
+
+.map-empty-state-title {
+  margin: 0 0 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #f3f4f6;
+}
+
+.map-empty-state-hint {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #9ca3af;
 }
 
 .sidebar {
@@ -180,6 +232,97 @@
 
 .filter-section-body {
   padding: 0 8px 8px;
+}
+
+/* --- ZIP filter -------------------------------------------------------------
+   Not a FilterSection -- it's a text input plus a row of radius buttons, not
+   a list of toggles, and it's shown open by default (a direct search, not
+   chrome to declutter). Mirrors filter-section's border/spacing so it still
+   reads as part of the same stack of panels. */
+
+.zip-filter {
+  padding: 10px 12px 12px;
+}
+
+.zip-filter-title {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 600;
+  color: #9ca3af;
+  margin-bottom: 8px;
+}
+
+.zip-filter-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.zip-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  background: #15161c;
+  border: 1px solid #2e303a;
+  border-radius: 6px;
+  color: #f3f4f6;
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.zip-input:focus {
+  outline: none;
+  border-color: #689cca;
+}
+
+.zip-input::placeholder {
+  color: #6b7280;
+}
+
+.zip-radius-row {
+  display: flex;
+  gap: 6px;
+}
+
+.zip-radius-btn {
+  flex: 1;
+  padding: 5px 0;
+  background: #15161c;
+  border: 1px solid #2e303a;
+  border-radius: 6px;
+  color: #9ca3af;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.zip-radius-btn:hover {
+  color: #d1d5db;
+}
+
+.zip-radius-btn.active {
+  background: #1e2a3a;
+  border-color: #689cca;
+  color: #9cc4e8;
+}
+
+.zip-status {
+  margin: 0;
+  font-size: 11px;
+  color: #6b7280;
+}
+
+.zip-status.zip-error {
+  color: #d17a7a;
+}
+
+.employer-item .zip-distance-line {
+  font-size: 10px;
+  color: #689cca;
+  margin-bottom: 4px;
 }
 
 /* --- Corridor scope filter ------------------------------------------------
@@ -569,6 +712,105 @@
   cursor: text;
 }
 
+/* --- Training-provider entries ---------------------------------------------
+   A second dataset mixed into the same Category legend/filter as employers
+   (see trainingCategories in App.jsx) rather than a separate toggle. The
+   amber fill comes from TRAINING_PROVIDER_COLOR via inline style, same as an
+   employer's category-swatch -- one color, one source of truth. This
+   stylesheet only owns shape/layout: square-ish, not round, echoing the pin
+   shape on the map, wherever a training-swatch appears (legend, list item). */
+
+.training-swatch {
+  border-radius: 3px;
+}
+
+/* training-header is a <button> now (collapsible), not a plain div -- reset
+   the browser's default button chrome back to how .sidebar-header looked. */
+.sidebar-header.training-header {
+  border-top: 1px solid #2e303a;
+  width: 100%;
+  display: block;
+  background: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #2e303a;
+  font-family: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.sidebar-header.training-header:hover {
+  background: #1e1f28;
+}
+
+.sidebar-header.training-header h2 {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.sidebar-header.training-header .chevron {
+  font-size: 10px;
+  color: #6b7280;
+  flex-shrink: 0;
+  transition: transform 0.15s;
+}
+
+.sidebar-header.training-header .chevron.open {
+  transform: rotate(90deg);
+}
+
+.training-item.active {
+  border-left-color: #e0b400; /* kept literal: border-left-color can't take a
+                                  React inline style here without threading a
+                                  prop through .employer-item's shared active
+                                  class, and one more use of this color isn't
+                                  worth that. Matches TRAINING_PROVIDER_COLOR. */
+}
+
+.credential-tags-line,
+.cost-notes-line {
+  font-size: 10px;
+  color: #6b7280;
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.cost-notes-line {
+  color: #8a9a6b;
+}
+
+/* Leaflet renders a divIcon with no chrome of its own -- this is the whole
+   visual, a filled circle behind the glyph so it reads at a glance as "not
+   an employer pin" even at a distance. */
+.training-marker-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.training-marker-glyph {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  /* background-color set inline in trainingIcon() from TRAINING_PROVIDER_COLOR */
+  border: 1.5px solid rgba(0, 0, 0, 0.4);
+  font-size: 12px;
+  line-height: 1;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.5);
+}
+
+.training-marker-glyph.active {
+  width: 26px;
+  height: 26px;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 3px rgba(224, 180, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.6);
+}
+
 /* Leaflet tooltip overrides */
 .leaflet-tooltip {
   background: #1a1b22;
@@ -605,4 +847,182 @@
 
 .leaflet-tooltip-right::before {
   border-right-color: #1a1b22;
+}
+
+/* =============================================================================
+   Mobile (<900px) -- see the breakpoint comment at the top of this file.
+   ========================================================================== */
+@media (max-width: 899px) {
+
+  /* --- Layout: List/Map toggle instead of side-by-side -----------------------
+     Both .map-wrapper and .sidebar stay mounted at all times (see App.jsx --
+     unmounting/remounting MapContainer on every tab switch would re-init
+     Leaflet and all markers). Only the inactive pane is hidden here, via
+     .hidden-mobile, so Leaflet's tile/marker state is never torn down. */
+
+  .app-container {
+    flex-direction: column;
+    height: 100dvh;
+  }
+
+  .mobile-view-toggle {
+    display: flex;
+    flex-shrink: 0;
+    order: -1; /* first child of .app-container regardless of source order */
+  }
+
+  .map-wrapper,
+  .sidebar {
+    flex: 1;
+    width: 100%;
+    min-height: 0;
+  }
+
+  .sidebar {
+    border-left: none;
+    border-top: 1px solid #2e303a;
+  }
+
+  .hidden-mobile {
+    display: none !important;
+  }
+
+  .logo-overlay {
+    height: 36px;
+  }
+
+  /* --- Mobile view toggle bar ------------------------------------------------ */
+
+  .mobile-view-toggle button {
+    flex: 1;
+    min-height: 44px;
+    background: #1a1b22;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: #6b7280;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+  .mobile-view-toggle button.active {
+    color: #f3f4f6;
+    border-bottom-color: #689cca;
+  }
+
+  /* --- Touch targets (44px minimum) ------------------------------------------ */
+
+  .filter-section-header {
+    padding: 15px 12px;
+  }
+
+  .scope-item,
+  .legend-item {
+    min-height: 44px;
+  }
+
+  .zip-input {
+    min-height: 44px;
+    font-size: 16px; /* prevents iOS Safari auto-zooming in on focus */
+  }
+
+  .zip-radius-btn {
+    min-height: 40px;
+  }
+
+  .job-title-row.expandable {
+    min-height: 44px;
+    padding: 8px 0;
+  }
+
+  .job-apply-link {
+    min-height: 44px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 10px;
+    background: #1c2733;
+    border-radius: 6px;
+    flex-basis: 100%;
+    text-align: center;
+  }
+
+  /* Leaflet's own touch stylesheet (.leaflet-touch .leaflet-bar a, 3
+     classes + a type selector) outranks a same-shaped 2-class override, so
+     this needs !important rather than a losing specificity fight against a
+     vendor default. */
+  .leaflet-touch .leaflet-control-zoom-in,
+  .leaflet-touch .leaflet-control-zoom-out {
+    width: 44px !important;
+    height: 44px !important;
+    line-height: 44px !important;
+    font-size: 20px !important;
+  }
+
+  .chevron,
+  .job-desc-toggle {
+    font-size: 12px;
+  }
+
+  /* --- Typography (targeted bumps, not a rem refactor -- see plan notes) ----- */
+
+  .job-edu-badge,
+  .filter-section-badge {
+    font-size: 11px;
+  }
+
+  .scope-count,
+  .legend-count,
+  .sub-category-line,
+  .job-badge,
+  .employer-item .edu-badge,
+  .filter-section-title,
+  .credential-tags-line,
+  .cost-notes-line {
+    font-size: 12px;
+  }
+
+  .job-apply-link {
+    font-size: 13px;
+  }
+
+  .scope-label,
+  .legend-label,
+  .category-line,
+  .job-titles-list li,
+  .job-description {
+    font-size: 13px;
+  }
+
+  .employer-item .company-name {
+    font-size: 15px;
+  }
+}
+
+/* --- Touch feedback --------------------------------------------------------
+   ":active" in place of ":hover", which has no touch equivalent. Gated on
+   (hover: none) rather than the layout breakpoint above, since a touch
+   laptop wider than 899px should get the same feedback. */
+@media (hover: none) {
+  .employer-item:active,
+  .filter-section-header:active,
+  .scope-item:active,
+  .legend-item:active,
+  .job-title-row.expandable:active {
+    background: #22232e;
+  }
+}
+
+/* --- Leaflet tooltip overflow (mobile) --------------------------------------
+   Desktop keeps the single-line nowrap tooltip -- it works fine at that
+   width. On mobile a long company name + full address + category string can
+   run past the edge of the viewport with nowrap; wrap it and cap the width
+   instead. */
+@media (max-width: 899px) {
+  .leaflet-tooltip {
+    white-space: normal;
+    max-width: min(240px, 70vw);
+  }
 }

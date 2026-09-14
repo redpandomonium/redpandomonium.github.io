@@ -27,3 +27,12 @@ export const CATEGORY_COLORS = {
 export function colorForCategory(category) {
   return CATEGORY_COLORS[category] || NEEDS_REVIEW_COLOR
 }
+
+// Training providers are a different kind of thing from an employer -- not
+// one of the ten employer categories above, and deliberately not assigned
+// one of their palette colours (a shared hue would imply a provider is a
+// competing "category" of employer, which it isn't). One fixed amber, not
+// used anywhere in CATEGORY_COLORS, plus a distinct marker shape on the map
+// (a pin, not a circle) keeps the two datasets visually unambiguous even
+// before a viewer reads the legend.
+export const TRAINING_PROVIDER_COLOR = '#e0b400'
