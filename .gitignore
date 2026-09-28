@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Downloaded GTFS feeds (build_transit_geojson.py)
+transit_cache
+
+# wrangler dev local state
+.wrangler

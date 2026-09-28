@@ -176,6 +176,127 @@
   text-overflow: ellipsis;
 }
 
+/* --- Transit overlay filter ------------------------------------------------
+   A line sample (solid vs dashed, bus grey vs rail colour) instead of a dot,
+   since that's what it toggles on the map. */
+.scope-item .transit-swatch {
+  flex-shrink: 0;
+}
+
+.transit-note {
+  margin: 4px 8px 0;
+  font-size: 10px;
+  color: #6b7280;
+}
+
+/* --- Feedback ---------------------------------------------------------------
+   Button floats top-right in the sidebar header (visible on the mobile List
+   tab too); the dialog is a full-window overlay above the map (z 1000 logo,
+   so 2000) holding the embedded Google Form. */
+.sidebar-header {
+  position: relative;
+}
+
+.feedback-button {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  padding: 4px 10px;
+  background: #22232e;
+  border: 1px solid #3a3c4a;
+  border-radius: 6px;
+  color: #d1d5db;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.feedback-button:hover,
+.feedback-button:focus-visible {
+  background: #2a2c38;
+  border-color: #689cca;
+}
+
+.feedback-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.feedback-dialog {
+  display: flex;
+  flex-direction: column;
+  width: min(640px, 100%);
+  height: min(760px, 100%);
+  background: #1a1b22;
+  border: 1px solid #2e303a;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+}
+
+.feedback-dialog-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px 10px 16px;
+  border-bottom: 1px solid #2e303a;
+}
+
+.feedback-dialog-header h2 {
+  flex: 1;
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #f3f4f6;
+  letter-spacing: 0;
+}
+
+.feedback-open-tab {
+  font-size: 11px;
+  color: #60a5fa;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.feedback-open-tab:hover,
+.feedback-open-tab:focus-visible {
+  color: #93c5fd;
+  text-decoration: underline;
+}
+
+.feedback-close {
+  width: 32px;
+  height: 32px;
+  background: none;
+  border: none;
+  border-radius: 6px;
+  color: #9ca3af;
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.feedback-close:hover {
+  background: #22232e;
+  color: #f3f4f6;
+}
+
+/* Google Forms' embed is white; this is just the frame around it. */
+.feedback-frame {
+  flex: 1;
+  width: 100%;
+  border: none;
+  background: #fff;
+}
+
 /* --- Collapsible filter sections -------------------------------------------
    Three filter panels (education, area, category) were pushing the employer
    listings below the fold. Collapsed by default; the header stays visible so
@@ -948,6 +1069,33 @@
 
   .zip-radius-btn {
     min-height: 40px;
+  }
+
+  .feedback-button {
+    min-height: 40px;
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+
+  .feedback-open-tab {
+    font-size: 13px;
+    padding: 12px 4px;
+  }
+
+  .feedback-close {
+    width: 44px;
+    height: 44px;
+  }
+
+  /* Edge to edge on a phone -- the form needs every pixel of width. */
+  .feedback-overlay {
+    padding: 0;
+  }
+
+  .feedback-dialog {
+    height: 100%;
+    border-radius: 0;
+    border: none;
   }
 
   .job-title-row.expandable {

@@ -1,0 +1,17 @@
+// Cloudflare Workers config -- serves the Vite build (dist/) as static
+// assets, no server code. Deploy: `npm run build && npx wrangler deploy`,
+// or connect the GitHub repo under Workers & Pages -> Create -> Import a
+// repository (build command `npm run build`, deploy command
+// `npx wrangler deploy`). GitHub Pages (.github/workflows/deploy.yml) keeps
+// working alongside this until it's switched off.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "community-view-map",
+  "compatibility_date": "2026-09-28",
+  "assets": {
+    "directory": "./dist",
+    // Any unknown path serves index.html, same as GitHub Pages' 404 fallback
+    // would need a 404.html hack for.
+    "not_found_handling": "single-page-application"
+  }
+}

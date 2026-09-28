@@ -1,0 +1,5 @@
+# Cloudflare only (GitHub Pages ignores this file). The map's GeoJSON is
+# rebuilt by hand every few weeks, so let browsers reuse it for an hour but
+# always revalidate after that rather than caching indefinitely.
+/*.geojson
+  Cache-Control: public, max-age=3600, must-revalidate

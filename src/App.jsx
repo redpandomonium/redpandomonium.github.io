@@ -4,6 +4,9 @@ import 'leaflet/dist/leaflet.css'
 import { MapContainer, TileLayer, CircleMarker, Marker, Tooltip, useMap, ZoomControl } from 'react-leaflet'
 import { CATEGORY_COLORS, UNCATEGORISED_LABEL, colorForCategory, TRAINING_PROVIDER_COLOR } from './categoryColors'
 import useIsMobile from './useIsMobile'
+import TransitLayer from './TransitLayer'
+import { TRANSIT_AGENCIES, TRANSIT_ORDER } from './transitAgencies'
+import FeedbackButton from './Feedback'
 import './App.css'
 
 // Zones are geographic, not judgements about an employer. Everything stays on
@@ -266,6 +269,41 @@ function EducationFilter({ counts, hiddenEducation, onToggle }) {
   )
 }
 
+// An overlay, not a filter -- it adds context (can a resident get there
+// without a car?) rather than narrowing the employer list, so it counts
+// nothing and hides nothing. Off by default like everything else; the ~340 KB
+// of route/stop data isn't even downloaded until the first agency is turned
+// on (see the transit fetch effect in App).
+function TransitFilter({ shownAgencies, onToggle, status }) {
+  return (
+    <FilterSection title="Transit" activeCount={shownAgencies.size} totalCount={TRANSIT_ORDER.length}>
+      {TRANSIT_ORDER.map(agency => {
+        const meta = TRANSIT_AGENCIES[agency]
+        const isActive = shownAgencies.has(agency)
+        return (
+          <button
+            key={agency}
+            type="button"
+            className={`scope-item${isActive ? '' : ' inactive'}`}
+            onClick={() => onToggle(agency)}
+            title={meta.hint}
+          >
+            <svg className="transit-swatch" width="18" height="6" aria-hidden="true">
+              <line x1="0" y1="3" x2="18" y2="3" stroke={meta.color} strokeWidth="2" strokeDasharray={meta.dash || undefined} />
+            </svg>
+            <span className="scope-label">{meta.label}</span>
+          </button>
+        )
+      })}
+      {status === 'loading' && <p className="transit-note">Loading routes&hellip;</p>}
+      {status === 'error' && <p className="transit-note zip-error">Couldn&rsquo;t load transit data.</p>}
+      {status === 'ok' && shownAgencies.size > 0 && (
+        <p className="transit-note">Zoom in close to see stops.</p>
+      )}
+    </FilterSection>
+  )
+}
+
 // The legend lists only categories actually present in the data, so an empty
 // bucket disappears on its own -- and reappears if a future scrape reintroduces
 // one -- without anyone editing this file. Training-provider categories (see
@@ -389,6 +427,13 @@ function App() {
   // because browsing/filtering the ~126-row list, not the map, is the
   // primary task this app is used for.
   const [viewMode, setViewMode] = useState('list')
+  // Shown-set (the reverse of the hidden-sets above) since the overlay starts
+  // off: empty means no transit drawn.
+  const [shownAgencies, setShownAgencies] = useState(() => new Set())
+  // { routes, stops } once loaded; transitError if either file failed.
+  const [transitData, setTransitData] = useState(null)
+  const [transitError, setTransitError] = useState(false)
+  const transitRequested = useRef(false)
 
   useEffect(() => {
     fetch('/employers_geocoded.geojson')
@@ -405,6 +450,22 @@ function App() {
       .then(data => setTrainingProviders(data.features))
       .catch(() => setTrainingProviders([]))
   }, [])
+
+  // Deferred until the visitor first turns an agency on -- most visits never
+  // touch the overlay, and it's ~4x the size of the employer data. The ref
+  // (not state) makes sure toggling agencies on/off while the first request
+  // is in flight doesn't start a second one.
+  useEffect(() => {
+    if (shownAgencies.size === 0 || transitRequested.current) return
+    transitRequested.current = true
+    const load = (path) => fetch(path).then(res => {
+      if (!res.ok) throw new Error(`${path} ${res.status}`)
+      return res.json()
+    })
+    Promise.all([load('/transit_routes.geojson'), load('/transit_stops.geojson')])
+      .then(([routes, stops]) => setTransitData({ routes: routes.features, stops: stops.features }))
+      .catch(() => setTransitError(true))
+  }, [shownAgencies])
 
   // Geocodes zipInput once it's a complete 5-digit ZIP, via Zippopotam.us --
   // free, keyless, CORS-enabled, good enough for "which corner of metro
@@ -585,6 +646,16 @@ function App() {
     })
   }
 
+  const toggleAgency = (agency) => {
+    setShownAgencies(prev => {
+      const next = new Set(prev)
+      if (next.has(agency)) next.delete(agency)
+      else next.add(agency)
+      return next
+    })
+  }
+  const transitStatus = transitError ? 'error' : transitData ? 'ok' : shownAgencies.size ? 'loading' : 'idle'
+
   const handleSelect = (feature) => {
     const [lng, lat] = feature.geometry.coordinates
     setSelected({ lat, lng, id: feature.properties.company, kind: 'employer' })
@@ -670,6 +741,7 @@ function App() {
             url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}"
           />
           <FlyToTarget target={selected} active={mapActive} />
+          <TransitLayer data={transitData} shownAgencies={shownAgencies} isMobile={isMobile} />
           {visibleEmployers.map((feature, i) => {
             const [lng, lat] = feature.geometry.coordinates
             const { company, full_address, category, sub_category, open_job_count } = feature.properties
@@ -715,6 +787,7 @@ function App() {
 
       <div className={`sidebar${isMobile && viewMode !== 'list' ? ' hidden-mobile' : ''}`}>
         <div className="sidebar-header">
+          <FeedbackButton />
           <h2>Employers</h2>
           <p>
             {visibleEmployers.length} location{visibleEmployers.length !== 1 ? 's' : ''}
@@ -745,6 +818,7 @@ function App() {
           onToggle={toggleCategory}
           onToggleAll={toggleAllCategories}
         />
+        <TransitFilter shownAgencies={shownAgencies} onToggle={toggleAgency} status={transitStatus} />
 
         {trainingProviders.length > 0 && (
           <>
