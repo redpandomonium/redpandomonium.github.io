@@ -275,10 +275,14 @@ function EducationFilter({ counts, hiddenEducation, onToggle }) {
 // for that dataset (scope-item.layer-training, .training-swatch) so they
 // still read as a different kind of thing from an employer category, per the
 // reasoning in categoryColors.js.
-function CategoryLegend({ categories, counts, hiddenCategories, trainingCategories, onToggle }) {
+function CategoryLegend({ categories, counts, hiddenCategories, trainingCategories, onToggle, onToggleAll }) {
   const active = categories.length - hiddenCategories.size
+  const allActive = active === categories.length
   return (
     <FilterSection title="Category" activeCount={active} totalCount={categories.length}>
+      <button type="button" className="category-select-all" onClick={() => onToggleAll(!allActive)}>
+        {allActive ? 'Clear all' : 'Select all'}
+      </button>
       <div className="category-legend">
         {categories.map(category => {
           const isActive = !hiddenCategories.has(category)
@@ -553,6 +557,16 @@ function App() {
     })
   }
 
+  // show=true clears the hidden set (every category visible); show=false
+  // resets it to the same full known-category list used to seed initial
+  // state, so "clear all" matches the app's actual resting state rather
+  // than just the categories currently present in the data.
+  const toggleAllCategories = (show) => {
+    setHiddenCategories(
+      show ? new Set() : new Set([...Object.keys(CATEGORY_COLORS), ...TRAINING_CATEGORIES])
+    )
+  }
+
   const toggleEducation = (tier) => {
     setHiddenEducation(prev => {
       const next = new Set(prev)
@@ -643,9 +657,17 @@ function App() {
           style={{ height: '100%', width: '100%' }}
         >
           <ZoomControl position="bottomright" />
+          {/* CARTO's free dark_all tiles now render an "API key required"
+              watermark for anonymous requests, so this uses Esri's free,
+              no-key World Dark Gray basemap instead (base canvas + a
+              transparent reference layer for labels/roads, matching how
+              Esri splits this particular style in two). */}
           <TileLayer
-            url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>'
+            url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}"
+            attribution='&copy; <a href="https://www.esri.com/">Esri</a>'
+          />
+          <TileLayer
+            url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Reference/MapServer/tile/{z}/{y}/{x}"
           />
           <FlyToTarget target={selected} active={mapActive} />
           {visibleEmployers.map((feature, i) => {
@@ -721,6 +743,7 @@ function App() {
           hiddenCategories={hiddenCategories}
           trainingCategories={trainingCategories}
           onToggle={toggleCategory}
+          onToggleAll={toggleAllCategories}
         />
 
         {trainingProviders.length > 0 && (

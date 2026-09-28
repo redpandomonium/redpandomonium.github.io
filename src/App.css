@@ -534,6 +534,25 @@
   color: #b3706f;
 }
 
+.category-select-all {
+  display: block;
+  margin: 0 8px 6px auto;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: #7c9cf5;
+  transition: color 0.15s;
+}
+
+.category-select-all:hover {
+  color: #a5bbf8;
+}
+
 .category-legend {
   flex-shrink: 0;
   display: flex;
